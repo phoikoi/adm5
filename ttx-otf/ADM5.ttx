@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ttFont sfntVersion="OTTO" ttLibVersion="2.5">
+  <GlyphOrder src="ADM5.GlyphOrder.ttx"/>
+  <head src="ADM5._h_e_a_d.ttx"/>
+  <hhea src="ADM5._h_h_e_a.ttx"/>
+  <maxp src="ADM5._m_a_x_p.ttx"/>
+  <OS_2 src="ADM5.O_S_2f_2.ttx"/>
+  <name src="ADM5._n_a_m_e.ttx"/>
+  <cmap src="ADM5._c_m_a_p.ttx"/>
+  <post src="ADM5._p_o_s_t.ttx"/>
+  <CFF src="ADM5.C_F_F_.ttx"/>
+  <FFTM src="ADM5.F_F_T_M_.ttx"/>
+  <hmtx src="ADM5._h_m_t_x.ttx"/>
+</ttFont>

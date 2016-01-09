@@ -1,0 +1,3050 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ttFont ttLibVersion="2.5">
+
+  <glyf>
+
+    <!-- The xMin, yMin, xMax and yMax values
+         will be recalculated by the compiler. -->
+
+    <TTGlyph name=".notdef" xMin="66" yMin="0" xMax="596" yMax="1333">
+      <contour>
+        <pt x="66" y="0" on="1"/>
+        <pt x="66" y="1333" on="1"/>
+        <pt x="596" y="1333" on="1"/>
+        <pt x="596" y="0" on="1"/>
+      </contour>
+      <contour>
+        <pt x="132" y="66" on="1"/>
+        <pt x="530" y="66" on="1"/>
+        <pt x="530" y="1267" on="1"/>
+        <pt x="132" y="1267" on="1"/>
+      </contour>
+      <instructions><assembly>
+          PUSH[ ]  /* 2 values pushed */
+          1 0
+          MDAP[1]
+          ALIGNRP[ ]
+          PUSH[ ]  /* 3 values pushed */
+          7 4 0
+          MIRP[01101]
+          SHP[0]
+          PUSH[ ]  /* 2 values pushed */
+          6 5
+          MDRP[11100]
+          ALIGNRP[ ]
+          PUSH[ ]  /* 3 values pushed */
+          3 2 0
+          MIRP[01101]
+          SHP[0]
+          SVTCA[0]
+          PUSH[ ]  /* 2 values pushed */
+          3 0
+          MDAP[1]
+          ALIGNRP[ ]
+          PUSH[ ]  /* 3 values pushed */
+          5 4 0
+          MIRP[01101]
+          SHP[0]
+          PUSH[ ]  /* 3 values pushed */
+          7 6 1
+          MIRP[11100]
+          ALIGNRP[ ]
+          PUSH[ ]  /* 3 values pushed */
+          1 2 0
+          MIRP[01101]
+          SHP[0]
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name=".null"/><!-- contains no outline data -->
+
+    <TTGlyph name="57504" xMin="0" yMin="0" xMax="641" yMax="1121">
+      <contour>
+        <pt x="240" y="800" on="1"/>
+        <pt x="240" y="961" on="1"/>
+        <pt x="360" y="961" on="1"/>
+        <pt x="360" y="1121" on="1"/>
+        <pt x="521" y="1121" on="1"/>
+        <pt x="521" y="961" on="1"/>
+        <pt x="641" y="961" on="1"/>
+        <pt x="641" y="800" on="1"/>
+        <pt x="521" y="800" on="1"/>
+        <pt x="521" y="480" on="1"/>
+        <pt x="401" y="480" on="1"/>
+        <pt x="401" y="320" on="1"/>
+        <pt x="281" y="320" on="1"/>
+        <pt x="281" y="160" on="1"/>
+        <pt x="161" y="160" on="1"/>
+        <pt x="161" y="0" on="1"/>
+        <pt x="0" y="0" on="1"/>
+        <pt x="0" y="161" on="1"/>
+        <pt x="120" y="161" on="1"/>
+        <pt x="120" y="321" on="1"/>
+        <pt x="240" y="321" on="1"/>
+        <pt x="240" y="481" on="1"/>
+        <pt x="360" y="481" on="1"/>
+        <pt x="360" y="800" on="1"/>
+      </contour>
+      <contour>
+        <pt x="161" y="1121" on="1"/>
+        <pt x="161" y="480" on="1"/>
+        <pt x="0" y="480" on="1"/>
+        <pt x="0" y="1121" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="57505" xMin="0" yMin="0" xMax="641" yMax="1121">
+      <contour>
+        <pt x="161" y="1121" on="1"/>
+        <pt x="161" y="801" on="1"/>
+        <pt x="401" y="801" on="1"/>
+        <pt x="401" y="640" on="1"/>
+        <pt x="281" y="640" on="1"/>
+        <pt x="281" y="481" on="1"/>
+        <pt x="401" y="481" on="1"/>
+        <pt x="401" y="321" on="1"/>
+        <pt x="480" y="321" on="1"/>
+        <pt x="480" y="641" on="1"/>
+        <pt x="641" y="641" on="1"/>
+        <pt x="641" y="0" on="1"/>
+        <pt x="480" y="0" on="1"/>
+        <pt x="480" y="160" on="1"/>
+        <pt x="360" y="160" on="1"/>
+        <pt x="360" y="320" on="1"/>
+        <pt x="281" y="320" on="1"/>
+        <pt x="281" y="0" on="1"/>
+        <pt x="120" y="0" on="1"/>
+        <pt x="120" y="640" on="1"/>
+        <pt x="0" y="640" on="1"/>
+        <pt x="0" y="1121" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="57506" xMin="0" yMin="0" xMax="641" yMax="1121">
+      <contour>
+        <pt x="480" y="960" on="1"/>
+        <pt x="240" y="960" on="1"/>
+        <pt x="161" y="960" on="1"/>
+        <pt x="161" y="801" on="1"/>
+        <pt x="480" y="801" on="1"/>
+      </contour>
+      <contour>
+        <pt x="120" y="1121" on="1"/>
+        <pt x="521" y="1121" on="1"/>
+        <pt x="521" y="961" on="1"/>
+        <pt x="641" y="961" on="1"/>
+        <pt x="641" y="0" on="1"/>
+        <pt x="521" y="0" on="1"/>
+        <pt x="480" y="0" on="1"/>
+        <pt x="401" y="0" on="1"/>
+        <pt x="360" y="0" on="1"/>
+        <pt x="281" y="0" on="1"/>
+        <pt x="240" y="0" on="1"/>
+        <pt x="161" y="0" on="1"/>
+        <pt x="120" y="0" on="1"/>
+        <pt x="0" y="0" on="1"/>
+        <pt x="0" y="961" on="1"/>
+        <pt x="120" y="961" on="1"/>
+      </contour>
+      <contour>
+        <pt x="401" y="640" on="1"/>
+        <pt x="161" y="640" on="1"/>
+        <pt x="161" y="481" on="1"/>
+        <pt x="281" y="481" on="1"/>
+        <pt x="281" y="161" on="1"/>
+        <pt x="360" y="161" on="1"/>
+        <pt x="360" y="481" on="1"/>
+        <pt x="480" y="481" on="1"/>
+        <pt x="480" y="640" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="57520" xMin="0" yMin="0" xMax="641" yMax="1121">
+      <contour>
+        <pt x="0" y="1121" on="1"/>
+        <pt x="281" y="1121" on="1"/>
+        <pt x="281" y="961" on="1"/>
+        <pt x="401" y="961" on="1"/>
+        <pt x="401" y="801" on="1"/>
+        <pt x="521" y="801" on="1"/>
+        <pt x="521" y="641" on="1"/>
+        <pt x="641" y="641" on="1"/>
+        <pt x="641" y="480" on="1"/>
+        <pt x="521" y="480" on="1"/>
+        <pt x="521" y="320" on="1"/>
+        <pt x="401" y="320" on="1"/>
+        <pt x="401" y="160" on="1"/>
+        <pt x="281" y="160" on="1"/>
+        <pt x="281" y="0" on="1"/>
+        <pt x="161" y="0" on="1"/>
+        <pt x="120" y="0" on="1"/>
+        <pt x="0" y="0" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="57521" xMin="0" yMin="0" xMax="641" yMax="1121">
+      <contour>
+        <pt x="0" y="960" on="1"/>
+        <pt x="0" y="1121" on="1"/>
+        <pt x="281" y="1121" on="1"/>
+        <pt x="281" y="961" on="1"/>
+        <pt x="401" y="961" on="1"/>
+        <pt x="401" y="801" on="1"/>
+        <pt x="521" y="801" on="1"/>
+        <pt x="521" y="641" on="1"/>
+        <pt x="641" y="641" on="1"/>
+        <pt x="641" y="480" on="1"/>
+        <pt x="521" y="480" on="1"/>
+        <pt x="521" y="320" on="1"/>
+        <pt x="401" y="320" on="1"/>
+        <pt x="401" y="160" on="1"/>
+        <pt x="281" y="160" on="1"/>
+        <pt x="281" y="0" on="1"/>
+        <pt x="161" y="0" on="1"/>
+        <pt x="120" y="0" on="1"/>
+        <pt x="0" y="0" on="1"/>
+        <pt x="0" y="161" on="1"/>
+        <pt x="240" y="161" on="1"/>
+        <pt x="240" y="321" on="1"/>
+        <pt x="360" y="321" on="1"/>
+        <pt x="360" y="481" on="1"/>
+        <pt x="480" y="481" on="1"/>
+        <pt x="480" y="640" on="1"/>
+        <pt x="360" y="640" on="1"/>
+        <pt x="360" y="800" on="1"/>
+        <pt x="240" y="800" on="1"/>
+        <pt x="240" y="960" on="1"/>
+        <pt x="120" y="960" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="57522" xMin="0" yMin="0" xMax="641" yMax="1121">
+      <contour>
+        <pt x="0" y="480" on="1"/>
+        <pt x="0" y="641" on="1"/>
+        <pt x="120" y="641" on="1"/>
+        <pt x="120" y="801" on="1"/>
+        <pt x="240" y="801" on="1"/>
+        <pt x="240" y="961" on="1"/>
+        <pt x="360" y="961" on="1"/>
+        <pt x="360" y="1121" on="1"/>
+        <pt x="641" y="1121" on="1"/>
+        <pt x="641" y="0" on="1"/>
+        <pt x="521" y="0" on="1"/>
+        <pt x="480" y="0" on="1"/>
+        <pt x="360" y="0" on="1"/>
+        <pt x="360" y="160" on="1"/>
+        <pt x="240" y="160" on="1"/>
+        <pt x="240" y="320" on="1"/>
+        <pt x="120" y="320" on="1"/>
+        <pt x="120" y="480" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="57523" xMin="0" yMin="0" xMax="641" yMax="1121">
+      <contour>
+        <pt x="0" y="480" on="1"/>
+        <pt x="0" y="641" on="1"/>
+        <pt x="120" y="641" on="1"/>
+        <pt x="120" y="801" on="1"/>
+        <pt x="240" y="801" on="1"/>
+        <pt x="240" y="961" on="1"/>
+        <pt x="360" y="961" on="1"/>
+        <pt x="360" y="1121" on="1"/>
+        <pt x="641" y="1121" on="1"/>
+        <pt x="641" y="960" on="1"/>
+        <pt x="480" y="960" on="1"/>
+        <pt x="401" y="960" on="1"/>
+        <pt x="401" y="800" on="1"/>
+        <pt x="281" y="800" on="1"/>
+        <pt x="281" y="640" on="1"/>
+        <pt x="161" y="640" on="1"/>
+        <pt x="161" y="481" on="1"/>
+        <pt x="281" y="481" on="1"/>
+        <pt x="281" y="321" on="1"/>
+        <pt x="401" y="321" on="1"/>
+        <pt x="401" y="161" on="1"/>
+        <pt x="641" y="161" on="1"/>
+        <pt x="641" y="0" on="1"/>
+        <pt x="521" y="0" on="1"/>
+        <pt x="480" y="0" on="1"/>
+        <pt x="360" y="0" on="1"/>
+        <pt x="360" y="160" on="1"/>
+        <pt x="240" y="160" on="1"/>
+        <pt x="240" y="320" on="1"/>
+        <pt x="120" y="320" on="1"/>
+        <pt x="120" y="480" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="A" xMin="0" yMin="0" xMax="641" yMax="1121">
+      <contour>
+        <pt x="281" y="960" on="1"/>
+        <pt x="281" y="800" on="1"/>
+        <pt x="161" y="800" on="1"/>
+        <pt x="161" y="481" on="1"/>
+        <pt x="480" y="481" on="1"/>
+        <pt x="480" y="800" on="1"/>
+        <pt x="360" y="800" on="1"/>
+        <pt x="360" y="960" on="1"/>
+      </contour>
+      <contour>
+        <pt x="240" y="961" on="1"/>
+        <pt x="240" y="1121" on="1"/>
+        <pt x="401" y="1121" on="1"/>
+        <pt x="401" y="961" on="1"/>
+        <pt x="521" y="961" on="1"/>
+        <pt x="521" y="801" on="1"/>
+        <pt x="641" y="801" on="1"/>
+        <pt x="641" y="0" on="1"/>
+        <pt x="480" y="0" on="1"/>
+        <pt x="480" y="320" on="1"/>
+        <pt x="161" y="320" on="1"/>
+        <pt x="161" y="0" on="1"/>
+        <pt x="0" y="0" on="1"/>
+        <pt x="0" y="801" on="1"/>
+        <pt x="120" y="801" on="1"/>
+        <pt x="120" y="961" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="B" xMin="0" yMin="0" xMax="641" yMax="1121">
+      <contour>
+        <pt x="0" y="1121" on="1"/>
+        <pt x="521" y="1121" on="1"/>
+        <pt x="521" y="961" on="1"/>
+        <pt x="641" y="961" on="1"/>
+        <pt x="641" y="640" on="1"/>
+        <pt x="521" y="640" on="1"/>
+        <pt x="521" y="481" on="1"/>
+        <pt x="641" y="481" on="1"/>
+        <pt x="641" y="160" on="1"/>
+        <pt x="521" y="160" on="1"/>
+        <pt x="521" y="0" on="1"/>
+        <pt x="401" y="0" on="1"/>
+        <pt x="360" y="0" on="1"/>
+        <pt x="281" y="0" on="1"/>
+        <pt x="240" y="0" on="1"/>
+        <pt x="161" y="0" on="1"/>
+        <pt x="120" y="0" on="1"/>
+        <pt x="0" y="0" on="1"/>
+      </contour>
+      <contour>
+        <pt x="480" y="960" on="1"/>
+        <pt x="161" y="960" on="1"/>
+        <pt x="161" y="641" on="1"/>
+        <pt x="480" y="641" on="1"/>
+      </contour>
+      <contour>
+        <pt x="480" y="480" on="1"/>
+        <pt x="161" y="480" on="1"/>
+        <pt x="161" y="161" on="1"/>
+        <pt x="480" y="161" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="C" xMin="0" yMin="0" xMax="641" yMax="1121">
+      <contour>
+        <pt x="480" y="960" on="1"/>
+        <pt x="240" y="960" on="1"/>
+        <pt x="161" y="960" on="1"/>
+        <pt x="161" y="161" on="1"/>
+        <pt x="480" y="161" on="1"/>
+        <pt x="480" y="321" on="1"/>
+        <pt x="641" y="321" on="1"/>
+        <pt x="641" y="160" on="1"/>
+        <pt x="521" y="160" on="1"/>
+        <pt x="521" y="0" on="1"/>
+        <pt x="401" y="0" on="1"/>
+        <pt x="360" y="0" on="1"/>
+        <pt x="281" y="0" on="1"/>
+        <pt x="240" y="0" on="1"/>
+        <pt x="120" y="0" on="1"/>
+        <pt x="120" y="160" on="1"/>
+        <pt x="0" y="160" on="1"/>
+        <pt x="0" y="961" on="1"/>
+        <pt x="120" y="961" on="1"/>
+        <pt x="120" y="1121" on="1"/>
+        <pt x="521" y="1121" on="1"/>
+        <pt x="521" y="961" on="1"/>
+        <pt x="641" y="961" on="1"/>
+        <pt x="641" y="800" on="1"/>
+        <pt x="480" y="800" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="D" xMin="0" yMin="0" xMax="641" yMax="1121">
+      <contour>
+        <pt x="0" y="1121" on="1"/>
+        <pt x="401" y="1121" on="1"/>
+        <pt x="401" y="961" on="1"/>
+        <pt x="521" y="961" on="1"/>
+        <pt x="521" y="801" on="1"/>
+        <pt x="641" y="801" on="1"/>
+        <pt x="641" y="320" on="1"/>
+        <pt x="521" y="320" on="1"/>
+        <pt x="521" y="160" on="1"/>
+        <pt x="401" y="160" on="1"/>
+        <pt x="401" y="0" on="1"/>
+        <pt x="281" y="0" on="1"/>
+        <pt x="240" y="0" on="1"/>
+        <pt x="161" y="0" on="1"/>
+        <pt x="120" y="0" on="1"/>
+        <pt x="0" y="0" on="1"/>
+      </contour>
+      <contour>
+        <pt x="360" y="960" on="1"/>
+        <pt x="161" y="960" on="1"/>
+        <pt x="161" y="161" on="1"/>
+        <pt x="360" y="161" on="1"/>
+        <pt x="360" y="321" on="1"/>
+        <pt x="480" y="321" on="1"/>
+        <pt x="480" y="800" on="1"/>
+        <pt x="360" y="800" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="E" xMin="0" yMin="0" xMax="641" yMax="1121">
+      <contour>
+        <pt x="0" y="1121" on="1"/>
+        <pt x="641" y="1121" on="1"/>
+        <pt x="641" y="960" on="1"/>
+        <pt x="161" y="960" on="1"/>
+        <pt x="161" y="641" on="1"/>
+        <pt x="521" y="641" on="1"/>
+        <pt x="521" y="480" on="1"/>
+        <pt x="161" y="480" on="1"/>
+        <pt x="161" y="161" on="1"/>
+        <pt x="641" y="161" on="1"/>
+        <pt x="641" y="0" on="1"/>
+        <pt x="521" y="0" on="1"/>
+        <pt x="480" y="0" on="1"/>
+        <pt x="401" y="0" on="1"/>
+        <pt x="360" y="0" on="1"/>
+        <pt x="281" y="0" on="1"/>
+        <pt x="240" y="0" on="1"/>
+        <pt x="161" y="0" on="1"/>
+        <pt x="120" y="0" on="1"/>
+        <pt x="0" y="0" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="F" xMin="0" yMin="0" xMax="641" yMax="1121">
+      <contour>
+        <pt x="0" y="1121" on="1"/>
+        <pt x="641" y="1121" on="1"/>
+        <pt x="641" y="960" on="1"/>
+        <pt x="161" y="960" on="1"/>
+        <pt x="161" y="641" on="1"/>
+        <pt x="521" y="641" on="1"/>
+        <pt x="521" y="480" on="1"/>
+        <pt x="161" y="480" on="1"/>
+        <pt x="161" y="0" on="1"/>
+        <pt x="0" y="0" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="G" xMin="0" yMin="0" xMax="641" yMax="1121">
+      <contour>
+        <pt x="360" y="320" on="1"/>
+        <pt x="360" y="481" on="1"/>
+        <pt x="641" y="481" on="1"/>
+        <pt x="641" y="0" on="1"/>
+        <pt x="521" y="0" on="1"/>
+        <pt x="480" y="0" on="1"/>
+        <pt x="401" y="0" on="1"/>
+        <pt x="360" y="0" on="1"/>
+        <pt x="281" y="0" on="1"/>
+        <pt x="240" y="0" on="1"/>
+        <pt x="120" y="0" on="1"/>
+        <pt x="120" y="160" on="1"/>
+        <pt x="0" y="160" on="1"/>
+        <pt x="0" y="961" on="1"/>
+        <pt x="120" y="961" on="1"/>
+        <pt x="120" y="1121" on="1"/>
+        <pt x="641" y="1121" on="1"/>
+        <pt x="641" y="960" on="1"/>
+        <pt x="240" y="960" on="1"/>
+        <pt x="161" y="960" on="1"/>
+        <pt x="161" y="161" on="1"/>
+        <pt x="480" y="161" on="1"/>
+        <pt x="480" y="320" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="H" xMin="0" yMin="0" xMax="641" yMax="1121">
+      <contour>
+        <pt x="161" y="1121" on="1"/>
+        <pt x="161" y="641" on="1"/>
+        <pt x="480" y="641" on="1"/>
+        <pt x="480" y="1121" on="1"/>
+        <pt x="641" y="1121" on="1"/>
+        <pt x="641" y="0" on="1"/>
+        <pt x="480" y="0" on="1"/>
+        <pt x="480" y="480" on="1"/>
+        <pt x="401" y="480" on="1"/>
+        <pt x="161" y="480" on="1"/>
+        <pt x="161" y="0" on="1"/>
+        <pt x="0" y="0" on="1"/>
+        <pt x="0" y="1121" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="I" xMin="120" yMin="0" xMax="521" yMax="1121">
+      <contour>
+        <pt x="120" y="960" on="1"/>
+        <pt x="120" y="1121" on="1"/>
+        <pt x="521" y="1121" on="1"/>
+        <pt x="521" y="960" on="1"/>
+        <pt x="401" y="960" on="1"/>
+        <pt x="401" y="161" on="1"/>
+        <pt x="521" y="161" on="1"/>
+        <pt x="521" y="0" on="1"/>
+        <pt x="401" y="0" on="1"/>
+        <pt x="360" y="0" on="1"/>
+        <pt x="281" y="0" on="1"/>
+        <pt x="240" y="0" on="1"/>
+        <pt x="120" y="0" on="1"/>
+        <pt x="120" y="161" on="1"/>
+        <pt x="240" y="161" on="1"/>
+        <pt x="240" y="960" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="J" xMin="0" yMin="0" xMax="641" yMax="1121">
+      <contour>
+        <pt x="0" y="160" on="1"/>
+        <pt x="0" y="321" on="1"/>
+        <pt x="161" y="321" on="1"/>
+        <pt x="161" y="161" on="1"/>
+        <pt x="480" y="161" on="1"/>
+        <pt x="480" y="1121" on="1"/>
+        <pt x="641" y="1121" on="1"/>
+        <pt x="641" y="160" on="1"/>
+        <pt x="521" y="160" on="1"/>
+        <pt x="521" y="0" on="1"/>
+        <pt x="401" y="0" on="1"/>
+        <pt x="360" y="0" on="1"/>
+        <pt x="281" y="0" on="1"/>
+        <pt x="240" y="0" on="1"/>
+        <pt x="120" y="0" on="1"/>
+        <pt x="120" y="160" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="K" xMin="0" yMin="0" xMax="641" yMax="1121">
+      <contour>
+        <pt x="161" y="1121" on="1"/>
+        <pt x="161" y="641" on="1"/>
+        <pt x="240" y="641" on="1"/>
+        <pt x="240" y="801" on="1"/>
+        <pt x="360" y="801" on="1"/>
+        <pt x="360" y="961" on="1"/>
+        <pt x="480" y="961" on="1"/>
+        <pt x="480" y="1121" on="1"/>
+        <pt x="641" y="1121" on="1"/>
+        <pt x="641" y="960" on="1"/>
+        <pt x="521" y="960" on="1"/>
+        <pt x="521" y="800" on="1"/>
+        <pt x="401" y="800" on="1"/>
+        <pt x="401" y="640" on="1"/>
+        <pt x="281" y="640" on="1"/>
+        <pt x="281" y="481" on="1"/>
+        <pt x="401" y="481" on="1"/>
+        <pt x="401" y="321" on="1"/>
+        <pt x="521" y="321" on="1"/>
+        <pt x="521" y="161" on="1"/>
+        <pt x="641" y="161" on="1"/>
+        <pt x="641" y="0" on="1"/>
+        <pt x="480" y="0" on="1"/>
+        <pt x="480" y="160" on="1"/>
+        <pt x="360" y="160" on="1"/>
+        <pt x="360" y="320" on="1"/>
+        <pt x="240" y="320" on="1"/>
+        <pt x="240" y="480" on="1"/>
+        <pt x="161" y="480" on="1"/>
+        <pt x="161" y="0" on="1"/>
+        <pt x="0" y="0" on="1"/>
+        <pt x="0" y="1121" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="L" xMin="0" yMin="0" xMax="641" yMax="1121">
+      <contour>
+        <pt x="161" y="1121" on="1"/>
+        <pt x="161" y="161" on="1"/>
+        <pt x="641" y="161" on="1"/>
+        <pt x="641" y="0" on="1"/>
+        <pt x="521" y="0" on="1"/>
+        <pt x="480" y="0" on="1"/>
+        <pt x="401" y="0" on="1"/>
+        <pt x="360" y="0" on="1"/>
+        <pt x="281" y="0" on="1"/>
+        <pt x="240" y="0" on="1"/>
+        <pt x="161" y="0" on="1"/>
+        <pt x="120" y="0" on="1"/>
+        <pt x="0" y="0" on="1"/>
+        <pt x="0" y="1121" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="M" xMin="0" yMin="0" xMax="641" yMax="1121">
+      <contour>
+        <pt x="0" y="0" on="1"/>
+        <pt x="0" y="1121" on="1"/>
+        <pt x="161" y="1121" on="1"/>
+        <pt x="161" y="961" on="1"/>
+        <pt x="281" y="961" on="1"/>
+        <pt x="281" y="801" on="1"/>
+        <pt x="360" y="801" on="1"/>
+        <pt x="360" y="961" on="1"/>
+        <pt x="480" y="961" on="1"/>
+        <pt x="480" y="1121" on="1"/>
+        <pt x="641" y="1121" on="1"/>
+        <pt x="641" y="0" on="1"/>
+        <pt x="480" y="0" on="1"/>
+        <pt x="480" y="800" on="1"/>
+        <pt x="401" y="800" on="1"/>
+        <pt x="401" y="480" on="1"/>
+        <pt x="240" y="480" on="1"/>
+        <pt x="240" y="800" on="1"/>
+        <pt x="161" y="800" on="1"/>
+        <pt x="161" y="0" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="N" xMin="0" yMin="0" xMax="641" yMax="1121">
+      <contour>
+        <pt x="161" y="1121" on="1"/>
+        <pt x="161" y="801" on="1"/>
+        <pt x="281" y="801" on="1"/>
+        <pt x="281" y="641" on="1"/>
+        <pt x="401" y="641" on="1"/>
+        <pt x="401" y="481" on="1"/>
+        <pt x="480" y="481" on="1"/>
+        <pt x="480" y="1121" on="1"/>
+        <pt x="641" y="1121" on="1"/>
+        <pt x="641" y="0" on="1"/>
+        <pt x="480" y="0" on="1"/>
+        <pt x="480" y="320" on="1"/>
+        <pt x="360" y="320" on="1"/>
+        <pt x="360" y="480" on="1"/>
+        <pt x="240" y="480" on="1"/>
+        <pt x="240" y="640" on="1"/>
+        <pt x="161" y="640" on="1"/>
+        <pt x="161" y="0" on="1"/>
+        <pt x="0" y="0" on="1"/>
+        <pt x="0" y="1121" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="O" xMin="0" yMin="0" xMax="641" yMax="1121">
+      <contour>
+        <pt x="480" y="960" on="1"/>
+        <pt x="240" y="960" on="1"/>
+        <pt x="161" y="960" on="1"/>
+        <pt x="161" y="161" on="1"/>
+        <pt x="480" y="161" on="1"/>
+      </contour>
+      <contour>
+        <pt x="120" y="1121" on="1"/>
+        <pt x="521" y="1121" on="1"/>
+        <pt x="521" y="961" on="1"/>
+        <pt x="641" y="961" on="1"/>
+        <pt x="641" y="160" on="1"/>
+        <pt x="521" y="160" on="1"/>
+        <pt x="521" y="0" on="1"/>
+        <pt x="401" y="0" on="1"/>
+        <pt x="360" y="0" on="1"/>
+        <pt x="281" y="0" on="1"/>
+        <pt x="240" y="0" on="1"/>
+        <pt x="120" y="0" on="1"/>
+        <pt x="120" y="160" on="1"/>
+        <pt x="0" y="160" on="1"/>
+        <pt x="0" y="961" on="1"/>
+        <pt x="120" y="961" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="P" xMin="0" yMin="0" xMax="641" yMax="1121">
+      <contour>
+        <pt x="0" y="1121" on="1"/>
+        <pt x="521" y="1121" on="1"/>
+        <pt x="521" y="961" on="1"/>
+        <pt x="641" y="961" on="1"/>
+        <pt x="641" y="640" on="1"/>
+        <pt x="521" y="640" on="1"/>
+        <pt x="521" y="480" on="1"/>
+        <pt x="161" y="480" on="1"/>
+        <pt x="161" y="0" on="1"/>
+        <pt x="0" y="0" on="1"/>
+      </contour>
+      <contour>
+        <pt x="480" y="960" on="1"/>
+        <pt x="161" y="960" on="1"/>
+        <pt x="161" y="641" on="1"/>
+        <pt x="480" y="641" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="Q" xMin="0" yMin="0" xMax="641" yMax="1121">
+      <contour>
+        <pt x="240" y="320" on="1"/>
+        <pt x="240" y="481" on="1"/>
+        <pt x="401" y="481" on="1"/>
+        <pt x="401" y="321" on="1"/>
+        <pt x="480" y="321" on="1"/>
+        <pt x="480" y="960" on="1"/>
+        <pt x="240" y="960" on="1"/>
+        <pt x="161" y="960" on="1"/>
+        <pt x="161" y="161" on="1"/>
+        <pt x="360" y="161" on="1"/>
+        <pt x="360" y="320" on="1"/>
+      </contour>
+      <contour>
+        <pt x="120" y="1121" on="1"/>
+        <pt x="521" y="1121" on="1"/>
+        <pt x="521" y="961" on="1"/>
+        <pt x="641" y="961" on="1"/>
+        <pt x="641" y="320" on="1"/>
+        <pt x="521" y="320" on="1"/>
+        <pt x="521" y="161" on="1"/>
+        <pt x="641" y="161" on="1"/>
+        <pt x="641" y="0" on="1"/>
+        <pt x="480" y="0" on="1"/>
+        <pt x="480" y="160" on="1"/>
+        <pt x="401" y="160" on="1"/>
+        <pt x="401" y="0" on="1"/>
+        <pt x="281" y="0" on="1"/>
+        <pt x="240" y="0" on="1"/>
+        <pt x="120" y="0" on="1"/>
+        <pt x="120" y="160" on="1"/>
+        <pt x="0" y="160" on="1"/>
+        <pt x="0" y="961" on="1"/>
+        <pt x="120" y="961" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="R" xMin="0" yMin="0" xMax="641" yMax="1121">
+      <contour>
+        <pt x="0" y="1121" on="1"/>
+        <pt x="521" y="1121" on="1"/>
+        <pt x="521" y="961" on="1"/>
+        <pt x="641" y="961" on="1"/>
+        <pt x="641" y="640" on="1"/>
+        <pt x="521" y="640" on="1"/>
+        <pt x="521" y="480" on="1"/>
+        <pt x="401" y="480" on="1"/>
+        <pt x="401" y="321" on="1"/>
+        <pt x="521" y="321" on="1"/>
+        <pt x="521" y="161" on="1"/>
+        <pt x="641" y="161" on="1"/>
+        <pt x="641" y="0" on="1"/>
+        <pt x="480" y="0" on="1"/>
+        <pt x="480" y="160" on="1"/>
+        <pt x="360" y="160" on="1"/>
+        <pt x="360" y="320" on="1"/>
+        <pt x="240" y="320" on="1"/>
+        <pt x="240" y="480" on="1"/>
+        <pt x="161" y="480" on="1"/>
+        <pt x="161" y="0" on="1"/>
+        <pt x="0" y="0" on="1"/>
+      </contour>
+      <contour>
+        <pt x="480" y="960" on="1"/>
+        <pt x="161" y="960" on="1"/>
+        <pt x="161" y="641" on="1"/>
+        <pt x="480" y="641" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="S" xMin="0" yMin="0" xMax="641" yMax="1121">
+      <contour>
+        <pt x="0" y="160" on="1"/>
+        <pt x="0" y="321" on="1"/>
+        <pt x="161" y="321" on="1"/>
+        <pt x="161" y="161" on="1"/>
+        <pt x="480" y="161" on="1"/>
+        <pt x="480" y="480" on="1"/>
+        <pt x="240" y="480" on="1"/>
+        <pt x="120" y="480" on="1"/>
+        <pt x="120" y="640" on="1"/>
+        <pt x="0" y="640" on="1"/>
+        <pt x="0" y="961" on="1"/>
+        <pt x="120" y="961" on="1"/>
+        <pt x="120" y="1121" on="1"/>
+        <pt x="521" y="1121" on="1"/>
+        <pt x="521" y="961" on="1"/>
+        <pt x="641" y="961" on="1"/>
+        <pt x="641" y="800" on="1"/>
+        <pt x="480" y="800" on="1"/>
+        <pt x="480" y="960" on="1"/>
+        <pt x="240" y="960" on="1"/>
+        <pt x="161" y="960" on="1"/>
+        <pt x="161" y="641" on="1"/>
+        <pt x="521" y="641" on="1"/>
+        <pt x="521" y="481" on="1"/>
+        <pt x="641" y="481" on="1"/>
+        <pt x="641" y="160" on="1"/>
+        <pt x="521" y="160" on="1"/>
+        <pt x="521" y="0" on="1"/>
+        <pt x="401" y="0" on="1"/>
+        <pt x="360" y="0" on="1"/>
+        <pt x="281" y="0" on="1"/>
+        <pt x="240" y="0" on="1"/>
+        <pt x="120" y="0" on="1"/>
+        <pt x="120" y="160" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="T" xMin="0" yMin="0" xMax="641" yMax="1121">
+      <contour>
+        <pt x="0" y="960" on="1"/>
+        <pt x="0" y="1121" on="1"/>
+        <pt x="641" y="1121" on="1"/>
+        <pt x="641" y="960" on="1"/>
+        <pt x="401" y="960" on="1"/>
+        <pt x="401" y="0" on="1"/>
+        <pt x="240" y="0" on="1"/>
+        <pt x="240" y="960" on="1"/>
+        <pt x="161" y="960" on="1"/>
+        <pt x="120" y="960" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="U" xMin="0" yMin="0" xMax="641" yMax="1121">
+      <contour>
+        <pt x="161" y="1121" on="1"/>
+        <pt x="161" y="161" on="1"/>
+        <pt x="480" y="161" on="1"/>
+        <pt x="480" y="1121" on="1"/>
+        <pt x="641" y="1121" on="1"/>
+        <pt x="641" y="160" on="1"/>
+        <pt x="521" y="160" on="1"/>
+        <pt x="521" y="0" on="1"/>
+        <pt x="401" y="0" on="1"/>
+        <pt x="360" y="0" on="1"/>
+        <pt x="281" y="0" on="1"/>
+        <pt x="240" y="0" on="1"/>
+        <pt x="120" y="0" on="1"/>
+        <pt x="120" y="160" on="1"/>
+        <pt x="0" y="160" on="1"/>
+        <pt x="0" y="1121" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="V" xMin="0" yMin="0" xMax="641" yMax="1121">
+      <contour>
+        <pt x="161" y="1121" on="1"/>
+        <pt x="161" y="321" on="1"/>
+        <pt x="281" y="321" on="1"/>
+        <pt x="281" y="161" on="1"/>
+        <pt x="360" y="161" on="1"/>
+        <pt x="360" y="321" on="1"/>
+        <pt x="480" y="321" on="1"/>
+        <pt x="480" y="1121" on="1"/>
+        <pt x="641" y="1121" on="1"/>
+        <pt x="641" y="320" on="1"/>
+        <pt x="521" y="320" on="1"/>
+        <pt x="521" y="160" on="1"/>
+        <pt x="401" y="160" on="1"/>
+        <pt x="401" y="0" on="1"/>
+        <pt x="240" y="0" on="1"/>
+        <pt x="240" y="160" on="1"/>
+        <pt x="120" y="160" on="1"/>
+        <pt x="120" y="320" on="1"/>
+        <pt x="0" y="320" on="1"/>
+        <pt x="0" y="1121" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="W" xMin="0" yMin="0" xMax="641" yMax="1121">
+      <contour>
+        <pt x="161" y="1121" on="1"/>
+        <pt x="161" y="321" on="1"/>
+        <pt x="240" y="321" on="1"/>
+        <pt x="240" y="641" on="1"/>
+        <pt x="401" y="641" on="1"/>
+        <pt x="401" y="321" on="1"/>
+        <pt x="480" y="321" on="1"/>
+        <pt x="480" y="1121" on="1"/>
+        <pt x="641" y="1121" on="1"/>
+        <pt x="641" y="0" on="1"/>
+        <pt x="480" y="0" on="1"/>
+        <pt x="480" y="160" on="1"/>
+        <pt x="401" y="160" on="1"/>
+        <pt x="161" y="160" on="1"/>
+        <pt x="161" y="0" on="1"/>
+        <pt x="0" y="0" on="1"/>
+        <pt x="0" y="1121" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="X" xMin="0" yMin="0" xMax="641" yMax="1121">
+      <contour>
+        <pt x="161" y="1121" on="1"/>
+        <pt x="161" y="801" on="1"/>
+        <pt x="281" y="801" on="1"/>
+        <pt x="281" y="641" on="1"/>
+        <pt x="360" y="641" on="1"/>
+        <pt x="360" y="801" on="1"/>
+        <pt x="480" y="801" on="1"/>
+        <pt x="480" y="1121" on="1"/>
+        <pt x="641" y="1121" on="1"/>
+        <pt x="641" y="800" on="1"/>
+        <pt x="521" y="800" on="1"/>
+        <pt x="521" y="640" on="1"/>
+        <pt x="401" y="640" on="1"/>
+        <pt x="401" y="481" on="1"/>
+        <pt x="521" y="481" on="1"/>
+        <pt x="521" y="321" on="1"/>
+        <pt x="641" y="321" on="1"/>
+        <pt x="641" y="0" on="1"/>
+        <pt x="480" y="0" on="1"/>
+        <pt x="480" y="320" on="1"/>
+        <pt x="360" y="320" on="1"/>
+        <pt x="360" y="480" on="1"/>
+        <pt x="281" y="480" on="1"/>
+        <pt x="281" y="320" on="1"/>
+        <pt x="161" y="320" on="1"/>
+        <pt x="161" y="0" on="1"/>
+        <pt x="0" y="0" on="1"/>
+        <pt x="0" y="321" on="1"/>
+        <pt x="120" y="321" on="1"/>
+        <pt x="120" y="481" on="1"/>
+        <pt x="240" y="481" on="1"/>
+        <pt x="240" y="640" on="1"/>
+        <pt x="120" y="640" on="1"/>
+        <pt x="120" y="800" on="1"/>
+        <pt x="0" y="800" on="1"/>
+        <pt x="0" y="1121" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="Y" xMin="0" yMin="0" xMax="641" yMax="1121">
+      <contour>
+        <pt x="161" y="1121" on="1"/>
+        <pt x="161" y="801" on="1"/>
+        <pt x="281" y="801" on="1"/>
+        <pt x="281" y="641" on="1"/>
+        <pt x="360" y="641" on="1"/>
+        <pt x="360" y="801" on="1"/>
+        <pt x="480" y="801" on="1"/>
+        <pt x="480" y="1121" on="1"/>
+        <pt x="641" y="1121" on="1"/>
+        <pt x="641" y="800" on="1"/>
+        <pt x="521" y="800" on="1"/>
+        <pt x="521" y="640" on="1"/>
+        <pt x="401" y="640" on="1"/>
+        <pt x="401" y="0" on="1"/>
+        <pt x="240" y="0" on="1"/>
+        <pt x="240" y="640" on="1"/>
+        <pt x="120" y="640" on="1"/>
+        <pt x="120" y="800" on="1"/>
+        <pt x="0" y="800" on="1"/>
+        <pt x="0" y="1121" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="Z" xMin="0" yMin="0" xMax="641" yMax="1121">
+      <contour>
+        <pt x="0" y="960" on="1"/>
+        <pt x="0" y="1121" on="1"/>
+        <pt x="641" y="1121" on="1"/>
+        <pt x="641" y="800" on="1"/>
+        <pt x="521" y="800" on="1"/>
+        <pt x="521" y="640" on="1"/>
+        <pt x="401" y="640" on="1"/>
+        <pt x="401" y="480" on="1"/>
+        <pt x="281" y="480" on="1"/>
+        <pt x="281" y="320" on="1"/>
+        <pt x="161" y="320" on="1"/>
+        <pt x="161" y="161" on="1"/>
+        <pt x="641" y="161" on="1"/>
+        <pt x="641" y="0" on="1"/>
+        <pt x="521" y="0" on="1"/>
+        <pt x="480" y="0" on="1"/>
+        <pt x="401" y="0" on="1"/>
+        <pt x="360" y="0" on="1"/>
+        <pt x="281" y="0" on="1"/>
+        <pt x="240" y="0" on="1"/>
+        <pt x="161" y="0" on="1"/>
+        <pt x="120" y="0" on="1"/>
+        <pt x="0" y="0" on="1"/>
+        <pt x="0" y="321" on="1"/>
+        <pt x="120" y="321" on="1"/>
+        <pt x="120" y="481" on="1"/>
+        <pt x="240" y="481" on="1"/>
+        <pt x="240" y="641" on="1"/>
+        <pt x="360" y="641" on="1"/>
+        <pt x="360" y="801" on="1"/>
+        <pt x="480" y="801" on="1"/>
+        <pt x="480" y="960" on="1"/>
+        <pt x="401" y="960" on="1"/>
+        <pt x="120" y="960" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="a" xMin="0" yMin="0" xMax="641" yMax="801">
+      <contour>
+        <pt x="360" y="640" on="1"/>
+        <pt x="240" y="640" on="1"/>
+        <pt x="161" y="640" on="1"/>
+        <pt x="161" y="161" on="1"/>
+        <pt x="360" y="161" on="1"/>
+        <pt x="360" y="321" on="1"/>
+        <pt x="480" y="321" on="1"/>
+        <pt x="480" y="480" on="1"/>
+        <pt x="360" y="480" on="1"/>
+      </contour>
+      <contour>
+        <pt x="120" y="801" on="1"/>
+        <pt x="401" y="801" on="1"/>
+        <pt x="401" y="641" on="1"/>
+        <pt x="480" y="641" on="1"/>
+        <pt x="480" y="801" on="1"/>
+        <pt x="641" y="801" on="1"/>
+        <pt x="641" y="0" on="1"/>
+        <pt x="480" y="0" on="1"/>
+        <pt x="480" y="160" on="1"/>
+        <pt x="401" y="160" on="1"/>
+        <pt x="401" y="0" on="1"/>
+        <pt x="281" y="0" on="1"/>
+        <pt x="240" y="0" on="1"/>
+        <pt x="120" y="0" on="1"/>
+        <pt x="120" y="160" on="1"/>
+        <pt x="0" y="160" on="1"/>
+        <pt x="0" y="641" on="1"/>
+        <pt x="120" y="641" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="ampersand" xMin="0" yMin="0" xMax="641" yMax="1121">
+      <contour>
+        <pt x="281" y="960" on="1"/>
+        <pt x="281" y="641" on="1"/>
+        <pt x="360" y="641" on="1"/>
+        <pt x="360" y="960" on="1"/>
+      </contour>
+      <contour>
+        <pt x="240" y="961" on="1"/>
+        <pt x="240" y="1121" on="1"/>
+        <pt x="401" y="1121" on="1"/>
+        <pt x="401" y="961" on="1"/>
+        <pt x="521" y="961" on="1"/>
+        <pt x="521" y="640" on="1"/>
+        <pt x="401" y="640" on="1"/>
+        <pt x="401" y="321" on="1"/>
+        <pt x="480" y="321" on="1"/>
+        <pt x="480" y="481" on="1"/>
+        <pt x="641" y="481" on="1"/>
+        <pt x="641" y="320" on="1"/>
+        <pt x="521" y="320" on="1"/>
+        <pt x="521" y="161" on="1"/>
+        <pt x="641" y="161" on="1"/>
+        <pt x="641" y="0" on="1"/>
+        <pt x="480" y="0" on="1"/>
+        <pt x="480" y="160" on="1"/>
+        <pt x="401" y="160" on="1"/>
+        <pt x="401" y="0" on="1"/>
+        <pt x="281" y="0" on="1"/>
+        <pt x="240" y="0" on="1"/>
+        <pt x="120" y="0" on="1"/>
+        <pt x="120" y="160" on="1"/>
+        <pt x="0" y="160" on="1"/>
+        <pt x="0" y="481" on="1"/>
+        <pt x="120" y="481" on="1"/>
+        <pt x="120" y="961" on="1"/>
+      </contour>
+      <contour>
+        <pt x="161" y="480" on="1"/>
+        <pt x="161" y="161" on="1"/>
+        <pt x="360" y="161" on="1"/>
+        <pt x="360" y="320" on="1"/>
+        <pt x="240" y="320" on="1"/>
+        <pt x="240" y="480" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="asciicircum" xMin="0" yMin="320" xMax="641" yMax="801">
+      <contour>
+        <pt x="0" y="320" on="1"/>
+        <pt x="0" y="481" on="1"/>
+        <pt x="120" y="481" on="1"/>
+        <pt x="120" y="641" on="1"/>
+        <pt x="240" y="641" on="1"/>
+        <pt x="240" y="801" on="1"/>
+        <pt x="401" y="801" on="1"/>
+        <pt x="401" y="641" on="1"/>
+        <pt x="521" y="641" on="1"/>
+        <pt x="521" y="481" on="1"/>
+        <pt x="641" y="481" on="1"/>
+        <pt x="641" y="320" on="1"/>
+        <pt x="480" y="320" on="1"/>
+        <pt x="480" y="480" on="1"/>
+        <pt x="360" y="480" on="1"/>
+        <pt x="360" y="640" on="1"/>
+        <pt x="281" y="640" on="1"/>
+        <pt x="281" y="480" on="1"/>
+        <pt x="161" y="480" on="1"/>
+        <pt x="161" y="320" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="asciitilde" xMin="0" yMin="640" xMax="641" yMax="1121">
+      <contour>
+        <pt x="0" y="800" on="1"/>
+        <pt x="0" y="961" on="1"/>
+        <pt x="120" y="961" on="1"/>
+        <pt x="120" y="1121" on="1"/>
+        <pt x="281" y="1121" on="1"/>
+        <pt x="281" y="961" on="1"/>
+        <pt x="401" y="961" on="1"/>
+        <pt x="401" y="801" on="1"/>
+        <pt x="480" y="801" on="1"/>
+        <pt x="480" y="961" on="1"/>
+        <pt x="641" y="961" on="1"/>
+        <pt x="641" y="800" on="1"/>
+        <pt x="521" y="800" on="1"/>
+        <pt x="521" y="640" on="1"/>
+        <pt x="360" y="640" on="1"/>
+        <pt x="360" y="800" on="1"/>
+        <pt x="240" y="800" on="1"/>
+        <pt x="240" y="960" on="1"/>
+        <pt x="161" y="960" on="1"/>
+        <pt x="161" y="800" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="asterisk" xMin="0" yMin="160" xMax="641" yMax="961">
+      <contour>
+        <pt x="0" y="640" on="1"/>
+        <pt x="0" y="801" on="1"/>
+        <pt x="161" y="801" on="1"/>
+        <pt x="161" y="641" on="1"/>
+        <pt x="240" y="641" on="1"/>
+        <pt x="240" y="961" on="1"/>
+        <pt x="401" y="961" on="1"/>
+        <pt x="401" y="641" on="1"/>
+        <pt x="480" y="641" on="1"/>
+        <pt x="480" y="801" on="1"/>
+        <pt x="641" y="801" on="1"/>
+        <pt x="641" y="640" on="1"/>
+        <pt x="521" y="640" on="1"/>
+        <pt x="521" y="481" on="1"/>
+        <pt x="641" y="481" on="1"/>
+        <pt x="641" y="320" on="1"/>
+        <pt x="480" y="320" on="1"/>
+        <pt x="480" y="480" on="1"/>
+        <pt x="401" y="480" on="1"/>
+        <pt x="401" y="160" on="1"/>
+        <pt x="240" y="160" on="1"/>
+        <pt x="240" y="480" on="1"/>
+        <pt x="161" y="480" on="1"/>
+        <pt x="161" y="320" on="1"/>
+        <pt x="0" y="320" on="1"/>
+        <pt x="0" y="481" on="1"/>
+        <pt x="120" y="481" on="1"/>
+        <pt x="120" y="640" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="at" xMin="0" yMin="0" xMax="641" yMax="1121">
+      <contour>
+        <pt x="480" y="960" on="1"/>
+        <pt x="360" y="960" on="1"/>
+        <pt x="281" y="960" on="1"/>
+        <pt x="281" y="801" on="1"/>
+        <pt x="401" y="801" on="1"/>
+        <pt x="401" y="641" on="1"/>
+        <pt x="480" y="641" on="1"/>
+      </contour>
+      <contour>
+        <pt x="240" y="1121" on="1"/>
+        <pt x="521" y="1121" on="1"/>
+        <pt x="521" y="961" on="1"/>
+        <pt x="641" y="961" on="1"/>
+        <pt x="641" y="480" on="1"/>
+        <pt x="401" y="480" on="1"/>
+        <pt x="401" y="320" on="1"/>
+        <pt x="240" y="320" on="1"/>
+        <pt x="240" y="800" on="1"/>
+        <pt x="161" y="800" on="1"/>
+        <pt x="161" y="161" on="1"/>
+        <pt x="641" y="161" on="1"/>
+        <pt x="641" y="0" on="1"/>
+        <pt x="521" y="0" on="1"/>
+        <pt x="480" y="0" on="1"/>
+        <pt x="401" y="0" on="1"/>
+        <pt x="360" y="0" on="1"/>
+        <pt x="281" y="0" on="1"/>
+        <pt x="240" y="0" on="1"/>
+        <pt x="120" y="0" on="1"/>
+        <pt x="120" y="160" on="1"/>
+        <pt x="0" y="160" on="1"/>
+        <pt x="0" y="801" on="1"/>
+        <pt x="120" y="801" on="1"/>
+        <pt x="120" y="961" on="1"/>
+        <pt x="240" y="961" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="b" xMin="0" yMin="0" xMax="641" yMax="1121">
+      <contour>
+        <pt x="161" y="1121" on="1"/>
+        <pt x="161" y="641" on="1"/>
+        <pt x="240" y="641" on="1"/>
+        <pt x="240" y="801" on="1"/>
+        <pt x="521" y="801" on="1"/>
+        <pt x="521" y="641" on="1"/>
+        <pt x="641" y="641" on="1"/>
+        <pt x="641" y="160" on="1"/>
+        <pt x="521" y="160" on="1"/>
+        <pt x="521" y="0" on="1"/>
+        <pt x="401" y="0" on="1"/>
+        <pt x="360" y="0" on="1"/>
+        <pt x="240" y="0" on="1"/>
+        <pt x="240" y="160" on="1"/>
+        <pt x="161" y="160" on="1"/>
+        <pt x="161" y="0" on="1"/>
+        <pt x="0" y="0" on="1"/>
+        <pt x="0" y="1121" on="1"/>
+      </contour>
+      <contour>
+        <pt x="480" y="640" on="1"/>
+        <pt x="360" y="640" on="1"/>
+        <pt x="281" y="640" on="1"/>
+        <pt x="281" y="480" on="1"/>
+        <pt x="161" y="480" on="1"/>
+        <pt x="161" y="321" on="1"/>
+        <pt x="281" y="321" on="1"/>
+        <pt x="281" y="161" on="1"/>
+        <pt x="480" y="161" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="backslash" xMin="0" yMin="160" xMax="641" yMax="961">
+      <contour>
+        <pt x="0" y="800" on="1"/>
+        <pt x="0" y="961" on="1"/>
+        <pt x="161" y="961" on="1"/>
+        <pt x="161" y="801" on="1"/>
+        <pt x="281" y="801" on="1"/>
+        <pt x="281" y="641" on="1"/>
+        <pt x="401" y="641" on="1"/>
+        <pt x="401" y="481" on="1"/>
+        <pt x="521" y="481" on="1"/>
+        <pt x="521" y="321" on="1"/>
+        <pt x="641" y="321" on="1"/>
+        <pt x="641" y="160" on="1"/>
+        <pt x="480" y="160" on="1"/>
+        <pt x="480" y="320" on="1"/>
+        <pt x="360" y="320" on="1"/>
+        <pt x="360" y="480" on="1"/>
+        <pt x="240" y="480" on="1"/>
+        <pt x="240" y="640" on="1"/>
+        <pt x="120" y="640" on="1"/>
+        <pt x="120" y="800" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="bar" xMin="240" yMin="0" xMax="401" yMax="1121">
+      <contour>
+        <pt x="401" y="1121" on="1"/>
+        <pt x="401" y="640" on="1"/>
+        <pt x="240" y="640" on="1"/>
+        <pt x="240" y="1121" on="1"/>
+      </contour>
+      <contour>
+        <pt x="401" y="481" on="1"/>
+        <pt x="401" y="0" on="1"/>
+        <pt x="240" y="0" on="1"/>
+        <pt x="240" y="481" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="braceleft" xMin="0" yMin="0" xMax="521" yMax="1121">
+      <contour>
+        <pt x="0" y="480" on="1"/>
+        <pt x="0" y="641" on="1"/>
+        <pt x="120" y="641" on="1"/>
+        <pt x="120" y="961" on="1"/>
+        <pt x="240" y="961" on="1"/>
+        <pt x="240" y="1121" on="1"/>
+        <pt x="521" y="1121" on="1"/>
+        <pt x="521" y="960" on="1"/>
+        <pt x="360" y="960" on="1"/>
+        <pt x="281" y="960" on="1"/>
+        <pt x="281" y="640" on="1"/>
+        <pt x="161" y="640" on="1"/>
+        <pt x="161" y="481" on="1"/>
+        <pt x="281" y="481" on="1"/>
+        <pt x="281" y="161" on="1"/>
+        <pt x="521" y="161" on="1"/>
+        <pt x="521" y="0" on="1"/>
+        <pt x="401" y="0" on="1"/>
+        <pt x="360" y="0" on="1"/>
+        <pt x="240" y="0" on="1"/>
+        <pt x="240" y="160" on="1"/>
+        <pt x="120" y="160" on="1"/>
+        <pt x="120" y="480" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="braceright" xMin="120" yMin="0" xMax="641" yMax="1121">
+      <contour>
+        <pt x="120" y="960" on="1"/>
+        <pt x="120" y="1121" on="1"/>
+        <pt x="401" y="1121" on="1"/>
+        <pt x="401" y="961" on="1"/>
+        <pt x="521" y="961" on="1"/>
+        <pt x="521" y="641" on="1"/>
+        <pt x="641" y="641" on="1"/>
+        <pt x="641" y="480" on="1"/>
+        <pt x="521" y="480" on="1"/>
+        <pt x="521" y="160" on="1"/>
+        <pt x="401" y="160" on="1"/>
+        <pt x="401" y="0" on="1"/>
+        <pt x="281" y="0" on="1"/>
+        <pt x="240" y="0" on="1"/>
+        <pt x="120" y="0" on="1"/>
+        <pt x="120" y="161" on="1"/>
+        <pt x="360" y="161" on="1"/>
+        <pt x="360" y="481" on="1"/>
+        <pt x="480" y="481" on="1"/>
+        <pt x="480" y="640" on="1"/>
+        <pt x="360" y="640" on="1"/>
+        <pt x="360" y="960" on="1"/>
+        <pt x="240" y="960" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="bracketleft" xMin="240" yMin="0" xMax="641" yMax="1121">
+      <contour>
+        <pt x="240" y="1121" on="1"/>
+        <pt x="641" y="1121" on="1"/>
+        <pt x="641" y="960" on="1"/>
+        <pt x="401" y="960" on="1"/>
+        <pt x="401" y="161" on="1"/>
+        <pt x="641" y="161" on="1"/>
+        <pt x="641" y="0" on="1"/>
+        <pt x="521" y="0" on="1"/>
+        <pt x="480" y="0" on="1"/>
+        <pt x="401" y="0" on="1"/>
+        <pt x="360" y="0" on="1"/>
+        <pt x="240" y="0" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="bracketright" xMin="0" yMin="0" xMax="401" yMax="1121">
+      <contour>
+        <pt x="0" y="960" on="1"/>
+        <pt x="0" y="1121" on="1"/>
+        <pt x="401" y="1121" on="1"/>
+        <pt x="401" y="0" on="1"/>
+        <pt x="281" y="0" on="1"/>
+        <pt x="240" y="0" on="1"/>
+        <pt x="161" y="0" on="1"/>
+        <pt x="120" y="0" on="1"/>
+        <pt x="0" y="0" on="1"/>
+        <pt x="0" y="161" on="1"/>
+        <pt x="240" y="161" on="1"/>
+        <pt x="240" y="960" on="1"/>
+        <pt x="161" y="960" on="1"/>
+        <pt x="120" y="960" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="c" xMin="0" yMin="0" xMax="641" yMax="801">
+      <contour>
+        <pt x="641" y="640" on="1"/>
+        <pt x="240" y="640" on="1"/>
+        <pt x="161" y="640" on="1"/>
+        <pt x="161" y="161" on="1"/>
+        <pt x="641" y="161" on="1"/>
+        <pt x="641" y="0" on="1"/>
+        <pt x="521" y="0" on="1"/>
+        <pt x="480" y="0" on="1"/>
+        <pt x="401" y="0" on="1"/>
+        <pt x="360" y="0" on="1"/>
+        <pt x="281" y="0" on="1"/>
+        <pt x="240" y="0" on="1"/>
+        <pt x="120" y="0" on="1"/>
+        <pt x="120" y="160" on="1"/>
+        <pt x="0" y="160" on="1"/>
+        <pt x="0" y="641" on="1"/>
+        <pt x="120" y="641" on="1"/>
+        <pt x="120" y="801" on="1"/>
+        <pt x="641" y="801" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="colon" xMin="240" yMin="160" xMax="401" yMax="801">
+      <contour>
+        <pt x="240" y="640" on="1"/>
+        <pt x="240" y="801" on="1"/>
+        <pt x="401" y="801" on="1"/>
+        <pt x="401" y="640" on="1"/>
+      </contour>
+      <contour>
+        <pt x="240" y="160" on="1"/>
+        <pt x="240" y="321" on="1"/>
+        <pt x="401" y="321" on="1"/>
+        <pt x="401" y="160" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="comma" xMin="120" yMin="-320" xMax="401" yMax="161">
+      <contour>
+        <pt x="120" y="-320" on="1"/>
+        <pt x="120" y="-159" on="1"/>
+        <pt x="240" y="-159" on="1"/>
+        <pt x="240" y="161" on="1"/>
+        <pt x="401" y="161" on="1"/>
+        <pt x="401" y="-160" on="1"/>
+        <pt x="281" y="-160" on="1"/>
+        <pt x="281" y="-320" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="d" xMin="0" yMin="0" xMax="641" yMax="1121">
+      <contour>
+        <pt x="641" y="1121" on="1"/>
+        <pt x="641" y="0" on="1"/>
+        <pt x="480" y="0" on="1"/>
+        <pt x="480" y="160" on="1"/>
+        <pt x="401" y="160" on="1"/>
+        <pt x="401" y="0" on="1"/>
+        <pt x="281" y="0" on="1"/>
+        <pt x="240" y="0" on="1"/>
+        <pt x="120" y="0" on="1"/>
+        <pt x="120" y="160" on="1"/>
+        <pt x="0" y="160" on="1"/>
+        <pt x="0" y="641" on="1"/>
+        <pt x="120" y="641" on="1"/>
+        <pt x="120" y="801" on="1"/>
+        <pt x="401" y="801" on="1"/>
+        <pt x="401" y="641" on="1"/>
+        <pt x="480" y="641" on="1"/>
+        <pt x="480" y="1121" on="1"/>
+      </contour>
+      <contour>
+        <pt x="360" y="640" on="1"/>
+        <pt x="240" y="640" on="1"/>
+        <pt x="161" y="640" on="1"/>
+        <pt x="161" y="161" on="1"/>
+        <pt x="360" y="161" on="1"/>
+        <pt x="360" y="321" on="1"/>
+        <pt x="480" y="321" on="1"/>
+        <pt x="480" y="480" on="1"/>
+        <pt x="360" y="480" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="dollar" xMin="0" yMin="0" xMax="641" yMax="1121">
+      <contour>
+        <pt x="0" y="640" on="1"/>
+        <pt x="0" y="801" on="1"/>
+        <pt x="120" y="801" on="1"/>
+        <pt x="120" y="961" on="1"/>
+        <pt x="240" y="961" on="1"/>
+        <pt x="240" y="1121" on="1"/>
+        <pt x="401" y="1121" on="1"/>
+        <pt x="401" y="961" on="1"/>
+        <pt x="641" y="961" on="1"/>
+        <pt x="641" y="800" on="1"/>
+        <pt x="401" y="800" on="1"/>
+        <pt x="401" y="641" on="1"/>
+        <pt x="521" y="641" on="1"/>
+        <pt x="521" y="481" on="1"/>
+        <pt x="641" y="481" on="1"/>
+        <pt x="641" y="320" on="1"/>
+        <pt x="521" y="320" on="1"/>
+        <pt x="521" y="160" on="1"/>
+        <pt x="401" y="160" on="1"/>
+        <pt x="401" y="0" on="1"/>
+        <pt x="240" y="0" on="1"/>
+        <pt x="240" y="160" on="1"/>
+        <pt x="161" y="160" on="1"/>
+        <pt x="120" y="160" on="1"/>
+        <pt x="0" y="160" on="1"/>
+        <pt x="0" y="321" on="1"/>
+        <pt x="240" y="321" on="1"/>
+        <pt x="240" y="480" on="1"/>
+        <pt x="120" y="480" on="1"/>
+        <pt x="120" y="640" on="1"/>
+      </contour>
+      <contour>
+        <pt x="161" y="800" on="1"/>
+        <pt x="161" y="641" on="1"/>
+        <pt x="240" y="641" on="1"/>
+        <pt x="240" y="800" on="1"/>
+      </contour>
+      <contour>
+        <pt x="401" y="480" on="1"/>
+        <pt x="401" y="321" on="1"/>
+        <pt x="480" y="321" on="1"/>
+        <pt x="480" y="480" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="e" xMin="0" yMin="0" xMax="641" yMax="801">
+      <contour>
+        <pt x="480" y="640" on="1"/>
+        <pt x="240" y="640" on="1"/>
+        <pt x="161" y="640" on="1"/>
+        <pt x="161" y="481" on="1"/>
+        <pt x="480" y="481" on="1"/>
+      </contour>
+      <contour>
+        <pt x="120" y="801" on="1"/>
+        <pt x="521" y="801" on="1"/>
+        <pt x="521" y="641" on="1"/>
+        <pt x="641" y="641" on="1"/>
+        <pt x="641" y="320" on="1"/>
+        <pt x="161" y="320" on="1"/>
+        <pt x="161" y="161" on="1"/>
+        <pt x="521" y="161" on="1"/>
+        <pt x="521" y="0" on="1"/>
+        <pt x="401" y="0" on="1"/>
+        <pt x="360" y="0" on="1"/>
+        <pt x="281" y="0" on="1"/>
+        <pt x="240" y="0" on="1"/>
+        <pt x="120" y="0" on="1"/>
+        <pt x="120" y="160" on="1"/>
+        <pt x="0" y="160" on="1"/>
+        <pt x="0" y="641" on="1"/>
+        <pt x="120" y="641" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="eight" xMin="0" yMin="0" xMax="641" yMax="1121">
+      <contour>
+        <pt x="480" y="960" on="1"/>
+        <pt x="240" y="960" on="1"/>
+        <pt x="161" y="960" on="1"/>
+        <pt x="161" y="641" on="1"/>
+        <pt x="480" y="641" on="1"/>
+      </contour>
+      <contour>
+        <pt x="120" y="1121" on="1"/>
+        <pt x="521" y="1121" on="1"/>
+        <pt x="521" y="961" on="1"/>
+        <pt x="641" y="961" on="1"/>
+        <pt x="641" y="640" on="1"/>
+        <pt x="521" y="640" on="1"/>
+        <pt x="521" y="481" on="1"/>
+        <pt x="641" y="481" on="1"/>
+        <pt x="641" y="160" on="1"/>
+        <pt x="521" y="160" on="1"/>
+        <pt x="521" y="0" on="1"/>
+        <pt x="401" y="0" on="1"/>
+        <pt x="360" y="0" on="1"/>
+        <pt x="281" y="0" on="1"/>
+        <pt x="240" y="0" on="1"/>
+        <pt x="120" y="0" on="1"/>
+        <pt x="120" y="160" on="1"/>
+        <pt x="0" y="160" on="1"/>
+        <pt x="0" y="481" on="1"/>
+        <pt x="120" y="481" on="1"/>
+        <pt x="120" y="640" on="1"/>
+        <pt x="0" y="640" on="1"/>
+        <pt x="0" y="961" on="1"/>
+        <pt x="120" y="961" on="1"/>
+      </contour>
+      <contour>
+        <pt x="480" y="480" on="1"/>
+        <pt x="240" y="480" on="1"/>
+        <pt x="161" y="480" on="1"/>
+        <pt x="161" y="161" on="1"/>
+        <pt x="480" y="161" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="equal" xMin="0" yMin="320" xMax="641" yMax="801">
+      <contour>
+        <pt x="0" y="640" on="1"/>
+        <pt x="0" y="801" on="1"/>
+        <pt x="641" y="801" on="1"/>
+        <pt x="641" y="640" on="1"/>
+        <pt x="120" y="640" on="1"/>
+      </contour>
+      <contour>
+        <pt x="0" y="320" on="1"/>
+        <pt x="0" y="481" on="1"/>
+        <pt x="641" y="481" on="1"/>
+        <pt x="641" y="320" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="exclam" xMin="240" yMin="0" xMax="401" yMax="1121">
+      <contour>
+        <pt x="240" y="0" on="1"/>
+        <pt x="240" y="161" on="1"/>
+        <pt x="401" y="161" on="1"/>
+        <pt x="401" y="0" on="1"/>
+      </contour>
+      <contour>
+        <pt x="401" y="1121" on="1"/>
+        <pt x="401" y="320" on="1"/>
+        <pt x="240" y="320" on="1"/>
+        <pt x="240" y="1121" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="f" xMin="0" yMin="0" xMax="521" yMax="1121">
+      <contour>
+        <pt x="0" y="480" on="1"/>
+        <pt x="0" y="641" on="1"/>
+        <pt x="120" y="641" on="1"/>
+        <pt x="120" y="961" on="1"/>
+        <pt x="240" y="961" on="1"/>
+        <pt x="240" y="1121" on="1"/>
+        <pt x="401" y="1121" on="1"/>
+        <pt x="401" y="961" on="1"/>
+        <pt x="521" y="961" on="1"/>
+        <pt x="521" y="800" on="1"/>
+        <pt x="360" y="800" on="1"/>
+        <pt x="360" y="960" on="1"/>
+        <pt x="281" y="960" on="1"/>
+        <pt x="281" y="641" on="1"/>
+        <pt x="401" y="641" on="1"/>
+        <pt x="401" y="480" on="1"/>
+        <pt x="281" y="480" on="1"/>
+        <pt x="281" y="0" on="1"/>
+        <pt x="120" y="0" on="1"/>
+        <pt x="120" y="480" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="five" xMin="0" yMin="0" xMax="641" yMax="1121">
+      <contour>
+        <pt x="0" y="160" on="1"/>
+        <pt x="0" y="321" on="1"/>
+        <pt x="161" y="321" on="1"/>
+        <pt x="161" y="161" on="1"/>
+        <pt x="480" y="161" on="1"/>
+        <pt x="480" y="640" on="1"/>
+        <pt x="120" y="640" on="1"/>
+        <pt x="0" y="640" on="1"/>
+        <pt x="0" y="1121" on="1"/>
+        <pt x="641" y="1121" on="1"/>
+        <pt x="641" y="960" on="1"/>
+        <pt x="161" y="960" on="1"/>
+        <pt x="161" y="801" on="1"/>
+        <pt x="521" y="801" on="1"/>
+        <pt x="521" y="641" on="1"/>
+        <pt x="641" y="641" on="1"/>
+        <pt x="641" y="160" on="1"/>
+        <pt x="521" y="160" on="1"/>
+        <pt x="521" y="0" on="1"/>
+        <pt x="401" y="0" on="1"/>
+        <pt x="360" y="0" on="1"/>
+        <pt x="281" y="0" on="1"/>
+        <pt x="240" y="0" on="1"/>
+        <pt x="120" y="0" on="1"/>
+        <pt x="120" y="160" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="four" xMin="0" yMin="0" xMax="641" yMax="1121">
+      <contour>
+        <pt x="521" y="1121" on="1"/>
+        <pt x="521" y="481" on="1"/>
+        <pt x="641" y="481" on="1"/>
+        <pt x="641" y="320" on="1"/>
+        <pt x="521" y="320" on="1"/>
+        <pt x="521" y="0" on="1"/>
+        <pt x="360" y="0" on="1"/>
+        <pt x="360" y="320" on="1"/>
+        <pt x="0" y="320" on="1"/>
+        <pt x="0" y="641" on="1"/>
+        <pt x="120" y="641" on="1"/>
+        <pt x="120" y="801" on="1"/>
+        <pt x="240" y="801" on="1"/>
+        <pt x="240" y="961" on="1"/>
+        <pt x="360" y="961" on="1"/>
+        <pt x="360" y="1121" on="1"/>
+      </contour>
+      <contour>
+        <pt x="281" y="800" on="1"/>
+        <pt x="281" y="640" on="1"/>
+        <pt x="161" y="640" on="1"/>
+        <pt x="161" y="481" on="1"/>
+        <pt x="360" y="481" on="1"/>
+        <pt x="360" y="800" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="g" xMin="0" yMin="-320" xMax="641" yMax="801">
+      <contour>
+        <pt x="120" y="-320" on="1"/>
+        <pt x="120" y="-159" on="1"/>
+        <pt x="480" y="-159" on="1"/>
+        <pt x="480" y="160" on="1"/>
+        <pt x="401" y="160" on="1"/>
+        <pt x="401" y="0" on="1"/>
+        <pt x="281" y="0" on="1"/>
+        <pt x="240" y="0" on="1"/>
+        <pt x="120" y="0" on="1"/>
+        <pt x="120" y="160" on="1"/>
+        <pt x="0" y="160" on="1"/>
+        <pt x="0" y="641" on="1"/>
+        <pt x="120" y="641" on="1"/>
+        <pt x="120" y="801" on="1"/>
+        <pt x="401" y="801" on="1"/>
+        <pt x="401" y="641" on="1"/>
+        <pt x="480" y="641" on="1"/>
+        <pt x="480" y="801" on="1"/>
+        <pt x="641" y="801" on="1"/>
+        <pt x="641" y="-160" on="1"/>
+        <pt x="521" y="-160" on="1"/>
+        <pt x="521" y="-320" on="1"/>
+      </contour>
+      <contour>
+        <pt x="360" y="640" on="1"/>
+        <pt x="240" y="640" on="1"/>
+        <pt x="161" y="640" on="1"/>
+        <pt x="161" y="161" on="1"/>
+        <pt x="360" y="161" on="1"/>
+        <pt x="360" y="321" on="1"/>
+        <pt x="480" y="321" on="1"/>
+        <pt x="480" y="480" on="1"/>
+        <pt x="360" y="480" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="grave" xMin="120" yMin="640" xMax="521" yMax="1121">
+      <contour>
+        <pt x="120" y="960" on="1"/>
+        <pt x="120" y="1121" on="1"/>
+        <pt x="281" y="1121" on="1"/>
+        <pt x="281" y="961" on="1"/>
+        <pt x="401" y="961" on="1"/>
+        <pt x="401" y="801" on="1"/>
+        <pt x="521" y="801" on="1"/>
+        <pt x="521" y="640" on="1"/>
+        <pt x="360" y="640" on="1"/>
+        <pt x="360" y="800" on="1"/>
+        <pt x="240" y="800" on="1"/>
+        <pt x="240" y="960" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="greater" xMin="0" yMin="0" xMax="521" yMax="1121">
+      <contour>
+        <pt x="0" y="960" on="1"/>
+        <pt x="0" y="1121" on="1"/>
+        <pt x="161" y="1121" on="1"/>
+        <pt x="161" y="961" on="1"/>
+        <pt x="281" y="961" on="1"/>
+        <pt x="281" y="801" on="1"/>
+        <pt x="401" y="801" on="1"/>
+        <pt x="401" y="641" on="1"/>
+        <pt x="521" y="641" on="1"/>
+        <pt x="521" y="480" on="1"/>
+        <pt x="401" y="480" on="1"/>
+        <pt x="401" y="320" on="1"/>
+        <pt x="281" y="320" on="1"/>
+        <pt x="281" y="160" on="1"/>
+        <pt x="161" y="160" on="1"/>
+        <pt x="161" y="0" on="1"/>
+        <pt x="0" y="0" on="1"/>
+        <pt x="0" y="161" on="1"/>
+        <pt x="120" y="161" on="1"/>
+        <pt x="120" y="321" on="1"/>
+        <pt x="240" y="321" on="1"/>
+        <pt x="240" y="481" on="1"/>
+        <pt x="360" y="481" on="1"/>
+        <pt x="360" y="640" on="1"/>
+        <pt x="240" y="640" on="1"/>
+        <pt x="240" y="800" on="1"/>
+        <pt x="120" y="800" on="1"/>
+        <pt x="120" y="960" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="h" xMin="0" yMin="0" xMax="641" yMax="1121">
+      <contour>
+        <pt x="161" y="1121" on="1"/>
+        <pt x="161" y="641" on="1"/>
+        <pt x="240" y="641" on="1"/>
+        <pt x="240" y="801" on="1"/>
+        <pt x="521" y="801" on="1"/>
+        <pt x="521" y="641" on="1"/>
+        <pt x="641" y="641" on="1"/>
+        <pt x="641" y="0" on="1"/>
+        <pt x="480" y="0" on="1"/>
+        <pt x="480" y="640" on="1"/>
+        <pt x="360" y="640" on="1"/>
+        <pt x="281" y="640" on="1"/>
+        <pt x="281" y="480" on="1"/>
+        <pt x="161" y="480" on="1"/>
+        <pt x="161" y="0" on="1"/>
+        <pt x="0" y="0" on="1"/>
+        <pt x="0" y="1121" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="hyphen" xMin="0" yMin="480" xMax="641" yMax="641">
+      <contour>
+        <pt x="0" y="480" on="1"/>
+        <pt x="0" y="641" on="1"/>
+        <pt x="641" y="641" on="1"/>
+        <pt x="641" y="480" on="1"/>
+        <pt x="120" y="480" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="i" xMin="120" yMin="0" xMax="521" yMax="1121">
+      <contour>
+        <pt x="240" y="960" on="1"/>
+        <pt x="240" y="1121" on="1"/>
+        <pt x="401" y="1121" on="1"/>
+        <pt x="401" y="960" on="1"/>
+      </contour>
+      <contour>
+        <pt x="120" y="640" on="1"/>
+        <pt x="120" y="801" on="1"/>
+        <pt x="401" y="801" on="1"/>
+        <pt x="401" y="161" on="1"/>
+        <pt x="521" y="161" on="1"/>
+        <pt x="521" y="0" on="1"/>
+        <pt x="401" y="0" on="1"/>
+        <pt x="360" y="0" on="1"/>
+        <pt x="281" y="0" on="1"/>
+        <pt x="240" y="0" on="1"/>
+        <pt x="120" y="0" on="1"/>
+        <pt x="120" y="161" on="1"/>
+        <pt x="240" y="161" on="1"/>
+        <pt x="240" y="640" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="j" xMin="120" yMin="-320" xMax="641" yMax="1121">
+      <contour>
+        <pt x="480" y="960" on="1"/>
+        <pt x="480" y="1121" on="1"/>
+        <pt x="641" y="1121" on="1"/>
+        <pt x="641" y="960" on="1"/>
+      </contour>
+      <contour>
+        <pt x="120" y="-160" on="1"/>
+        <pt x="120" y="1" on="1"/>
+        <pt x="281" y="1" on="1"/>
+        <pt x="281" y="-159" on="1"/>
+        <pt x="480" y="-159" on="1"/>
+        <pt x="480" y="801" on="1"/>
+        <pt x="641" y="801" on="1"/>
+        <pt x="641" y="-160" on="1"/>
+        <pt x="521" y="-160" on="1"/>
+        <pt x="521" y="-320" on="1"/>
+        <pt x="240" y="-320" on="1"/>
+        <pt x="240" y="-160" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="k" xMin="0" yMin="0" xMax="521" yMax="1121">
+      <contour>
+        <pt x="161" y="1121" on="1"/>
+        <pt x="161" y="481" on="1"/>
+        <pt x="240" y="481" on="1"/>
+        <pt x="240" y="641" on="1"/>
+        <pt x="360" y="641" on="1"/>
+        <pt x="360" y="801" on="1"/>
+        <pt x="521" y="801" on="1"/>
+        <pt x="521" y="640" on="1"/>
+        <pt x="401" y="640" on="1"/>
+        <pt x="401" y="480" on="1"/>
+        <pt x="281" y="480" on="1"/>
+        <pt x="281" y="321" on="1"/>
+        <pt x="401" y="321" on="1"/>
+        <pt x="401" y="161" on="1"/>
+        <pt x="521" y="161" on="1"/>
+        <pt x="521" y="0" on="1"/>
+        <pt x="360" y="0" on="1"/>
+        <pt x="360" y="160" on="1"/>
+        <pt x="240" y="160" on="1"/>
+        <pt x="240" y="320" on="1"/>
+        <pt x="161" y="320" on="1"/>
+        <pt x="161" y="0" on="1"/>
+        <pt x="0" y="0" on="1"/>
+        <pt x="0" y="1121" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="l" xMin="120" yMin="0" xMax="521" yMax="1121">
+      <contour>
+        <pt x="120" y="960" on="1"/>
+        <pt x="120" y="1121" on="1"/>
+        <pt x="401" y="1121" on="1"/>
+        <pt x="401" y="161" on="1"/>
+        <pt x="521" y="161" on="1"/>
+        <pt x="521" y="0" on="1"/>
+        <pt x="401" y="0" on="1"/>
+        <pt x="360" y="0" on="1"/>
+        <pt x="281" y="0" on="1"/>
+        <pt x="240" y="0" on="1"/>
+        <pt x="120" y="0" on="1"/>
+        <pt x="120" y="161" on="1"/>
+        <pt x="240" y="161" on="1"/>
+        <pt x="240" y="960" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="less" xMin="120" yMin="0" xMax="641" yMax="1121">
+      <contour>
+        <pt x="120" y="480" on="1"/>
+        <pt x="120" y="641" on="1"/>
+        <pt x="240" y="641" on="1"/>
+        <pt x="240" y="801" on="1"/>
+        <pt x="360" y="801" on="1"/>
+        <pt x="360" y="961" on="1"/>
+        <pt x="480" y="961" on="1"/>
+        <pt x="480" y="1121" on="1"/>
+        <pt x="641" y="1121" on="1"/>
+        <pt x="641" y="960" on="1"/>
+        <pt x="521" y="960" on="1"/>
+        <pt x="521" y="800" on="1"/>
+        <pt x="401" y="800" on="1"/>
+        <pt x="401" y="640" on="1"/>
+        <pt x="281" y="640" on="1"/>
+        <pt x="281" y="481" on="1"/>
+        <pt x="401" y="481" on="1"/>
+        <pt x="401" y="321" on="1"/>
+        <pt x="521" y="321" on="1"/>
+        <pt x="521" y="161" on="1"/>
+        <pt x="641" y="161" on="1"/>
+        <pt x="641" y="0" on="1"/>
+        <pt x="480" y="0" on="1"/>
+        <pt x="480" y="160" on="1"/>
+        <pt x="360" y="160" on="1"/>
+        <pt x="360" y="320" on="1"/>
+        <pt x="240" y="320" on="1"/>
+        <pt x="240" y="480" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="m" xMin="0" yMin="0" xMax="641" yMax="801">
+      <contour>
+        <pt x="0" y="801" on="1"/>
+        <pt x="281" y="801" on="1"/>
+        <pt x="281" y="641" on="1"/>
+        <pt x="360" y="641" on="1"/>
+        <pt x="360" y="801" on="1"/>
+        <pt x="521" y="801" on="1"/>
+        <pt x="521" y="641" on="1"/>
+        <pt x="641" y="641" on="1"/>
+        <pt x="641" y="0" on="1"/>
+        <pt x="480" y="0" on="1"/>
+        <pt x="480" y="640" on="1"/>
+        <pt x="401" y="640" on="1"/>
+        <pt x="401" y="0" on="1"/>
+        <pt x="240" y="0" on="1"/>
+        <pt x="240" y="640" on="1"/>
+        <pt x="161" y="640" on="1"/>
+        <pt x="161" y="0" on="1"/>
+        <pt x="0" y="0" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="n" xMin="0" yMin="0" xMax="641" yMax="801">
+      <contour>
+        <pt x="480" y="640" on="1"/>
+        <pt x="360" y="640" on="1"/>
+        <pt x="281" y="640" on="1"/>
+        <pt x="281" y="480" on="1"/>
+        <pt x="161" y="480" on="1"/>
+        <pt x="161" y="0" on="1"/>
+        <pt x="0" y="0" on="1"/>
+        <pt x="0" y="801" on="1"/>
+        <pt x="161" y="801" on="1"/>
+        <pt x="161" y="641" on="1"/>
+        <pt x="240" y="641" on="1"/>
+        <pt x="240" y="801" on="1"/>
+        <pt x="521" y="801" on="1"/>
+        <pt x="521" y="641" on="1"/>
+        <pt x="641" y="641" on="1"/>
+        <pt x="641" y="0" on="1"/>
+        <pt x="480" y="0" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="nine" xMin="0" yMin="0" xMax="641" yMax="1121">
+      <contour>
+        <pt x="120" y="0" on="1"/>
+        <pt x="120" y="161" on="1"/>
+        <pt x="360" y="161" on="1"/>
+        <pt x="360" y="321" on="1"/>
+        <pt x="480" y="321" on="1"/>
+        <pt x="480" y="480" on="1"/>
+        <pt x="401" y="480" on="1"/>
+        <pt x="240" y="480" on="1"/>
+        <pt x="120" y="480" on="1"/>
+        <pt x="120" y="640" on="1"/>
+        <pt x="0" y="640" on="1"/>
+        <pt x="0" y="961" on="1"/>
+        <pt x="120" y="961" on="1"/>
+        <pt x="120" y="1121" on="1"/>
+        <pt x="521" y="1121" on="1"/>
+        <pt x="521" y="961" on="1"/>
+        <pt x="641" y="961" on="1"/>
+        <pt x="641" y="320" on="1"/>
+        <pt x="521" y="320" on="1"/>
+        <pt x="521" y="160" on="1"/>
+        <pt x="401" y="160" on="1"/>
+        <pt x="401" y="0" on="1"/>
+        <pt x="281" y="0" on="1"/>
+        <pt x="240" y="0" on="1"/>
+      </contour>
+      <contour>
+        <pt x="480" y="960" on="1"/>
+        <pt x="240" y="960" on="1"/>
+        <pt x="161" y="960" on="1"/>
+        <pt x="161" y="641" on="1"/>
+        <pt x="480" y="641" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="nonmarkingreturn"/><!-- contains no outline data -->
+
+    <TTGlyph name="numbersign" xMin="0" yMin="0" xMax="641" yMax="1121">
+      <contour>
+        <pt x="0" y="640" on="1"/>
+        <pt x="0" y="801" on="1"/>
+        <pt x="120" y="801" on="1"/>
+        <pt x="120" y="1121" on="1"/>
+        <pt x="281" y="1121" on="1"/>
+        <pt x="281" y="801" on="1"/>
+        <pt x="360" y="801" on="1"/>
+        <pt x="360" y="1121" on="1"/>
+        <pt x="521" y="1121" on="1"/>
+        <pt x="521" y="801" on="1"/>
+        <pt x="641" y="801" on="1"/>
+        <pt x="641" y="640" on="1"/>
+        <pt x="521" y="640" on="1"/>
+        <pt x="521" y="481" on="1"/>
+        <pt x="641" y="481" on="1"/>
+        <pt x="641" y="320" on="1"/>
+        <pt x="521" y="320" on="1"/>
+        <pt x="521" y="0" on="1"/>
+        <pt x="360" y="0" on="1"/>
+        <pt x="360" y="320" on="1"/>
+        <pt x="281" y="320" on="1"/>
+        <pt x="281" y="0" on="1"/>
+        <pt x="120" y="0" on="1"/>
+        <pt x="120" y="320" on="1"/>
+        <pt x="0" y="320" on="1"/>
+        <pt x="0" y="481" on="1"/>
+        <pt x="120" y="481" on="1"/>
+        <pt x="120" y="640" on="1"/>
+      </contour>
+      <contour>
+        <pt x="281" y="640" on="1"/>
+        <pt x="281" y="481" on="1"/>
+        <pt x="360" y="481" on="1"/>
+        <pt x="360" y="640" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="o" xMin="0" yMin="0" xMax="641" yMax="801">
+      <contour>
+        <pt x="480" y="640" on="1"/>
+        <pt x="240" y="640" on="1"/>
+        <pt x="161" y="640" on="1"/>
+        <pt x="161" y="161" on="1"/>
+        <pt x="480" y="161" on="1"/>
+      </contour>
+      <contour>
+        <pt x="120" y="801" on="1"/>
+        <pt x="521" y="801" on="1"/>
+        <pt x="521" y="641" on="1"/>
+        <pt x="641" y="641" on="1"/>
+        <pt x="641" y="160" on="1"/>
+        <pt x="521" y="160" on="1"/>
+        <pt x="521" y="0" on="1"/>
+        <pt x="401" y="0" on="1"/>
+        <pt x="360" y="0" on="1"/>
+        <pt x="281" y="0" on="1"/>
+        <pt x="240" y="0" on="1"/>
+        <pt x="120" y="0" on="1"/>
+        <pt x="120" y="160" on="1"/>
+        <pt x="0" y="160" on="1"/>
+        <pt x="0" y="641" on="1"/>
+        <pt x="120" y="641" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="one" xMin="120" yMin="0" xMax="521" yMax="1121">
+      <contour>
+        <pt x="120" y="800" on="1"/>
+        <pt x="120" y="961" on="1"/>
+        <pt x="240" y="961" on="1"/>
+        <pt x="240" y="1121" on="1"/>
+        <pt x="401" y="1121" on="1"/>
+        <pt x="401" y="161" on="1"/>
+        <pt x="521" y="161" on="1"/>
+        <pt x="521" y="0" on="1"/>
+        <pt x="401" y="0" on="1"/>
+        <pt x="360" y="0" on="1"/>
+        <pt x="281" y="0" on="1"/>
+        <pt x="240" y="0" on="1"/>
+        <pt x="120" y="0" on="1"/>
+        <pt x="120" y="161" on="1"/>
+        <pt x="240" y="161" on="1"/>
+        <pt x="240" y="800" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="p" xMin="0" yMin="-320" xMax="641" yMax="801">
+      <contour>
+        <pt x="480" y="640" on="1"/>
+        <pt x="360" y="640" on="1"/>
+        <pt x="281" y="640" on="1"/>
+        <pt x="281" y="480" on="1"/>
+        <pt x="161" y="480" on="1"/>
+        <pt x="161" y="321" on="1"/>
+        <pt x="281" y="321" on="1"/>
+        <pt x="281" y="161" on="1"/>
+        <pt x="480" y="161" on="1"/>
+      </contour>
+      <contour>
+        <pt x="240" y="801" on="1"/>
+        <pt x="521" y="801" on="1"/>
+        <pt x="521" y="641" on="1"/>
+        <pt x="641" y="641" on="1"/>
+        <pt x="641" y="160" on="1"/>
+        <pt x="521" y="160" on="1"/>
+        <pt x="521" y="0" on="1"/>
+        <pt x="401" y="0" on="1"/>
+        <pt x="360" y="0" on="1"/>
+        <pt x="240" y="0" on="1"/>
+        <pt x="240" y="160" on="1"/>
+        <pt x="161" y="160" on="1"/>
+        <pt x="161" y="-320" on="1"/>
+        <pt x="0" y="-320" on="1"/>
+        <pt x="0" y="801" on="1"/>
+        <pt x="161" y="801" on="1"/>
+        <pt x="161" y="641" on="1"/>
+        <pt x="240" y="641" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="parenleft" xMin="120" yMin="0" xMax="521" yMax="1121">
+      <contour>
+        <pt x="401" y="960" on="1"/>
+        <pt x="401" y="800" on="1"/>
+        <pt x="281" y="800" on="1"/>
+        <pt x="281" y="321" on="1"/>
+        <pt x="401" y="321" on="1"/>
+        <pt x="401" y="161" on="1"/>
+        <pt x="521" y="161" on="1"/>
+        <pt x="521" y="0" on="1"/>
+        <pt x="360" y="0" on="1"/>
+        <pt x="360" y="160" on="1"/>
+        <pt x="240" y="160" on="1"/>
+        <pt x="240" y="320" on="1"/>
+        <pt x="120" y="320" on="1"/>
+        <pt x="120" y="801" on="1"/>
+        <pt x="240" y="801" on="1"/>
+        <pt x="240" y="961" on="1"/>
+        <pt x="360" y="961" on="1"/>
+        <pt x="360" y="1121" on="1"/>
+        <pt x="521" y="1121" on="1"/>
+        <pt x="521" y="960" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="parenright" xMin="120" yMin="0" xMax="521" yMax="1121">
+      <contour>
+        <pt x="120" y="960" on="1"/>
+        <pt x="120" y="1121" on="1"/>
+        <pt x="281" y="1121" on="1"/>
+        <pt x="281" y="961" on="1"/>
+        <pt x="401" y="961" on="1"/>
+        <pt x="401" y="801" on="1"/>
+        <pt x="521" y="801" on="1"/>
+        <pt x="521" y="320" on="1"/>
+        <pt x="401" y="320" on="1"/>
+        <pt x="401" y="160" on="1"/>
+        <pt x="281" y="160" on="1"/>
+        <pt x="281" y="0" on="1"/>
+        <pt x="120" y="0" on="1"/>
+        <pt x="120" y="161" on="1"/>
+        <pt x="240" y="161" on="1"/>
+        <pt x="240" y="321" on="1"/>
+        <pt x="360" y="321" on="1"/>
+        <pt x="360" y="800" on="1"/>
+        <pt x="240" y="800" on="1"/>
+        <pt x="240" y="960" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="percent" xMin="0" yMin="0" xMax="641" yMax="1121">
+      <contour>
+        <pt x="0" y="160" on="1"/>
+        <pt x="0" y="321" on="1"/>
+        <pt x="120" y="321" on="1"/>
+        <pt x="120" y="481" on="1"/>
+        <pt x="240" y="481" on="1"/>
+        <pt x="240" y="641" on="1"/>
+        <pt x="360" y="641" on="1"/>
+        <pt x="360" y="801" on="1"/>
+        <pt x="480" y="801" on="1"/>
+        <pt x="480" y="961" on="1"/>
+        <pt x="641" y="961" on="1"/>
+        <pt x="641" y="800" on="1"/>
+        <pt x="521" y="800" on="1"/>
+        <pt x="521" y="640" on="1"/>
+        <pt x="401" y="640" on="1"/>
+        <pt x="401" y="480" on="1"/>
+        <pt x="281" y="480" on="1"/>
+        <pt x="281" y="320" on="1"/>
+        <pt x="161" y="320" on="1"/>
+        <pt x="161" y="160" on="1"/>
+      </contour>
+      <contour>
+        <pt x="0" y="1121" on="1"/>
+        <pt x="281" y="1121" on="1"/>
+        <pt x="281" y="800" on="1"/>
+        <pt x="120" y="800" on="1"/>
+        <pt x="0" y="800" on="1"/>
+      </contour>
+      <contour>
+        <pt x="360" y="321" on="1"/>
+        <pt x="641" y="321" on="1"/>
+        <pt x="641" y="0" on="1"/>
+        <pt x="521" y="0" on="1"/>
+        <pt x="480" y="0" on="1"/>
+        <pt x="360" y="0" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="period" xMin="240" yMin="0" xMax="401" yMax="161">
+      <contour>
+        <pt x="240" y="0" on="1"/>
+        <pt x="240" y="161" on="1"/>
+        <pt x="401" y="161" on="1"/>
+        <pt x="401" y="0" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="plus" xMin="0" yMin="160" xMax="641" yMax="961">
+      <contour>
+        <pt x="0" y="480" on="1"/>
+        <pt x="0" y="641" on="1"/>
+        <pt x="240" y="641" on="1"/>
+        <pt x="240" y="961" on="1"/>
+        <pt x="401" y="961" on="1"/>
+        <pt x="401" y="641" on="1"/>
+        <pt x="641" y="641" on="1"/>
+        <pt x="641" y="480" on="1"/>
+        <pt x="401" y="480" on="1"/>
+        <pt x="401" y="160" on="1"/>
+        <pt x="240" y="160" on="1"/>
+        <pt x="240" y="480" on="1"/>
+        <pt x="161" y="480" on="1"/>
+        <pt x="120" y="480" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="q" xMin="0" yMin="-320" xMax="641" yMax="801">
+      <contour>
+        <pt x="360" y="640" on="1"/>
+        <pt x="240" y="640" on="1"/>
+        <pt x="161" y="640" on="1"/>
+        <pt x="161" y="161" on="1"/>
+        <pt x="360" y="161" on="1"/>
+        <pt x="360" y="321" on="1"/>
+        <pt x="480" y="321" on="1"/>
+        <pt x="480" y="480" on="1"/>
+        <pt x="360" y="480" on="1"/>
+      </contour>
+      <contour>
+        <pt x="120" y="801" on="1"/>
+        <pt x="401" y="801" on="1"/>
+        <pt x="401" y="641" on="1"/>
+        <pt x="480" y="641" on="1"/>
+        <pt x="480" y="801" on="1"/>
+        <pt x="641" y="801" on="1"/>
+        <pt x="641" y="-320" on="1"/>
+        <pt x="480" y="-320" on="1"/>
+        <pt x="480" y="160" on="1"/>
+        <pt x="401" y="160" on="1"/>
+        <pt x="401" y="0" on="1"/>
+        <pt x="281" y="0" on="1"/>
+        <pt x="240" y="0" on="1"/>
+        <pt x="120" y="0" on="1"/>
+        <pt x="120" y="160" on="1"/>
+        <pt x="0" y="160" on="1"/>
+        <pt x="0" y="641" on="1"/>
+        <pt x="120" y="641" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="question" xMin="0" yMin="0" xMax="641" yMax="1121">
+      <contour>
+        <pt x="0" y="800" on="1"/>
+        <pt x="0" y="961" on="1"/>
+        <pt x="120" y="961" on="1"/>
+        <pt x="120" y="1121" on="1"/>
+        <pt x="521" y="1121" on="1"/>
+        <pt x="521" y="961" on="1"/>
+        <pt x="641" y="961" on="1"/>
+        <pt x="641" y="640" on="1"/>
+        <pt x="521" y="640" on="1"/>
+        <pt x="521" y="480" on="1"/>
+        <pt x="401" y="480" on="1"/>
+        <pt x="401" y="320" on="1"/>
+        <pt x="240" y="320" on="1"/>
+        <pt x="240" y="481" on="1"/>
+        <pt x="360" y="481" on="1"/>
+        <pt x="360" y="641" on="1"/>
+        <pt x="480" y="641" on="1"/>
+        <pt x="480" y="960" on="1"/>
+        <pt x="240" y="960" on="1"/>
+        <pt x="161" y="960" on="1"/>
+        <pt x="161" y="800" on="1"/>
+      </contour>
+      <contour>
+        <pt x="240" y="0" on="1"/>
+        <pt x="240" y="161" on="1"/>
+        <pt x="401" y="161" on="1"/>
+        <pt x="401" y="0" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="quotedbl" xMin="120" yMin="640" xMax="521" yMax="1121">
+      <contour>
+        <pt x="281" y="1121" on="1"/>
+        <pt x="281" y="640" on="1"/>
+        <pt x="120" y="640" on="1"/>
+        <pt x="120" y="1121" on="1"/>
+      </contour>
+      <contour>
+        <pt x="521" y="1121" on="1"/>
+        <pt x="521" y="640" on="1"/>
+        <pt x="360" y="640" on="1"/>
+        <pt x="360" y="1121" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="quotesingle" xMin="120" yMin="640" xMax="521" yMax="1121">
+      <contour>
+        <pt x="120" y="640" on="1"/>
+        <pt x="120" y="801" on="1"/>
+        <pt x="240" y="801" on="1"/>
+        <pt x="240" y="961" on="1"/>
+        <pt x="360" y="961" on="1"/>
+        <pt x="360" y="1121" on="1"/>
+        <pt x="521" y="1121" on="1"/>
+        <pt x="521" y="960" on="1"/>
+        <pt x="401" y="960" on="1"/>
+        <pt x="401" y="800" on="1"/>
+        <pt x="281" y="800" on="1"/>
+        <pt x="281" y="640" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="r" xMin="0" yMin="0" xMax="641" yMax="801">
+      <contour>
+        <pt x="480" y="640" on="1"/>
+        <pt x="360" y="640" on="1"/>
+        <pt x="281" y="640" on="1"/>
+        <pt x="281" y="480" on="1"/>
+        <pt x="161" y="480" on="1"/>
+        <pt x="161" y="0" on="1"/>
+        <pt x="0" y="0" on="1"/>
+        <pt x="0" y="801" on="1"/>
+        <pt x="161" y="801" on="1"/>
+        <pt x="161" y="641" on="1"/>
+        <pt x="240" y="641" on="1"/>
+        <pt x="240" y="801" on="1"/>
+        <pt x="521" y="801" on="1"/>
+        <pt x="521" y="641" on="1"/>
+        <pt x="641" y="641" on="1"/>
+        <pt x="641" y="480" on="1"/>
+        <pt x="480" y="480" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="s" xMin="0" yMin="0" xMax="641" yMax="801">
+      <contour>
+        <pt x="0" y="480" on="1"/>
+        <pt x="0" y="641" on="1"/>
+        <pt x="120" y="641" on="1"/>
+        <pt x="120" y="801" on="1"/>
+        <pt x="641" y="801" on="1"/>
+        <pt x="641" y="640" on="1"/>
+        <pt x="240" y="640" on="1"/>
+        <pt x="161" y="640" on="1"/>
+        <pt x="161" y="481" on="1"/>
+        <pt x="521" y="481" on="1"/>
+        <pt x="521" y="321" on="1"/>
+        <pt x="641" y="321" on="1"/>
+        <pt x="641" y="160" on="1"/>
+        <pt x="521" y="160" on="1"/>
+        <pt x="521" y="0" on="1"/>
+        <pt x="401" y="0" on="1"/>
+        <pt x="360" y="0" on="1"/>
+        <pt x="281" y="0" on="1"/>
+        <pt x="240" y="0" on="1"/>
+        <pt x="161" y="0" on="1"/>
+        <pt x="120" y="0" on="1"/>
+        <pt x="0" y="0" on="1"/>
+        <pt x="0" y="161" on="1"/>
+        <pt x="480" y="161" on="1"/>
+        <pt x="480" y="320" on="1"/>
+        <pt x="120" y="320" on="1"/>
+        <pt x="120" y="480" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="semicolon" xMin="120" yMin="-160" xMax="401" yMax="801">
+      <contour>
+        <pt x="240" y="640" on="1"/>
+        <pt x="240" y="801" on="1"/>
+        <pt x="401" y="801" on="1"/>
+        <pt x="401" y="640" on="1"/>
+      </contour>
+      <contour>
+        <pt x="120" y="-160" on="1"/>
+        <pt x="120" y="1" on="1"/>
+        <pt x="240" y="1" on="1"/>
+        <pt x="240" y="321" on="1"/>
+        <pt x="401" y="321" on="1"/>
+        <pt x="401" y="0" on="1"/>
+        <pt x="281" y="0" on="1"/>
+        <pt x="281" y="-160" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="seven" xMin="0" yMin="0" xMax="641" yMax="1121">
+      <contour>
+        <pt x="0" y="960" on="1"/>
+        <pt x="0" y="1121" on="1"/>
+        <pt x="641" y="1121" on="1"/>
+        <pt x="641" y="800" on="1"/>
+        <pt x="521" y="800" on="1"/>
+        <pt x="521" y="640" on="1"/>
+        <pt x="401" y="640" on="1"/>
+        <pt x="401" y="480" on="1"/>
+        <pt x="281" y="480" on="1"/>
+        <pt x="281" y="0" on="1"/>
+        <pt x="120" y="0" on="1"/>
+        <pt x="120" y="481" on="1"/>
+        <pt x="240" y="481" on="1"/>
+        <pt x="240" y="641" on="1"/>
+        <pt x="360" y="641" on="1"/>
+        <pt x="360" y="801" on="1"/>
+        <pt x="480" y="801" on="1"/>
+        <pt x="480" y="960" on="1"/>
+        <pt x="401" y="960" on="1"/>
+        <pt x="120" y="960" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="six" xMin="0" yMin="0" xMax="641" yMax="1121">
+      <contour>
+        <pt x="521" y="960" on="1"/>
+        <pt x="360" y="960" on="1"/>
+        <pt x="281" y="960" on="1"/>
+        <pt x="281" y="800" on="1"/>
+        <pt x="161" y="800" on="1"/>
+        <pt x="161" y="641" on="1"/>
+        <pt x="521" y="641" on="1"/>
+        <pt x="521" y="481" on="1"/>
+        <pt x="641" y="481" on="1"/>
+        <pt x="641" y="160" on="1"/>
+        <pt x="521" y="160" on="1"/>
+        <pt x="521" y="0" on="1"/>
+        <pt x="401" y="0" on="1"/>
+        <pt x="360" y="0" on="1"/>
+        <pt x="281" y="0" on="1"/>
+        <pt x="240" y="0" on="1"/>
+        <pt x="120" y="0" on="1"/>
+        <pt x="120" y="160" on="1"/>
+        <pt x="0" y="160" on="1"/>
+        <pt x="0" y="801" on="1"/>
+        <pt x="120" y="801" on="1"/>
+        <pt x="120" y="961" on="1"/>
+        <pt x="240" y="961" on="1"/>
+        <pt x="240" y="1121" on="1"/>
+        <pt x="521" y="1121" on="1"/>
+      </contour>
+      <contour>
+        <pt x="480" y="480" on="1"/>
+        <pt x="161" y="480" on="1"/>
+        <pt x="161" y="161" on="1"/>
+        <pt x="480" y="161" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="slash" xMin="0" yMin="160" xMax="641" yMax="961">
+      <contour>
+        <pt x="0" y="160" on="1"/>
+        <pt x="0" y="321" on="1"/>
+        <pt x="120" y="321" on="1"/>
+        <pt x="120" y="481" on="1"/>
+        <pt x="240" y="481" on="1"/>
+        <pt x="240" y="641" on="1"/>
+        <pt x="360" y="641" on="1"/>
+        <pt x="360" y="801" on="1"/>
+        <pt x="480" y="801" on="1"/>
+        <pt x="480" y="961" on="1"/>
+        <pt x="641" y="961" on="1"/>
+        <pt x="641" y="800" on="1"/>
+        <pt x="521" y="800" on="1"/>
+        <pt x="521" y="640" on="1"/>
+        <pt x="401" y="640" on="1"/>
+        <pt x="401" y="480" on="1"/>
+        <pt x="281" y="480" on="1"/>
+        <pt x="281" y="320" on="1"/>
+        <pt x="161" y="320" on="1"/>
+        <pt x="161" y="160" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="space"/><!-- contains no outline data -->
+
+    <TTGlyph name="t" xMin="0" yMin="0" xMax="521" yMax="1121">
+      <contour>
+        <pt x="0" y="640" on="1"/>
+        <pt x="0" y="801" on="1"/>
+        <pt x="120" y="801" on="1"/>
+        <pt x="120" y="1121" on="1"/>
+        <pt x="281" y="1121" on="1"/>
+        <pt x="281" y="801" on="1"/>
+        <pt x="401" y="801" on="1"/>
+        <pt x="401" y="640" on="1"/>
+        <pt x="281" y="640" on="1"/>
+        <pt x="281" y="161" on="1"/>
+        <pt x="360" y="161" on="1"/>
+        <pt x="360" y="321" on="1"/>
+        <pt x="521" y="321" on="1"/>
+        <pt x="521" y="160" on="1"/>
+        <pt x="401" y="160" on="1"/>
+        <pt x="401" y="0" on="1"/>
+        <pt x="240" y="0" on="1"/>
+        <pt x="240" y="160" on="1"/>
+        <pt x="120" y="160" on="1"/>
+        <pt x="120" y="640" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="three" xMin="0" yMin="0" xMax="641" yMax="1121">
+      <contour>
+        <pt x="0" y="800" on="1"/>
+        <pt x="0" y="961" on="1"/>
+        <pt x="120" y="961" on="1"/>
+        <pt x="120" y="1121" on="1"/>
+        <pt x="521" y="1121" on="1"/>
+        <pt x="521" y="961" on="1"/>
+        <pt x="641" y="961" on="1"/>
+        <pt x="641" y="640" on="1"/>
+        <pt x="521" y="640" on="1"/>
+        <pt x="521" y="481" on="1"/>
+        <pt x="641" y="481" on="1"/>
+        <pt x="641" y="160" on="1"/>
+        <pt x="521" y="160" on="1"/>
+        <pt x="521" y="0" on="1"/>
+        <pt x="401" y="0" on="1"/>
+        <pt x="360" y="0" on="1"/>
+        <pt x="281" y="0" on="1"/>
+        <pt x="240" y="0" on="1"/>
+        <pt x="120" y="0" on="1"/>
+        <pt x="120" y="160" on="1"/>
+        <pt x="0" y="160" on="1"/>
+        <pt x="0" y="321" on="1"/>
+        <pt x="161" y="321" on="1"/>
+        <pt x="161" y="161" on="1"/>
+        <pt x="480" y="161" on="1"/>
+        <pt x="480" y="480" on="1"/>
+        <pt x="360" y="480" on="1"/>
+        <pt x="240" y="480" on="1"/>
+        <pt x="240" y="641" on="1"/>
+        <pt x="480" y="641" on="1"/>
+        <pt x="480" y="960" on="1"/>
+        <pt x="240" y="960" on="1"/>
+        <pt x="161" y="960" on="1"/>
+        <pt x="161" y="800" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="two" xMin="0" yMin="0" xMax="641" yMax="1121">
+      <contour>
+        <pt x="0" y="800" on="1"/>
+        <pt x="0" y="961" on="1"/>
+        <pt x="120" y="961" on="1"/>
+        <pt x="120" y="1121" on="1"/>
+        <pt x="521" y="1121" on="1"/>
+        <pt x="521" y="961" on="1"/>
+        <pt x="641" y="961" on="1"/>
+        <pt x="641" y="640" on="1"/>
+        <pt x="521" y="640" on="1"/>
+        <pt x="521" y="480" on="1"/>
+        <pt x="240" y="480" on="1"/>
+        <pt x="161" y="480" on="1"/>
+        <pt x="161" y="161" on="1"/>
+        <pt x="641" y="161" on="1"/>
+        <pt x="641" y="0" on="1"/>
+        <pt x="521" y="0" on="1"/>
+        <pt x="480" y="0" on="1"/>
+        <pt x="401" y="0" on="1"/>
+        <pt x="360" y="0" on="1"/>
+        <pt x="281" y="0" on="1"/>
+        <pt x="240" y="0" on="1"/>
+        <pt x="161" y="0" on="1"/>
+        <pt x="120" y="0" on="1"/>
+        <pt x="0" y="0" on="1"/>
+        <pt x="0" y="481" on="1"/>
+        <pt x="120" y="481" on="1"/>
+        <pt x="120" y="641" on="1"/>
+        <pt x="480" y="641" on="1"/>
+        <pt x="480" y="960" on="1"/>
+        <pt x="240" y="960" on="1"/>
+        <pt x="161" y="960" on="1"/>
+        <pt x="161" y="800" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="u" xMin="0" yMin="0" xMax="641" yMax="801">
+      <contour>
+        <pt x="161" y="801" on="1"/>
+        <pt x="161" y="161" on="1"/>
+        <pt x="360" y="161" on="1"/>
+        <pt x="360" y="321" on="1"/>
+        <pt x="480" y="321" on="1"/>
+        <pt x="480" y="801" on="1"/>
+        <pt x="641" y="801" on="1"/>
+        <pt x="641" y="0" on="1"/>
+        <pt x="480" y="0" on="1"/>
+        <pt x="480" y="160" on="1"/>
+        <pt x="401" y="160" on="1"/>
+        <pt x="401" y="0" on="1"/>
+        <pt x="281" y="0" on="1"/>
+        <pt x="240" y="0" on="1"/>
+        <pt x="120" y="0" on="1"/>
+        <pt x="120" y="160" on="1"/>
+        <pt x="0" y="160" on="1"/>
+        <pt x="0" y="801" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="underscore" xMin="0" yMin="0" xMax="641" yMax="161">
+      <contour>
+        <pt x="0" y="0" on="1"/>
+        <pt x="0" y="161" on="1"/>
+        <pt x="641" y="161" on="1"/>
+        <pt x="641" y="0" on="1"/>
+        <pt x="521" y="0" on="1"/>
+        <pt x="480" y="0" on="1"/>
+        <pt x="401" y="0" on="1"/>
+        <pt x="360" y="0" on="1"/>
+        <pt x="281" y="0" on="1"/>
+        <pt x="240" y="0" on="1"/>
+        <pt x="161" y="0" on="1"/>
+        <pt x="120" y="0" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="v" xMin="0" yMin="0" xMax="641" yMax="801">
+      <contour>
+        <pt x="161" y="801" on="1"/>
+        <pt x="161" y="321" on="1"/>
+        <pt x="281" y="321" on="1"/>
+        <pt x="281" y="161" on="1"/>
+        <pt x="360" y="161" on="1"/>
+        <pt x="360" y="321" on="1"/>
+        <pt x="480" y="321" on="1"/>
+        <pt x="480" y="801" on="1"/>
+        <pt x="641" y="801" on="1"/>
+        <pt x="641" y="320" on="1"/>
+        <pt x="521" y="320" on="1"/>
+        <pt x="521" y="160" on="1"/>
+        <pt x="401" y="160" on="1"/>
+        <pt x="401" y="0" on="1"/>
+        <pt x="240" y="0" on="1"/>
+        <pt x="240" y="160" on="1"/>
+        <pt x="120" y="160" on="1"/>
+        <pt x="120" y="320" on="1"/>
+        <pt x="0" y="320" on="1"/>
+        <pt x="0" y="801" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="w" xMin="0" yMin="0" xMax="641" yMax="801">
+      <contour>
+        <pt x="161" y="801" on="1"/>
+        <pt x="161" y="161" on="1"/>
+        <pt x="240" y="161" on="1"/>
+        <pt x="240" y="481" on="1"/>
+        <pt x="401" y="481" on="1"/>
+        <pt x="401" y="161" on="1"/>
+        <pt x="480" y="161" on="1"/>
+        <pt x="480" y="801" on="1"/>
+        <pt x="641" y="801" on="1"/>
+        <pt x="641" y="160" on="1"/>
+        <pt x="521" y="160" on="1"/>
+        <pt x="521" y="0" on="1"/>
+        <pt x="360" y="0" on="1"/>
+        <pt x="360" y="160" on="1"/>
+        <pt x="281" y="160" on="1"/>
+        <pt x="281" y="0" on="1"/>
+        <pt x="120" y="0" on="1"/>
+        <pt x="120" y="160" on="1"/>
+        <pt x="0" y="160" on="1"/>
+        <pt x="0" y="801" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="x" xMin="0" yMin="0" xMax="641" yMax="801">
+      <contour>
+        <pt x="0" y="640" on="1"/>
+        <pt x="0" y="801" on="1"/>
+        <pt x="161" y="801" on="1"/>
+        <pt x="161" y="641" on="1"/>
+        <pt x="281" y="641" on="1"/>
+        <pt x="281" y="481" on="1"/>
+        <pt x="360" y="481" on="1"/>
+        <pt x="360" y="641" on="1"/>
+        <pt x="480" y="641" on="1"/>
+        <pt x="480" y="801" on="1"/>
+        <pt x="641" y="801" on="1"/>
+        <pt x="641" y="640" on="1"/>
+        <pt x="521" y="640" on="1"/>
+        <pt x="521" y="480" on="1"/>
+        <pt x="401" y="480" on="1"/>
+        <pt x="401" y="321" on="1"/>
+        <pt x="521" y="321" on="1"/>
+        <pt x="521" y="161" on="1"/>
+        <pt x="641" y="161" on="1"/>
+        <pt x="641" y="0" on="1"/>
+        <pt x="480" y="0" on="1"/>
+        <pt x="480" y="160" on="1"/>
+        <pt x="360" y="160" on="1"/>
+        <pt x="360" y="320" on="1"/>
+        <pt x="281" y="320" on="1"/>
+        <pt x="281" y="160" on="1"/>
+        <pt x="161" y="160" on="1"/>
+        <pt x="161" y="0" on="1"/>
+        <pt x="0" y="0" on="1"/>
+        <pt x="0" y="161" on="1"/>
+        <pt x="120" y="161" on="1"/>
+        <pt x="120" y="321" on="1"/>
+        <pt x="240" y="321" on="1"/>
+        <pt x="240" y="480" on="1"/>
+        <pt x="120" y="480" on="1"/>
+        <pt x="120" y="640" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="y" xMin="0" yMin="-320" xMax="641" yMax="801">
+      <contour>
+        <pt x="120" y="-320" on="1"/>
+        <pt x="120" y="-159" on="1"/>
+        <pt x="480" y="-159" on="1"/>
+        <pt x="480" y="160" on="1"/>
+        <pt x="401" y="160" on="1"/>
+        <pt x="401" y="0" on="1"/>
+        <pt x="281" y="0" on="1"/>
+        <pt x="240" y="0" on="1"/>
+        <pt x="120" y="0" on="1"/>
+        <pt x="120" y="160" on="1"/>
+        <pt x="0" y="160" on="1"/>
+        <pt x="0" y="801" on="1"/>
+        <pt x="161" y="801" on="1"/>
+        <pt x="161" y="161" on="1"/>
+        <pt x="360" y="161" on="1"/>
+        <pt x="360" y="321" on="1"/>
+        <pt x="480" y="321" on="1"/>
+        <pt x="480" y="801" on="1"/>
+        <pt x="641" y="801" on="1"/>
+        <pt x="641" y="-160" on="1"/>
+        <pt x="521" y="-160" on="1"/>
+        <pt x="521" y="-320" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="z" xMin="0" yMin="0" xMax="641" yMax="801">
+      <contour>
+        <pt x="0" y="640" on="1"/>
+        <pt x="0" y="801" on="1"/>
+        <pt x="641" y="801" on="1"/>
+        <pt x="641" y="640" on="1"/>
+        <pt x="521" y="640" on="1"/>
+        <pt x="521" y="480" on="1"/>
+        <pt x="401" y="480" on="1"/>
+        <pt x="401" y="320" on="1"/>
+        <pt x="281" y="320" on="1"/>
+        <pt x="281" y="161" on="1"/>
+        <pt x="641" y="161" on="1"/>
+        <pt x="641" y="0" on="1"/>
+        <pt x="521" y="0" on="1"/>
+        <pt x="480" y="0" on="1"/>
+        <pt x="401" y="0" on="1"/>
+        <pt x="360" y="0" on="1"/>
+        <pt x="281" y="0" on="1"/>
+        <pt x="240" y="0" on="1"/>
+        <pt x="161" y="0" on="1"/>
+        <pt x="120" y="0" on="1"/>
+        <pt x="0" y="0" on="1"/>
+        <pt x="0" y="161" on="1"/>
+        <pt x="120" y="161" on="1"/>
+        <pt x="120" y="321" on="1"/>
+        <pt x="240" y="321" on="1"/>
+        <pt x="240" y="481" on="1"/>
+        <pt x="360" y="481" on="1"/>
+        <pt x="360" y="640" on="1"/>
+        <pt x="281" y="640" on="1"/>
+        <pt x="120" y="640" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+    <TTGlyph name="zero" xMin="0" yMin="0" xMax="641" yMax="1121">
+      <contour>
+        <pt x="480" y="960" on="1"/>
+        <pt x="240" y="960" on="1"/>
+        <pt x="161" y="960" on="1"/>
+        <pt x="161" y="481" on="1"/>
+        <pt x="240" y="481" on="1"/>
+        <pt x="240" y="641" on="1"/>
+        <pt x="360" y="641" on="1"/>
+        <pt x="360" y="801" on="1"/>
+        <pt x="480" y="801" on="1"/>
+      </contour>
+      <contour>
+        <pt x="120" y="1121" on="1"/>
+        <pt x="521" y="1121" on="1"/>
+        <pt x="521" y="961" on="1"/>
+        <pt x="641" y="961" on="1"/>
+        <pt x="641" y="160" on="1"/>
+        <pt x="521" y="160" on="1"/>
+        <pt x="521" y="0" on="1"/>
+        <pt x="401" y="0" on="1"/>
+        <pt x="360" y="0" on="1"/>
+        <pt x="281" y="0" on="1"/>
+        <pt x="240" y="0" on="1"/>
+        <pt x="120" y="0" on="1"/>
+        <pt x="120" y="160" on="1"/>
+        <pt x="0" y="160" on="1"/>
+        <pt x="0" y="961" on="1"/>
+        <pt x="120" y="961" on="1"/>
+      </contour>
+      <contour>
+        <pt x="401" y="640" on="1"/>
+        <pt x="401" y="480" on="1"/>
+        <pt x="281" y="480" on="1"/>
+        <pt x="281" y="320" on="1"/>
+        <pt x="161" y="320" on="1"/>
+        <pt x="161" y="161" on="1"/>
+        <pt x="480" y="161" on="1"/>
+        <pt x="480" y="640" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+  </glyf>
+
+</ttFont>

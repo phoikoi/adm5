@@ -1,0 +1,19 @@
+FONTLOG for the ADM5 font
+
+This file provides detailed information on the ADM5 Font Software.
+This information should be distributed along with the ADM5 fonts
+and any derivative works.
+
+Basic Font Information
+
+ADM5 is a typeface family that supports the ASCII printable
+character set. Its glyph set is based on the characters from the
+ADM5 series of text terminals produced by Lear Siegler in the
+late 20th century.
+
+It is planned to be updated with additional Latin-1 support in the future.
+
+ChangeLog
+
+8 January 2016 (Peter Hull) ADM5 version 1.0.0
+- First released version, supporting only ASCII printables
