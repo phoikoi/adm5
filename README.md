@@ -3,6 +3,11 @@
 This typeface is made to resemble the characters produced by the
 [ADM5 text terminal](http://terminals.classiccmp.org/wiki/index.php/Lear_Siegler_ADM-5) produced by Lear Siegler in the 1980s.
 
+The font includes rudimentary versions of the Powerline glyphs, but
+you may be better off using another typeface for those, as the
+versions here are necessarily crude, limited as they are by the
+5x7 matrix of the source bitmaps.
+
 ## Building the font
 
 The font glyphs are defined (fairly obviously) in the [data.py](data.py)
