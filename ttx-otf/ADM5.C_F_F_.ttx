@@ -107,2551 +107,2399 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
       <UnderlineThickness value="50"/>
       <PaintType value="0"/>
       <CharstringType value="2"/>
-      <FontMatrix value="0.0005 0 0 0.0005 0 0"/>
-      <FontBBox value="0 -320 641 1121"/>
+      <FontMatrix value="0.00101215 0 0 0.00101215 0 0"/>
+      <FontBBox value="66 -201 481 804"/>
       <StrokeWidth value="0"/>
       <!-- charset is dumped separately as the 'GlyphOrder' element -->
       <Encoding name="StandardEncoding"/>
       <Private>
-        <BlueValues value="0 0 801 801 1121 1121"/>
-        <OtherBlues value="-320 -320"/>
+        <BlueValues value="-1 -1 504 504 704 704"/>
+        <OtherBlues value="-201 -201"/>
         <BlueScale value="0.039625"/>
         <BlueShift value="0"/>
         <BlueFuzz value="1"/>
-        <StdHW value="161"/>
-        <StdVW value="161"/>
-        <StemSnapH value="161 321 481"/>
-        <StemSnapV value="161 281 401 521 641"/>
+        <StdHW value="105"/>
+        <StdVW value="105"/>
+        <StemSnapH value="105 205 305"/>
+        <StemSnapV value="105 182 183 260 337"/>
         <ForceBold value="0"/>
         <LanguageGroup value="0"/>
         <ExpansionFactor value="0.06"/>
         <initialRandomSeed value="0"/>
-        <defaultWidthX value="860"/>
-        <nominalWidthX value="613"/>
+        <defaultWidthX value="542"/>
+        <nominalWidthX value="512"/>
         <Subrs>
           <!-- The 'index' attribute is only for humans; it is ignored when parsed. -->
           <CharString index="0">
-            161 161 -161 hlineto
+            -100 78 vlineto
+            27 0 50 0 28 0 77 0 rlineto
             return
           </CharString>
           <CharString index="1">
-            -161 -481 161 hlineto
+            -195 -205 195 vlineto
             return
           </CharString>
           <CharString index="2">
-            120 161 -161 hlineto
+            77 -100 78 hlineto
+            27 0 50 0 28 0 77 0 0 100 rlineto
             return
           </CharString>
           <CharString index="3">
-            120 321 hlineto
+            -100 -127 295 vlineto
             return
           </CharString>
           <CharString index="4">
-            -160 161 161 vlineto
+            -100 78 vlineto
+            27 0 78 0 rlineto
             return
           </CharString>
           <CharString index="5">
-            -120 159 hlineto
-            return
-          </CharString>
-          <CharString index="6">
-            -120 -160 hlineto
-            return
-          </CharString>
-          <CharString index="7">
-            -120 -481 hlineto
-            return
-          </CharString>
-          <CharString index="8">
-            120 -160 hlineto
-            return
-          </CharString>
-          <CharString index="9">
-            -120 -161 161 hlineto
-            return
-          </CharString>
-          <CharString index="10">
-            120 160 hlineto
-            return
-          </CharString>
-          <CharString index="11">
-            -120 160 hlineto
-            return
-          </CharString>
-          <CharString index="12">
-            160 -161 vlineto
-            return
-          </CharString>
-          <CharString index="13">
-            120 0 521 0 0 161 -641 0 rlineto
-            return
-          </CharString>
-          <CharString index="14">
-            41 0 79 0 rlineto
-            return
-          </CharString>
-          <CharString index="15">
-            -160 120 vlineto
-            41 0 79 0 41 0 120 0 rlineto
-            return
-          </CharString>
-          <CharString index="16">
-            41 0 79 0 41 0 rlineto
-            return
-          </CharString>
-          <CharString index="17">
-            -319 -319 319 vlineto
-            return
-          </CharString>
-          <CharString index="18">
-            -319 -319 319 79 vlineto
-            return
-          </CharString>
-          <CharString index="19">
-            120 -159 hlineto
-            return
-          </CharString>
-          <CharString index="20">
-            120 161 hlineto
-            return
-          </CharString>
-          <CharString index="21">
-            -120 -160 -79 160 hlineto
-            return
-          </CharString>
-          <CharString index="22">
-            120 -160 120 hlineto
-            41 0 79 0 41 0 120 0 0 160 rlineto
-            return
-          </CharString>
-          <CharString index="23">
-            -160 -199 479 79 vlineto
-            return
-          </CharString>
-          <CharString index="24">
-            -160 120 vlineto
-            41 0 120 0 rlineto
-            return
-          </CharString>
-          <CharString index="25">
-            160 -281 vlineto
-            return
-          </CharString>
-          <CharString index="26">
-            120 0 41 0 79 0 41 0 120 0 0 161 -120 0 rlineto
+            78 0 27 0 50 0 28 0 77 0 0 105 -77 0 rlineto
             return
           </CharString>
         </Subrs>
       </Private>
       <CharStrings>
         <CharString name=".notdef">
-          387 0 100 866 100 hstem
-          100 100 600 100 vstem
-          100 hmoveto
-          800 1066 -800 hlineto
-          100 -966 rmoveto
-          866 600 -866 vlineto
+          -18 0 49 455 49 hstem
+          49 49 298 49 vstem
+          49 hmoveto
+          396 553 -396 hlineto
+          49 -504 rmoveto
+          455 298 -455 vlineto
           endchar
         </CharString>
         <CharString name="57504">
-          0 161 -1 161 -1 161 319 161 160 -20 hstemhm
-          0 161 -41 161 -41 161 -41 161 hintmask 0011100100000000
-          240 800 rmoveto
-          hintmask 0011100010000000
-          120 -319 hlineto
-          hintmask 0011100100000000
-          -120 hlineto
-          hintmask 0101100100000000
-          -160 vlineto
-          hintmask 0101101000000000
-          -120 hlineto
-          hintmask 1001101000000000
-          -160 vlineto
-          hintmask 1001110000000000
-          -98 callsubr
-          hintmask 0101110000000000
-          160 vlineto
-          hintmask 0101101000000000
-          120 hlineto
-          hintmask 0011101000000000
-          160 vlineto
-          hintmask 0011100100000000
-          -97 callsubr
-          hintmask 0011100010000000
-          120 320 120 161 -120 160 -161 -160 hlineto
-          hintmask 0011100100000000
-          -120 hlineto
-          hintmask 0001110000000000
-          -79 160 rmoveto
-          -161 -641 161 hlineto
+          -101 105 -5 105 395 105 100 -20 hstemhm
+          66 182 -182 105 50 105 -28 105 hintmask 01110010
+          221 499 rmoveto
+          hintmask 01110001
+          77 -395 hlineto
+          hintmask 01110110
+          -77 hlineto
+          hintmask 10110110
+          -100 -155 vlineto
+          hintmask 10111000
+          -105 182 vlineto
+          hintmask 01111000
+          100 vlineto
+          hintmask 01110010
+          78 100 hlineto
+          hintmask 01110001
+          77 400 78 105 -78 100 -105 -100 hlineto
+          hintmask 01110010
+          -77 hlineto
+          hintmask 00110100
+          -50 100 rmoveto
+          -105 -605 105 hlineto
           endchar
         </CharString>
         <CharString name="57505">
-          21 -21 21 -21 160 161 -1 161 159 161 320 -20 hstemhm
-          0 161 -41 281 -281 161 79 281 -161 161 hintmask 1001111000000000
-          161 1121 rmoveto
-          -161 -481 hlineto
-          hintmask 1001110011000000
-          120 -640 161 320 79 hlineto
-          hintmask 1010110001000000
-          -160 vlineto
-          hintmask 1010110100100000
-          120 -160 161 641 -161 -320 -79 hlineto
-          hintmask 1001110100000000
-          160 vlineto
-          hintmask 1001110010000000
-          -102 callsubr
-          hintmask 1001110100000000
-          -87 callsubr
-          hintmask 1001111000000000
-          -240 hlineto
+          -1 105 -5 105 95 105 300 -20 hstemhm
+          66 105 -28 183 -183 105 50 183 -105 105 hintmask 0111100000000000
+          171 704 rmoveto
+          -105 -405 hlineto
+          hintmask 0111001100000000
+          77 -400 105 200 50 hlineto
+          hintmask 1011000100000000
+          -100 vlineto
+          hintmask 1011010010000000
+          78 -100 105 405 -105 -200 -50 hlineto
+          hintmask 0111010000000000
+          100 vlineto
+          hintmask 0111001000000000
+          -78 95 hlineto
+          hintmask 0111010000000000
+          78 105 hlineto
+          hintmask 0111100000000000
+          -155 hlineto
           endchar
         </CharString>
         <CharString name="57506">
-          0 161 479 161 159 161 hstemhm
-          0 281 -281 161 199 281 -161 161 hintmask 11101010
-          480 960 rmoveto
-          -159 -319 159 79 vlineto
-          -120 161 rmoveto
-          -160 -120 -961 120 vlineto
-          41 0 79 0 rlineto
+          -1 105 295 105 95 105 hstemhm
+          66 182 -182 105 127 183 -105 105 hintmask 11101010
+          376 599 rmoveto
+          -95 -205 95 vlineto
+          -28 105 rmoveto
+          -100 -77 -605 77 vlineto
+          28 0 50 0 rlineto
           hintmask 11110100
-          -91 callsubr
+          27 0 50 0 28 0 rlineto
           hintmask 11101010
-          79 0 41 0 120 0 0 961 -120 0 0 160 rlineto
-          -120 -481 rmoveto
-          79 -159 hlineto
+          50 0 27 0 78 0 0 605 -78 0 0 100 rlineto
+          -27 -305 rmoveto
+          -95 vlineto
           hintmask 11110100
-          -120 -320 -79 320 hlineto
+          -78 -200 -50 200 hlineto
           hintmask 11101010
-          -102 callsubr
+          -77 95 hlineto
           endchar
         </CharString>
         <CharString name="57520">
-          21 -21 21 -21 480 161 480 -20 hstemhm
-          0 521 -521 401 -401 281 hintmask 10110010
-          1121 vmoveto
-          -1121 120 vlineto
-          41 0 120 0 0 160 rlineto
-          hintmask 10110100
-          -97 callsubr
-          hintmask 10111000
-          120 160 120 161 -120 160 hlineto
-          hintmask 10110100
-          -96 callsubr
-          hintmask 10110010
-          -96 callsubr
+          299 105 hstemhm
+          66 260 -260 182 -182 105 hintmask 10010000
+          66 -101 rmoveto
+          105 100 hlineto
+          hintmask 10100000
+          77 100 hlineto
+          hintmask 11000000
+          78 100 77 100 78 105 -78 100 -77 100 hlineto
+          hintmask 10100000
+          -78 100 hlineto
+          hintmask 10010000
+          -77 100 -105 hlineto
           endchar
         </CharString>
         <CharString name="57521">
-          0 161 -1 161 -1 161 -1 161 -1 161 -1 161 -1 161 hstemhm
-          0 281 -41 161 -41 161 -41 161 hintmask 0000001100000000
-          960 vmoveto
-          120 0 rlineto
-          hintmask 0000001010000000
-          120 hlineto
-          hintmask 0000010010000000
-          -160 vlineto
-          hintmask 0000010001000000
-          120 hlineto
-          hintmask 0010100001000000
-          -160 vlineto
-          hintmask 0010100000100000
-          -88 callsubr
-          hintmask 0010000001000000
-          -120 hlineto
+          -101 105 -5 105 -5 105 -5 105 -5 105 -5 105 -5 105 -5 105 -5 105 hstemhm
+          66 105 -28 105 -27 105 -28 105 -27 105 hintmask 0000000011000000
+          66 699 rmoveto
+          hintmask 0000000010100000
+          77 hlineto
+          hintmask 0000000100100000
+          -100 vlineto
+          hintmask 0000000100010000
+          78 hlineto
+          hintmask 0000001000010000
+          -100 vlineto
+          hintmask 0000001000001000
+          77 hlineto
+          hintmask 0001010000001000
+          -100 vlineto
+          hintmask 0001010000000100
+          78 -95 hlineto
+          hintmask 0001000000001000
+          -78 hlineto
+          hintmask 0010000000001000
+          -100 vlineto
+          hintmask 0010000000010000
+          -77 hlineto
+          hintmask 0100000000010000
+          -100 vlineto
+          hintmask 0100000000100000
+          -78 hlineto
+          hintmask 1000000000100000
+          -100 vlineto
+          hintmask 1000000001000000
+          -77 -105 105 hlineto
           hintmask 0100000001000000
-          -160 vlineto
-          hintmask 0100000010000000
-          -120 hlineto
-          hintmask 1000000010000000
-          -160 vlineto
-          hintmask 1000000100000000
-          -240 -161 120 hlineto
-          41 0 120 0 rlineto
-          hintmask 0100000100000000
-          160 vlineto
-          hintmask 0100000010000000
-          120 hlineto
-          hintmask 0010000010000000
-          160 vlineto
-          hintmask 0010000001000000
-          120 hlineto
-          hintmask 0001000001000000
-          160 vlineto
-          hintmask 0001000000100000
-          -87 callsubr
-          hintmask 0001000001000000
-          -120 hlineto
-          hintmask 0000100001000000
-          160 vlineto
-          hintmask 0000100010000000
-          -120 hlineto
-          hintmask 0000010010000000
-          160 vlineto
-          hintmask 0000010100000000
-          -120 hlineto
-          hintmask 0000001100000000
-          -82 callsubr
+          100 vlineto
+          hintmask 0100000000100000
+          77 hlineto
+          hintmask 0010000000100000
+          100 vlineto
+          hintmask 0010000000010000
+          78 hlineto
+          hintmask 0001000000010000
+          100 vlineto
+          hintmask 0001000000001000
+          77 hlineto
+          hintmask 0000100000001000
+          100 vlineto
+          hintmask 0000100000000100
+          78 105 hlineto
+          hintmask 0000100000001000
+          -78 hlineto
+          hintmask 0000010000001000
+          100 vlineto
+          hintmask 0000010000010000
+          -77 hlineto
+          hintmask 0000001000010000
+          100 vlineto
+          hintmask 0000001000100000
+          -78 hlineto
+          hintmask 0000000100100000
+          100 vlineto
+          hintmask 0000000101000000
+          -77 hlineto
+          hintmask 0000000011000000
+          100 -105 vlineto
           endchar
         </CharString>
         <CharString name="57522">
-          21 -21 21 -21 480 161 480 -20 hstemhm
-          120 521 -401 401 -281 281 hintmask 10111000
-          480 vmoveto
-          -99 callsubr
-          hintmask 10110100
-          -99 callsubr
-          hintmask 10110010
-          120 -160 120 hlineto
-          41 0 120 0 0 1121 -281 0 0 -160 rlineto
-          hintmask 10110100
-          -101 callsubr
-          hintmask 10111000
-          -120 -160 -120 hlineto
+          299 105 hstemhm
+          221 260 -183 183 -105 105 hintmask 11000000
+          66 299 rmoveto
+          77 -100 78 -100 hlineto
+          hintmask 10100000
+          77 -100 hlineto
+          hintmask 10010000
+          78 -100 105 905 -105 -100 hlineto
+          hintmask 10100000
+          -78 -100 hlineto
+          hintmask 11000000
+          -77 -100 -78 -100 -77 hlineto
           endchar
         </CharString>
         <CharString name="57523">
-          0 161 -1 161 -1 161 -1 161 -1 161 -1 161 -1 161 hstemhm
-          0 161 -41 161 -41 161 -41 281 hintmask 0001000100000000
-          480 vmoveto
-          hintmask 0001000010000000
-          120 hlineto
-          hintmask 0010000010000000
-          -160 vlineto
-          hintmask 0010000001000000
-          120 hlineto
-          hintmask 0100000001000000
-          -160 vlineto
-          hintmask 0100000000100000
-          120 hlineto
-          hintmask 1000000000100000
-          -160 120 vlineto
-          41 0 120 0 0 161 rlineto
-          hintmask 1000000001000000
-          -240 hlineto
-          hintmask 0100000001000000
-          160 vlineto
-          hintmask 0100000010000000
-          -120 hlineto
-          hintmask 0010100010000000
-          160 vlineto
-          hintmask 0010100100000000
-          -102 callsubr
-          hintmask 0000100010000000
-          120 hlineto
-          hintmask 0000010010000000
-          160 vlineto
-          hintmask 0000010001000000
-          120 hlineto
-          hintmask 0000001001000000
-          160 79 vlineto
-          hintmask 0000001000100000
-          161 161 -281 hlineto
+          -101 105 -5 105 -5 105 -5 105 -5 105 -5 105 -5 105 -5 105 -5 105 hstemhm
+          66 105 -28 105 -27 105 -28 105 -27 105 hintmask 0000100001000000
+          66 299 rmoveto
+          hintmask 0000100000100000
+          77 hlineto
+          hintmask 0001000000100000
+          -100 vlineto
+          hintmask 0001000000010000
+          78 hlineto
+          hintmask 0010000000010000
+          -100 vlineto
+          hintmask 0010000000001000
+          77 hlineto
+          hintmask 0100000000001000
+          -100 vlineto
+          hintmask 0100000000000100
+          78 hlineto
+          hintmask 1000000000000100
+          -100 105 105 vlineto
+          hintmask 1000000000001000
+          -78 hlineto
+          hintmask 0100000000001000
+          100 vlineto
+          hintmask 0100000000010000
+          -77 hlineto
+          hintmask 0010000000010000
+          100 vlineto
+          hintmask 0010000000100000
+          -78 hlineto
+          hintmask 0001010000100000
+          100 vlineto
+          hintmask 0001010001000000
+          -77 95 hlineto
           hintmask 0000010000100000
-          -160 vlineto
-          hintmask 0000010001000000
-          -120 hlineto
+          77 hlineto
+          hintmask 0000001000100000
+          100 vlineto
+          hintmask 0000001000010000
+          78 hlineto
+          hintmask 0000000100010000
+          100 vlineto
+          hintmask 0000000100001000
+          77 hlineto
+          hintmask 0000000010001000
+          100 vlineto
+          hintmask 0000000010000100
+          78 105 -105 hlineto
+          hintmask 0000000100000100
+          -100 vlineto
+          hintmask 0000000100001000
+          -78 hlineto
+          hintmask 0000001000001000
+          -100 vlineto
+          hintmask 0000001000010000
+          -77 hlineto
+          hintmask 0000010000010000
+          -100 vlineto
+          hintmask 0000010000100000
+          -78 hlineto
+          hintmask 0000100000100000
+          -100 vlineto
           hintmask 0000100001000000
-          -160 vlineto
-          hintmask 0000100010000000
-          -120 hlineto
-          hintmask 0001000010000000
-          -160 vlineto
-          hintmask 0001000100000000
-          -120 hlineto
+          -77 hlineto
           endchar
         </CharString>
         <CharString name="A">
-          21 -21 21 -21 320 161 319 161 -1 161 hstemhm
-          0 161 -41 161 -41 161 -41 161 -41 161 hintmask 0010101010000000
-          281 960 rmoveto
-          79 hlineto
+          20 -21 21 -21 200 105 195 105 -5 105 hstemhm
+          66 105 -28 105 -27 105 -28 105 -27 105 hintmask 0010101010000000
+          248 599 rmoveto
+          50 hlineto
           hintmask 0011000010000000
-          -160 vlineto
+          -100 vlineto
           hintmask 0011010001000000
-          120 -319 -319 319 hlineto
+          78 -195 -205 195 hlineto
           hintmask 0011001010000000
-          120 hlineto
+          77 hlineto
           hintmask 1011000100000000
-          -41 161 rmoveto
+          -27 105 rmoveto
           hintmask 1011001000000000
-          -101 callsubr
+          -78 -100 hlineto
           hintmask 1011010001000000
-          -120 -801 161 320 319 -320 161 801 hlineto
+          -77 -505 105 200 205 -200 105 505 hlineto
           hintmask 0011000010000000
-          -96 callsubr
+          -78 100 hlineto
           hintmask 0011000100000000
-          -120 hlineto
+          -77 hlineto
           hintmask 0010100100000000
-          -95 callsubr
+          100 -105 vlineto
           endchar
         </CharString>
         <CharString name="B">
-          0 161 319 161 319 161 hstemhm
-          0 521 -521 161 319 161 cntrmask 11100000
+          -1 105 195 105 195 105 hstemhm
+          66 337 -337 105 205 105 cntrmask 11100000
           hintmask 11110000
-          1121 vmoveto
-          -1121 120 vlineto
+          66 704 rmoveto
+          -705 77 vlineto
           hintmask 11101000
-          41 0 79 0 41 0 79 0 41 0 rlineto
+          28 0 50 0 27 0 50 0 28 0 rlineto
           hintmask 11110000
-          -97 callsubr
+          77 100 hlineto
           hintmask 11100100
-          -104 callsubr
+          78 205 hlineto
           hintmask 11110000
-          -102 callsubr
+          -78 95 hlineto
           hintmask 11100100
-          -104 callsubr
+          78 205 hlineto
           hintmask 11110000
-          -96 callsubr
+          -78 100 hlineto
           hintmask 11101100
-          -41 -161 rmoveto
-          -90 callsubr
-          319 -480 rmoveto
-          -90 callsubr
+          -27 -105 rmoveto
+          -106 callsubr
+          205 -300 rmoveto
+          -106 callsubr
           endchar
         </CharString>
         <CharString name="C">
-          0 161 -1 161 479 161 -1 161 hstemhm
-          0 161 -41 401 -41 161 hintmask 00010010
-          480 960 rmoveto
+          -1 105 -5 105 295 105 -5 105 hstemhm
+          66 105 -28 260 -27 105 hintmask 00010010
+          376 599 rmoveto
           hintmask 00100010
-          -103 callsubr
+          -100 105 105 vlineto
           hintmask 00100100
-          -120 hlineto
+          -78 hlineto
           hintmask 00010100
-          160 -401 vlineto
+          100 -260 vlineto
           hintmask 01100100
-          -160 vlineto
+          -100 vlineto
           hintmask 01101000
-          -120 -801 hlineto
+          -77 -505 hlineto
           hintmask 01000100
-          120 hlineto
+          77 hlineto
           hintmask 10000100
-          -92 callsubr
+          -107 callsubr
           hintmask 01000100
-          160 vlineto
+          100 vlineto
           hintmask 01001010
-          -105 callsubr
+          78 105 -105 hlineto
           hintmask 10011010
-          -160 -319 799 79 vlineto
+          -100 -205 495 vlineto
           endchar
         </CharString>
         <CharString name="D">
-          0 161 -1 161 479 161 -1 161 hstemhm
-          0 401 -401 161 199 161 -41 161 hintmask 10011000
-          1121 vmoveto
-          -1121 120 vlineto
+          -1 105 -5 105 295 105 -5 105 hstemhm
+          66 260 -260 105 127 105 -27 105 hintmask 10011000
+          66 704 rmoveto
+          -705 77 vlineto
           hintmask 10000100
-          -91 callsubr
+          28 0 50 0 27 0 rlineto
           hintmask 10001000
-          120 hlineto
+          78 hlineto
           hintmask 01101000
-          160 vlineto
+          100 vlineto
           hintmask 01100010
-          -97 callsubr
+          77 100 hlineto
           hintmask 00100001
-          120 481 hlineto
+          78 305 hlineto
           hintmask 00100010
-          -96 callsubr
+          -78 100 hlineto
           hintmask 00101000
-          -120 hlineto
+          -77 hlineto
           hintmask 10011000
-          160 vlineto
+          100 vlineto
           hintmask 00010010
-          -41 -161 rmoveto
+          -28 -105 rmoveto
           hintmask 01100010
-          -160 vlineto
+          -100 vlineto
           hintmask 01100001
-          120 -479 hlineto
+          78 -295 hlineto
           hintmask 01000110
-          -120 hlineto
+          -78 hlineto
           hintmask 10010110
-          -160 -199 799 vlineto
+          -100 -127 495 vlineto
           endchar
         </CharString>
         <CharString name="E">
-          0 161 319 161 319 161 hstem
-          0 161 vstem
+          -1 105 195 105 195 105 hstem
+          66 105 vstem
           cntrmask 11100000
-          1121 vmoveto
-          -1121 120 vlineto
-          41 0 79 0 41 0 79 0 41 0 79 0 41 0 120 0 0 161 -480 0 0 319 360 0 0 161 -360 0 0 319 rlineto
-          480 161 hlineto
+          66 704 rmoveto
+          -705 77 vlineto
+          28 0 50 0 27 0 50 0 28 0 50 0 27 0 78 0 0 105 -310 0 0 195 232 0 0 105 -232 0 0 195 rlineto
+          310 105 hlineto
           endchar
         </CharString>
         <CharString name="F">
-          21 -21 21 -21 480 161 319 161 hstemhm
-          0 161 hintmask 10111000
-          1121 vmoveto
-          -1121 161 480 360 161 -360 319 480 161 vlineto
+          20 -21 21 -21 300 105 195 105 hstemhm
+          66 105 hintmask 10111000
+          66 704 rmoveto
+          -705 105 300 232 105 -232 195 310 105 vlineto
           endchar
         </CharString>
         <CharString name="G">
-          0 161 159 161 479 161 hstemhm
-          0 161 -41 521 -281 281 -161 161 hintmask 11100100
-          360 320 rmoveto
-          hintmask 11110010
-          120 -159 -319 799 79 hlineto
-          401 hlineto
-          hintmask 11101000
-          161 -521 -160 vlineto
-          hintmask 11110000
-          -120 -801 hlineto
-          hintmask 11101000
-          120 -160 120 hlineto
-          41 0 rlineto
-          hintmask 11100100
-          79 0 41 0 rlineto
-          hintmask 11100010
-          79 0 41 0 rlineto
-          hintmask 11101000
-          120 hlineto
-          hintmask 11100100
-          481 -281 vlineto
+          -1 105 95 105 295 105 hstemhm
+          66 105 127 183 -105 105 hintmask 11111000
+          298 199 rmoveto
+          hintmask 11110100
+          78 -95 -205 495 310 105 -338 -100 -77 -505 77 -100 78 hlineto
+          27 0 rlineto
+          hintmask 11111000
+          50 0 28 0 rlineto
+          hintmask 11110100
+          50 0 27 0 78 0 rlineto
+          hintmask 11111000
+          305 -183 vlineto
           endchar
         </CharString>
         <CharString name="H">
-          21 -21 21 -21 480 161 480 -20 hstemhm
-          0 161 319 161 hintmask 10111100
-          161 1121 rmoveto
-          -161 -1121 161 480 240 hlineto
-          79 -480 161 1121 -161 -480 -319 hlineto
+          20 -21 300 105 hstem
+          66 105 205 105 vstem
+          171 704 rmoveto
+          -105 -705 105 300 205 -300 105 705 -105 -300 -205 hlineto
           endchar
         </CharString>
         <CharString name="I">
-          0 161 799 161 hstem
-          120 401 vstem
-          120 960 rmoveto
-          120 -799 -120 -161 120 hlineto
-          41 0 79 0 41 0 120 0 0 161 -120 0 0 799 120 0 0 161 -401 0 rlineto
+          -1 105 495 105 hstem
+          143 260 vstem
+          143 599 rmoveto
+          78 -495 -78 -105 78 hlineto
+          27 0 50 0 28 0 77 0 0 105 -77 0 0 495 77 0 0 105 -260 0 rlineto
           endchar
         </CharString>
         <CharString name="J">
-          0 161 -1 161 800 -20 hstemhm
-          0 161 319 161 hintmask 01111000
-          160 vmoveto
-          120 hlineto
+          -1 105 -5 105 500 -20 hstemhm
+          66 105 205 105 hintmask 01111000
+          66 99 rmoveto
+          77 hlineto
           hintmask 10111000
-          -92 callsubr
+          -107 callsubr
           hintmask 01111000
-          160 120 961 -161 vlineto
+          100 78 605 -105 vlineto
           hintmask 10111000
-          -960 -319 vlineto
+          -600 -205 vlineto
           hintmask 01111000
-          -95 callsubr
+          100 -105 vlineto
           endchar
         </CharString>
         <CharString name="K">
-          0 161 -1 161 -1 161 -1 161 -1 161 -1 161 -1 161 hstemhm
-          0 281 -281 161 79 161 -41 161 -41 161 hintmask 1001001011000000
-          161 1121 rmoveto
-          -161 -1121 161 480 79 hlineto
-          hintmask 0010000001000000
-          -160 vlineto
-          hintmask 0010000000100000
-          120 hlineto
-          hintmask 0100000000100000
-          -160 vlineto
-          hintmask 0100000000010000
-          120 hlineto
-          hintmask 1000000000010000
-          -103 callsubr
-          hintmask 1000000000100000
-          -120 hlineto
-          hintmask 0100000000100000
-          160 vlineto
-          hintmask 0100000001000000
-          -120 hlineto
-          hintmask 0010100001000000
-          160 vlineto
-          hintmask 0010100100000000
-          -102 callsubr
-          hintmask 0000100001000000
-          120 hlineto
-          hintmask 0000010001000000
-          160 vlineto
-          hintmask 0000010000100000
-          120 hlineto
-          hintmask 0000001000100000
-          160 vlineto
-          hintmask 0000001000010000
-          -105 callsubr
-          hintmask 0000010000010000
-          -160 vlineto
-          hintmask 0000010000100000
-          -120 hlineto
-          hintmask 0000100000100000
-          -160 vlineto
-          hintmask 0000100011000000
-          -120 hlineto
-          hintmask 1001001011000000
-          -160 -79 vlineto
+          -1 105 -5 105 -5 105 -5 105 -5 105 -5 105 -5 105 hstemhm
+          66 105 50 105 -28 105 -27 105 hintmask 1001001110000000
+          171 704 rmoveto
+          -105 -705 105 300 50 hlineto
+          hintmask 0010000110000000
+          -100 vlineto
+          hintmask 0010000101000000
+          77 hlineto
+          hintmask 0100000101000000
+          -100 vlineto
+          hintmask 0100000100100000
+          78 hlineto
+          hintmask 1000000100100000
+          -100 105 105 vlineto
+          hintmask 1000000101000000
+          -78 hlineto
+          hintmask 0100000101000000
+          100 vlineto
+          hintmask 0100000110000000
+          -77 hlineto
+          hintmask 0010100110000000
+          100 -78 95 78 vlineto
+          hintmask 0000010110000000
+          100 vlineto
+          hintmask 0000010101000000
+          77 hlineto
+          hintmask 0000001101000000
+          100 vlineto
+          hintmask 0000001100100000
+          78 105 -105 hlineto
+          hintmask 0000010100100000
+          -100 vlineto
+          hintmask 0000010101000000
+          -78 hlineto
+          hintmask 0000100101000000
+          -100 vlineto
+          hintmask 0000100110000000
+          -77 hlineto
+          hintmask 1001001110000000
+          -100 -50 vlineto
           endchar
         </CharString>
         <CharString name="L">
-          0 161 960 -20 hstem
-          0 161 vstem
-          161 1121 rmoveto
-          -161 -1121 120 hlineto
-          41 0 79 0 41 0 79 0 41 0 79 0 41 0 120 0 0 161 -480 0 rlineto
+          -1 105 hstem
+          66 105 vstem
+          171 704 rmoveto
+          -105 -705 77 hlineto
+          28 0 50 0 27 0 50 0 28 0 50 0 27 0 78 0 0 105 -310 0 rlineto
           endchar
         </CharString>
         <CharString name="M">
-          21 -21 21 -21 800 161 160 -20 hstemhm
-          0 281 -281 161 79 161 -41 281 -161 161 hintmask 1011011010000000
-          0 vmoveto
-          161 800 79 -320 161 320 79 -800 161 1121 -161 -160 hlineto
+          20 -21 21 -21 500 105 100 -20 hstemhm
+          66 182 -182 105 50 105 -28 183 -105 105 hintmask 1011011010000000
+          66 -1 rmoveto
+          105 500 50 -200 105 200 50 -500 105 705 -105 -100 hlineto
           hintmask 1011100100000000
-          -86 callsubr
+          -78 -100 -50 100 hlineto
           hintmask 1011011010000000
-          -120 160 -161 hlineto
+          -77 100 -105 hlineto
           endchar
         </CharString>
         <CharString name="N">
-          21 -21 21 -21 320 161 -1 161 -1 161 320 -20 hstemhm
-          0 281 -281 161 79 161 -41 281 -161 161 hintmask 1000110110000000
-          161 1121 rmoveto
-          -161 -1121 161 640 79 hlineto
+          20 -21 21 -21 200 105 -5 105 -5 105 200 -20 hstemhm
+          66 182 -182 105 50 105 -28 183 -105 105 hintmask 1000110110000000
+          171 704 rmoveto
+          -105 -705 105 400 50 hlineto
           hintmask 0001010010000000
-          -160 vlineto
+          -100 vlineto
           hintmask 0001010001000000
-          120 hlineto
+          77 hlineto
           hintmask 1010010001000000
-          -160 vlineto
+          -100 vlineto
           hintmask 1010010010100000
-          120 -320 161 1121 -161 -640 -79 hlineto
+          78 -200 105 705 -105 -400 -50 hlineto
           hintmask 0001010010000000
-          160 vlineto
+          100 vlineto
           hintmask 0001011000000000
-          -120 hlineto
+          -78 hlineto
           hintmask 1000111000000000
-          160 vlineto
+          100 vlineto
           hintmask 1000110110000000
-          -120 hlineto
+          -77 hlineto
           endchar
         </CharString>
         <CharString name="O">
-          0 161 799 161 hstemhm
-          0 161 -41 401 -41 161 hintmask 11101000
-          480 960 rmoveto
-          -799 -319 799 79 vlineto
+          -1 105 495 105 hstemhm
+          66 105 -28 260 -27 105 hintmask 11101000
+          376 599 rmoveto
+          -495 -205 495 vlineto
           hintmask 11010000
-          -120 161 rmoveto
-          -160 vlineto
+          -28 105 rmoveto
+          -100 vlineto
           hintmask 11100000
-          -120 -801 hlineto
+          -77 -505 hlineto
           hintmask 11010000
-          -85 callsubr
+          -105 callsubr
           hintmask 11001000
-          120 801 hlineto
+          78 505 hlineto
           hintmask 11010000
-          -96 callsubr
+          -78 100 hlineto
           endchar
         </CharString>
         <CharString name="P">
-          21 -21 21 -21 480 161 319 161 hstemhm
-          0 521 -521 161 319 161 hintmask 10111000
-          1121 vmoveto
-          hintmask 10110100
-          -1121 161 480 vlineto
-          hintmask 10111000
-          360 160 hlineto
-          hintmask 10110010
-          -104 callsubr
-          hintmask 10111000
-          -96 callsubr
-          hintmask 00110110
-          -41 -161 rmoveto
-          -90 callsubr
+          20 -21 300 105 195 105 hstem
+          66 105 205 105 vstem
+          66 704 rmoveto
+          -705 105 300 232 100 78 205 -78 100 vlineto
+          -27 -105 rmoveto
+          -106 callsubr
           endchar
         </CharString>
         <CharString name="Q">
-          0 161 -1 161 -1 161 479 161 hstemhm
-          0 161 -41 281 -161 161 -41 161 -41 161 hintmask 1011001000000000
-          240 320 rmoveto
+          -1 105 -5 105 -5 105 295 105 hstemhm
+          66 105 -28 183 -105 105 -28 105 -27 105 hintmask 1011001000000000
+          221 199 rmoveto
           hintmask 1011100100000000
-          120 -159 -199 799 hlineto
+          77 -95 -127 495 hlineto
           hintmask 0101001010000000
-          79 0 240 0 0 -639 -79 0 rlineto
+          205 -395 -50 hlineto
           hintmask 1011001000000000
-          -95 callsubr
+          100 -105 vlineto
           hintmask 0101010000000000
-          -120 640 rmoveto
-          -160 vlineto
+          -78 400 rmoveto
+          -100 vlineto
           hintmask 0101100000000000
-          -120 -801 hlineto
+          -77 -505 hlineto
           hintmask 0101010000000000
-          120 hlineto
+          77 hlineto
           hintmask 1001010000000000
-          -160 vlineto
+          -100 vlineto
           hintmask 1001001000000000
-          120 0 41 0 rlineto
+          78 0 27 0 rlineto
           hintmask 1001010010000000
-          120 hlineto
+          78 hlineto
           hintmask 0101010010000000
-          160 79 vlineto
+          100 50 vlineto
           hintmask 1011000010000000
-          -103 callsubr
+          -100 105 105 vlineto
           hintmask 1011000100000000
-          -102 callsubr
+          -78 95 hlineto
           hintmask 0011000010000000
-          120 641 hlineto
+          78 405 hlineto
           hintmask 0101000100000000
-          -96 callsubr
+          -78 100 hlineto
           endchar
         </CharString>
         <CharString name="R">
-          0 161 -1 161 159 161 319 161 hstemhm
-          0 161 79 161 -41 161 -41 161 hintmask 10111100
-          1121 vmoveto
-          -1121 161 480 79 -160 vlineto
+          -1 105 -5 105 95 105 195 105 hstemhm
+          66 105 50 105 -28 105 -27 105 hintmask 10111100
+          66 704 rmoveto
+          -705 105 300 50 -100 vlineto
           hintmask 01111010
-          -99 callsubr
+          77 -100 hlineto
           hintmask 01111001
-          120 hlineto
+          78 hlineto
           hintmask 10111001
-          -103 callsubr
+          -100 105 105 vlineto
           hintmask 10111010
-          -120 hlineto
+          -78 hlineto
           hintmask 01111010
-          160 vlineto
+          100 vlineto
           hintmask 01111100
-          -102 callsubr
+          -77 95 hlineto
           hintmask 10111010
-          -97 callsubr
+          77 100 hlineto
           hintmask 10111001
-          -104 callsubr
+          78 205 hlineto
           hintmask 10111010
-          -96 callsubr
+          -78 100 hlineto
           hintmask 00111001
-          -41 -161 rmoveto
-          -90 callsubr
+          -27 -105 rmoveto
+          -106 callsubr
           endchar
         </CharString>
         <CharString name="S">
-          0 161 -1 161 159 161 159 161 -1 161 hstemhm
-          0 161 -41 401 -41 161 hintmask 01100100
-          160 vmoveto
+          -1 105 -5 105 95 105 95 105 -5 105 hstemhm
+          66 105 -28 260 -27 105 hintmask 01100100
+          66 99 rmoveto
           hintmask 01100010
-          120 hlineto
+          77 hlineto
           hintmask 10100010
-          -92 callsubr
+          -107 callsubr
           hintmask 01101010
-          160 vlineto
+          100 vlineto
           hintmask 01101001
-          -104 callsubr
+          78 205 hlineto
           hintmask 00101010
-          -96 callsubr
+          -78 100 hlineto
           hintmask 00101101
-          -360 319 79 hlineto
-          240 hlineto
+          -232 195 205 hlineto
           hintmask 00110001
-          -103 callsubr
+          -100 105 105 vlineto
           hintmask 00110010
-          -120 hlineto
+          -78 hlineto
           hintmask 00101010
-          160 -401 vlineto
+          100 -260 vlineto
           hintmask 10110010
-          -160 vlineto
+          -100 vlineto
           hintmask 10110100
-          -120 -321 hlineto
+          -77 -205 hlineto
           hintmask 10100010
-          120 -160 120 hlineto
+          77 -100 hlineto
           hintmask 10100101
-          240 -319 -319 hlineto
+          233 -195 -205 hlineto
           hintmask 01100100
-          -95 callsubr
+          100 -105 vlineto
           endchar
         </CharString>
         <CharString name="T">
-          21 -21 21 -21 960 161 hstemhm
-          240 161 hintmask 10110000
-          960 vmoveto
-          120 0 41 0 79 0 0 -960 161 0 0 960 240 0 0 161 -641 0 rlineto
+          20 -21 600 105 hstem
+          221 105 vstem
+          66 599 rmoveto
+          155 -600 105 600 155 105 -415 hlineto
           endchar
         </CharString>
         <CharString name="U">
-          0 161 960 -20 hstem
-          0 161 319 161 vstem
-          161 1121 rmoveto
-          -161 -961 120 -160 120 hlineto
-          41 0 79 0 41 0 120 0 0 160 120 0 0 961 -161 0 0 -960 -319 0 rlineto
+          -1 105 600 -20 hstem
+          66 105 205 105 vstem
+          171 704 rmoveto
+          -105 -605 77 -100 78 hlineto
+          27 0 50 0 28 0 77 0 0 100 78 0 0 605 -105 0 0 -600 -205 0 rlineto
           endchar
         </CharString>
         <CharString name="V">
-          0 161 -1 161 800 -20 hstemhm
-          0 161 -41 161 -41 161 -41 161 -41 161 hintmask 01110000
-          161 1121 rmoveto
-          -161 -801 hlineto
+          -1 105 -5 105 500 -20 hstemhm
+          66 105 -28 105 -27 105 -28 105 -27 105 hintmask 01110000
+          171 704 rmoveto
+          -105 -505 hlineto
           hintmask 01101000
-          -99 callsubr
+          77 -100 hlineto
           hintmask 01100100
-          120 hlineto
+          78 hlineto
           hintmask 10100100
-          -160 161 vlineto
+          -100 105 vlineto
           hintmask 01100100
-          160 vlineto
+          100 vlineto
           hintmask 01100010
-          -97 callsubr
+          77 100 hlineto
           hintmask 01100001
-          120 801 -161 -800 hlineto
+          78 505 -105 -500 hlineto
           hintmask 01101010
-          -120 hlineto
+          -78 hlineto
           hintmask 10101010
-          -160 -79 vlineto
+          -100 -50 vlineto
           hintmask 01101000
-          160 vlineto
+          100 vlineto
           hintmask 01110000
-          -120 hlineto
+          -77 hlineto
           endchar
         </CharString>
         <CharString name="W">
-          21 -21 21 -21 160 161 800 -20 hstemhm
-          0 161 79 161 79 161 cntrmask 00001110
-          hintmask 10111110
-          161 1121 rmoveto
-          -161 -1121 161 160 240 hlineto
-          79 -160 161 1121 -161 -800 -79 320 -161 -320 -79 hlineto
+          20 -21 100 105 500 -20 hstem
+          66 105 50 105 50 105 vstem
+          cntrmask 00011100
+          171 704 rmoveto
+          -105 -705 105 100 205 -100 105 705 -105 -500 -50 200 -105 -200 -50 hlineto
           endchar
         </CharString>
         <CharString name="X">
-          0 321 -1 161 159 161 -1 321 hstemhm
-          0 161 -41 161 79 161 -41 161 hintmask 00011000
-          161 1121 rmoveto
-          -161 -321 hlineto
+          -1 205 -5 105 95 105 -5 205 hstemhm
+          66 105 -28 105 50 105 -27 105 hintmask 00011000
+          171 704 rmoveto
+          -105 -205 hlineto
           hintmask 00010100
-          120 hlineto
+          77 hlineto
           hintmask 01100100
-          -160 120 -159 -120 vlineto
+          -100 78 -95 -78 vlineto
           hintmask 10000100
-          -160 vlineto
+          -100 vlineto
           hintmask 10001000
-          -120 -321 161 hlineto
+          -77 -205 105 hlineto
           hintmask 01001000
-          320 vlineto
+          200 vlineto
           hintmask 01000110
-          120 160 79 -160 hlineto
+          77 100 50 -100 hlineto
           hintmask 01000001
-          120 hlineto
+          78 hlineto
           hintmask 10000001
-          -320 161 321 vlineto
+          -200 105 205 vlineto
           hintmask 10000010
-          -120 hlineto
+          -78 hlineto
           hintmask 01100010
-          160 -120 159 120 vlineto
+          100 -77 95 77 vlineto
           hintmask 00010010
-          160 vlineto
+          100 vlineto
           hintmask 00010001
-          120 321 -161 hlineto
+          78 205 -105 hlineto
           hintmask 00100001
-          -320 vlineto
+          -200 vlineto
           hintmask 00100110
-          -86 callsubr
+          -78 -100 -50 100 hlineto
           hintmask 00101000
-          -120 hlineto
+          -77 hlineto
           endchar
         </CharString>
         <CharString name="Y">
-          21 -21 21 -21 640 161 -1 321 hstemhm
-          0 161 -41 161 -41 161 -41 161 -41 161 hintmask 0001100000000000
-          161 1121 rmoveto
-          -161 -321 hlineto
+          20 -21 21 -21 400 105 -5 205 hstemhm
+          66 105 -28 105 -27 105 -28 105 -27 105 hintmask 0001100000000000
+          171 704 rmoveto
+          -105 -205 hlineto
           hintmask 0001010000000000
-          120 hlineto
+          77 hlineto
           hintmask 1010010000000000
-          -160 vlineto
+          -100 vlineto
           hintmask 1010001000000000
-          120 -640 161 640 hlineto
+          78 -400 105 400 hlineto
           hintmask 0010000100000000
-          120 hlineto
+          77 hlineto
           hintmask 0001000100000000
-          160 vlineto
+          100 vlineto
           hintmask 0001000010000000
-          120 321 -161 hlineto
+          78 205 -105 hlineto
           hintmask 0010000010000000
-          -320 vlineto
+          -200 vlineto
           hintmask 0010010100000000
-          -86 callsubr
+          -78 -100 -50 100 hlineto
           hintmask 0010100000000000
-          -120 hlineto
+          -77 hlineto
           endchar
         </CharString>
         <CharString name="Z">
-          0 161 159 161 -1 161 -1 161 159 161 hstemhm
-          0 161 -41 161 -41 161 -41 161 -41 161 hintmask 1001110000000000
-          960 vmoveto
-          hintmask 1001101000000000
-          120 0 rlineto
-          hintmask 1001100101000000
-          281 0 79 0 0 -159 rlineto
+          -1 105 95 105 -5 105 -5 105 95 105 hstemhm
+          66 105 -28 105 -27 105 -28 105 -27 105 hintmask 1001110001000000
+          66 599 rmoveto
+          310 -95 hlineto
           hintmask 1001100010000000
-          -120 hlineto
+          -78 hlineto
           hintmask 1010100010000000
-          -160 vlineto
+          -100 vlineto
           hintmask 1010100100000000
-          -120 hlineto
+          -77 hlineto
           hintmask 1100100100000000
-          -160 vlineto
+          -100 vlineto
           hintmask 1100101000000000
-          -101 callsubr
+          -78 -100 hlineto
           hintmask 1100110000000000
-          -120 -321 hlineto
+          -77 -205 hlineto
           hintmask 1100101000000000
-          120 0 rlineto
+          77 0 rlineto
           hintmask 1100110100000000
-          -93 callsubr
+          28 0 50 0 rlineto
           hintmask 1100101010000000
-          -93 callsubr
+          27 0 50 0 rlineto
           hintmask 1100100101000000
-          -93 callsubr
+          28 0 50 0 rlineto
           hintmask 1100100010000000
-          41 0 rlineto
+          27 0 rlineto
           hintmask 1100110001000000
-          120 161 -480 159 hlineto
+          78 105 -310 95 hlineto
           hintmask 1100101000000000
-          120 hlineto
+          77 hlineto
           hintmask 1010101000000000
-          160 vlineto
+          100 vlineto
           hintmask 1010100100000000
-          120 hlineto
+          78 hlineto
           hintmask 1001100100000000
-          160 vlineto
+          100 vlineto
           hintmask 1001100010000000
-          -97 callsubr
+          77 100 hlineto
           hintmask 1001110001000000
-          120 321 -641 hlineto
+          78 205 -415 hlineto
           endchar
         </CharString>
         <CharString name="a">
-          0 161 -1 161 159 161 -1 161 hstemhm
-          0 161 -41 281 -41 281 -161 161 hintmask 00010010
-          360 640 rmoveto
+          -1 105 -5 105 95 105 -5 105 hstemhm
+          66 105 -28 183 -28 183 -105 105 hintmask 00010010
+          298 399 rmoveto
           hintmask 01100010
-          -160 vlineto
+          -100 vlineto
           hintmask 01100001
-          -88 callsubr
+          78 -95 hlineto
           hintmask 01001010
-          -120 hlineto
+          -78 hlineto
           hintmask 10011010
-          -84 callsubr
+          -104 callsubr
           hintmask 00010100
-          -120 161 rmoveto
+          -28 105 rmoveto
           hintmask 01100100
-          -160 vlineto
+          -100 vlineto
           hintmask 01101000
-          -100 callsubr
+          -77 -305 hlineto
           hintmask 01000101
-          120 hlineto
+          77 hlineto
           hintmask 10000101
-          -83 callsubr
+          -103 callsubr
           hintmask 01000101
-          160 79 vlineto
+          100 50 vlineto
           hintmask 10010101
-          -160 161 801 -161 vlineto
+          -100 105 505 -105 vlineto
           hintmask 00100101
-          -160 -79 vlineto
+          -100 -50 vlineto
           hintmask 00010100
-          160 vlineto
+          100 vlineto
           endchar
         </CharString>
         <CharString name="ampersand">
-          0 161 -1 161 -1 161 479 161 hstemhm
-          0 161 -41 161 -41 161 -41 161 -41 161 hintmask 0001010100000000
-          281 960 rmoveto
-          79 -319 -79 hlineto
+          -1 105 -5 105 -5 105 295 105 hstemhm
+          66 105 -28 105 -27 105 -28 105 -27 105 hintmask 0001010100000000
+          248 599 rmoveto
+          50 -195 -50 100 hlineto
           hintmask 0011001000000000
-          -41 320 rmoveto
+          -27 100 rmoveto
           hintmask 0011010000000000
-          -120 -480 hlineto
+          -78 -300 hlineto
           hintmask 0011100000000000
-          -120 hlineto
+          -77 hlineto
           hintmask 0101100000000000
-          -321 vlineto
+          -205 vlineto
           hintmask 0101010000000000
-          120 hlineto
+          77 hlineto
           hintmask 1001010000000000
-          -160 vlineto
+          -100 vlineto
           hintmask 1001001000000000
-          120 0 rlineto
+          78 0 rlineto
           hintmask 1001010000000000
-          41 0 rlineto
+          27 0 rlineto
           hintmask 1001001010000000
-          120 hlineto
+          78 hlineto
           hintmask 0101001010000000
-          160 79 vlineto
+          100 50 vlineto
           hintmask 1011000010000000
-          -103 callsubr
+          -100 105 105 vlineto
           hintmask 1011000100000000
-          -102 callsubr
+          -78 95 hlineto
           hintmask 0011001010000000
-          -105 callsubr
+          78 105 -105 hlineto
           hintmask 0101001010000000
-          -160 -79 319 vlineto
+          -100 -50 195 vlineto
           hintmask 0011000100000000
-          -104 callsubr
+          77 205 hlineto
           hintmask 0011001000000000
-          -120 160 -161 hlineto
+          -77 100 -105 hlineto
           hintmask 1011101000000000
-          -79 -641 rmoveto
-          79 -160 hlineto
+          -50 -405 rmoveto
+          50 -100 hlineto
           hintmask 1011100100000000
-          120 -159 -199 hlineto
+          77 -95 -127 hlineto
           endchar
         </CharString>
         <CharString name="asciicircum">
-          320 161 -1 161 -1 161 hstemhm
-          0 161 -41 161 -41 161 -41 161 -41 161 hintmask 10010000
-          320 vmoveto
-          161 hlineto
+          399 105 -5 105 -5 105 hstemhm
+          66 105 -28 105 -27 105 -28 105 -27 105 hintmask 10010000
+          66 399 rmoveto
+          105 hlineto
           hintmask 01010000
-          160 vlineto
+          100 vlineto
           hintmask 01001010
-          120 hlineto
+          77 hlineto
           hintmask 00101010
-          160 79 vlineto
+          100 50 vlineto
           hintmask 01000010
-          -160 vlineto
+          -100 vlineto
           hintmask 01000001
-          120 hlineto
+          78 hlineto
           hintmask 10000001
-          -103 callsubr
+          -100 105 105 vlineto
           hintmask 10000010
-          -120 hlineto
+          -78 hlineto
           hintmask 01000010
-          160 vlineto
+          100 vlineto
           hintmask 01000100
-          -120 hlineto
+          -77 hlineto
           hintmask 00100100
-          -95 callsubr
+          100 -105 vlineto
           hintmask 01000100
-          -160 vlineto
+          -100 vlineto
           hintmask 01001000
-          -120 hlineto
+          -78 hlineto
           hintmask 10001000
-          -160 vlineto
+          -100 vlineto
           hintmask 10010000
-          -120 hlineto
+          -77 hlineto
           endchar
         </CharString>
         <CharString name="asciitilde">
-          640 161 -1 161 -1 161 hstemhm
-          0 161 -41 161 -41 161 -41 161 -41 161 hintmask 01010100
-          800 vmoveto
-          161 hlineto
+          399 105 -5 105 -5 105 hstemhm
+          66 105 -28 105 -27 105 -28 105 -27 105 hintmask 01010100
+          66 499 rmoveto
+          105 hlineto
           hintmask 00110100
-          160 79 vlineto
+          100 50 vlineto
           hintmask 01000100
-          -160 vlineto
+          -100 vlineto
           hintmask 01000010
-          120 hlineto
+          77 hlineto
           hintmask 10000010
-          -160 161 vlineto
+          -100 105 vlineto
           hintmask 01000010
-          160 vlineto
+          100 vlineto
           hintmask 01000101
-          -105 callsubr
+          78 105 -105 hlineto
           hintmask 10000101
-          -160 -79 vlineto
+          -100 -50 vlineto
           hintmask 01000100
-          160 vlineto
+          100 vlineto
           hintmask 01001000
-          -120 hlineto
+          -78 hlineto
           hintmask 00101000
-          -95 callsubr
+          100 -105 vlineto
           hintmask 01001000
-          -160 vlineto
+          -100 vlineto
           hintmask 01010100
-          -120 hlineto
+          -77 hlineto
           endchar
         </CharString>
         <CharString name="asterisk">
-          320 161 -1 161 -1 161 hstemhm
-          0 161 79 161 79 161 cntrmask 00011100
+          199 105 -5 105 -5 105 hstemhm
+          66 105 50 105 50 105 cntrmask 00011100
           hintmask 10111100
-          640 vmoveto
-          120 -159 -120 -161 161 hlineto
+          66 399 rmoveto
+          77 -95 -77 -105 105 hlineto
           hintmask 01011100
-          160 79 -320 161 320 79 vlineto
+          100 50 -200 105 200 50 vlineto
           hintmask 10111100
-          -160 161 161 -120 159 120 161 -161 vlineto
+          -100 105 105 -78 95 78 105 -105 vlineto
           hintmask 01011100
-          -160 -79 320 -161 -320 -79 vlineto
+          -100 -50 200 -105 -200 -50 vlineto
           hintmask 10111100
-          -95 callsubr
+          100 -105 vlineto
           endchar
         </CharString>
         <CharString name="at">
-          0 161 319 161 159 161 -1 161 hstemhm
-          0 161 -41 161 -41 281 -281 161 79 161 hintmask 1101000110000000
-          480 960 rmoveto
-          -319 -79 160 vlineto
+          -1 105 195 105 95 105 -5 105 hstemhm
+          66 105 -28 105 -27 182 -182 105 50 105 hintmask 1101000110000000
+          376 599 rmoveto
+          -195 -50 100 vlineto
           hintmask 1101010010000000
-          -120 159 79 hlineto
+          -78 95 hlineto
           hintmask 1101001000000000
-          -120 161 rmoveto
+          -27 105 rmoveto
           hintmask 1110001000000000
-          -160 vlineto
+          -100 vlineto
           hintmask 1110010000000000
-          -101 callsubr
+          -78 -100 hlineto
           hintmask 1110100000000000
-          -120 -641 hlineto
+          -77 -405 hlineto
           hintmask 1110010000000000
-          -99 callsubr
+          77 -100 hlineto
           hintmask 1110000100000000
-          120 0 rlineto
+          78 0 rlineto
           hintmask 1110010000000000
-          -93 callsubr
+          27 0 50 0 rlineto
           hintmask 1110000110000000
-          -93 callsubr
+          28 0 50 0 rlineto
           hintmask 1110001000000000
-          41 0 rlineto
+          27 0 rlineto
           hintmask 1110100110000000
-          120 161 -480 639 79 -480 161 160 240 481 hlineto
+          78 105 -310 395 50 -300 105 100 155 305 hlineto
           hintmask 1110001000000000
-          -120 hlineto
+          -78 hlineto
           hintmask 1101001000000000
-          160 vlineto
+          100 vlineto
           endchar
         </CharString>
         <CharString name="b">
-          0 161 -1 161 159 161 -1 161 320 -20 hstemhm
-          0 281 -281 161 79 281 -41 161 hintmask 1000101100000000
-          161 1121 rmoveto
-          -161 -1121 161 hlineto
+          -1 105 -5 105 95 105 -5 105 200 -20 hstemhm
+          66 182 -182 105 50 182 -27 105 hintmask 1000101100000000
+          171 704 rmoveto
+          -105 -705 105 hlineto
           hintmask 0100101100000000
-          160 79 vlineto
+          100 50 vlineto
           hintmask 1000100100000000
-          -83 callsubr
+          -100 77 vlineto
+          28 0 77 0 rlineto
           hintmask 0110100100000000
-          160 vlineto
+          100 vlineto
           hintmask 0110100010000000
-          120 481 hlineto
+          78 305 hlineto
           hintmask 0010101100000000
-          -120 hlineto
+          -78 hlineto
           hintmask 0001101100000000
-          -82 callsubr
+          100 -182 vlineto
           hintmask 1010101100000000
-          -160 -79 vlineto
+          -100 -50 vlineto
           hintmask 1001110010000000
-          319 -1 rmoveto
-          -479 -199 vlineto
+          205 -5 rmoveto
+          -295 -128 vlineto
           hintmask 0110110000000000
-          160 vlineto
+          100 vlineto
           hintmask 0110101000000000
-          -102 callsubr
+          -77 95 hlineto
           hintmask 0010110010000000
-          120 hlineto
+          77 hlineto
           hintmask 1001110010000000
-          160 79 vlineto
+          100 vlineto
           endchar
         </CharString>
         <CharString name="backslash">
-          160 161 -1 161 -1 161 -1 161 -1 161 hstemhm
-          0 161 -41 161 -41 161 -41 161 -41 161 hintmask 0000110000000000
-          800 vmoveto
-          hintmask 0000101000000000
-          120 hlineto
-          hintmask 0001001000000000
-          -160 vlineto
-          hintmask 0001000100000000
-          120 hlineto
-          hintmask 0010000100000000
-          -160 vlineto
-          hintmask 0010000010000000
-          120 hlineto
-          hintmask 0100000010000000
-          -160 vlineto
-          hintmask 0100000001000000
-          120 hlineto
-          hintmask 1000000001000000
-          -103 callsubr
-          hintmask 1000000010000000
-          -120 hlineto
-          hintmask 0100000010000000
-          160 vlineto
-          hintmask 0100000100000000
-          -120 hlineto
-          hintmask 0010000100000000
-          160 vlineto
-          hintmask 0010001000000000
-          -120 hlineto
-          hintmask 0001001000000000
-          160 vlineto
-          hintmask 0001010000000000
-          -120 hlineto
-          hintmask 0000110000000000
-          -95 callsubr
+          20 -21 21 -21 200 105 -5 105 -5 105 200 -20 hstemhm
+          66 105 -28 105 -27 105 -28 105 -27 105 hintmask 0000111000000000
+          171 704 rmoveto
+          -105 -205 hlineto
+          hintmask 0000110100000000
+          77 -100 hlineto
+          hintmask 0000110010000000
+          78 hlineto
+          hintmask 0001010010000000
+          -100 vlineto
+          hintmask 0001010001000000
+          77 hlineto
+          hintmask 1010010001000000
+          -100 vlineto
+          hintmask 1010010000100000
+          78 -200 105 205 hlineto
+          hintmask 0010010001000000
+          -78 100 hlineto
+          hintmask 0010010010000000
+          -77 hlineto
+          hintmask 0001010010000000
+          100 vlineto
+          hintmask 0001010100000000
+          -78 hlineto
+          hintmask 0000110100000000
+          100 vlineto
+          hintmask 0000111000000000
+          -77 hlineto
           endchar
         </CharString>
         <CharString name="bar">
-          21 -21 21 -21 1121 -20 hstemhm
-          240 161 hintmask 00110000
-          401 1121 rmoveto
-          -106 callsubr
-          -159 vmoveto
-          -161 hlineto
-          hintmask 10110000
-          -481 161 vlineto
+          20 -21 hstem
+          221 105 vstem
+          326 704 rmoveto
+          -105 -305 105 hlineto
+          -95 vmoveto
+          -105 -305 105 hlineto
           endchar
         </CharString>
         <CharString name="braceleft">
-          0 161 319 161 319 161 hstemhm
-          0 161 -41 161 -41 281 cntrmask 11100000
+          -1 105 195 105 195 105 hstemhm
+          221 105 -28 183 cntrmask 11100000
           hintmask 11110000
-          480 vmoveto
+          66 299 rmoveto
+          155 -200 hlineto
           hintmask 11101000
-          120 -320 hlineto
-          hintmask 11100100
-          120 -160 120 hlineto
-          41 0 120 0 0 161 rlineto
-          hintmask 11101000
-          -240 320 hlineto
+          77 -100 78 hlineto
+          27 0 78 0 0 105 rlineto
           hintmask 11110000
-          -102 callsubr
+          -155 200 -78 95 78 200 hlineto
           hintmask 11101000
-          120 320 79 hlineto
-          hintmask 11100100
-          161 161 -281 -160 hlineto
-          hintmask 11101000
-          -120 -320 hlineto
+          155 105 -183 -100 hlineto
           hintmask 11110000
-          -120 hlineto
+          -77 -200 -155 hlineto
           endchar
         </CharString>
         <CharString name="braceright">
-          0 161 319 161 319 161 hstemhm
-          120 281 -41 161 -41 161 cntrmask 11100000
+          -1 105 195 105 195 105 hstemhm
+          66 182 -27 105 cntrmask 11100000
           hintmask 11110000
-          120 960 rmoveto
-          120 0 rlineto
+          66 599 rmoveto
           hintmask 11101000
-          120 -320 hlineto
-          hintmask 11100100
-          -88 callsubr
-          hintmask 11101000
-          -120 -320 hlineto
+          155 -200 77 -95 -77 -200 hlineto
           hintmask 11110000
-          -240 -161 120 hlineto
-          41 0 120 0 0 160 rlineto
+          -155 -105 77 hlineto
+          28 0 77 0 0 100 rlineto
           hintmask 11101000
-          120 320 hlineto
-          hintmask 11100100
-          -87 callsubr
-          hintmask 11101000
-          -120 320 hlineto
+          78 200 155 105 -155 200 hlineto
           hintmask 11110000
-          -120 160 -281 hlineto
+          -78 100 -182 hlineto
           endchar
         </CharString>
         <CharString name="bracketleft">
-          0 161 799 161 hstemhm
-          240 401 -401 161 hintmask 11100000
-          240 1121 rmoveto
-          -1121 120 vlineto
+          -1 105 495 105 hstemhm
+          221 260 -260 105 hintmask 11100000
+          221 704 rmoveto
+          -705 77 vlineto
           hintmask 11010000
-          -91 callsubr
+          28 0 50 0 27 0 rlineto
           hintmask 11100000
-          -87 callsubr
+          78 105 hlineto
           hintmask 11010000
-          -240 799 hlineto
+          -155 495 hlineto
           hintmask 11100000
-          240 161 hlineto
+          155 105 hlineto
           endchar
         </CharString>
         <CharString name="bracketright">
-          0 161 799 161 hstemhm
-          0 401 -161 161 hintmask 11100000
-          960 vmoveto
-          120 0 41 0 rlineto
+          -1 105 495 105 hstemhm
+          66 260 -105 105 hintmask 11100000
+          66 599 rmoveto
           hintmask 11010000
-          79 -799 hlineto
+          155 -495 hlineto
           hintmask 11100000
-          -240 -161 120 hlineto
-          41 0 rlineto
+          -155 -105 77 hlineto
+          28 0 rlineto
           hintmask 11010000
-          79 0 41 0 rlineto
+          50 0 27 0 rlineto
           hintmask 11100000
-          120 1121 -401 hlineto
+          78 705 -260 hlineto
           endchar
         </CharString>
         <CharString name="c">
-          0 161 479 161 hstemhm
-          0 161 -41 521 hintmask 11010000
-          641 640 rmoveto
-          161 -521 -160 vlineto
-          hintmask 11100000
-          -100 callsubr
-          hintmask 11010000
-          120 -160 120 hlineto
-          41 0 79 0 41 0 79 0 41 0 120 0 0 161 rlineto
-          hintmask 11100000
-          -480 479 79 hlineto
+          -1 105 295 105 hstem
+          66 105 vstem
+          481 399 rmoveto
+          105 -338 -100 -77 -305 77 -100 78 vlineto
+          27 0 50 0 28 0 50 0 27 0 78 0 0 105 -310 0 0 295 rlineto
           endchar
         </CharString>
         <CharString name="colon">
-          160 161 319 161 hstem
-          240 161 vstem
-          240 640 rmoveto
-          -107 callsubr
-          -641 vmoveto
-          -107 callsubr
+          99 105 195 105 hstem
+          221 105 vstem
+          221 399 rmoveto
+          105 105 -105 hlineto
+          -405 vmoveto
+          105 105 -105 hlineto
           endchar
         </CharString>
         <CharString name="comma">
-          -320 161 hstemhm
-          120 161 -41 161 hintmask 11000000
-          120 -320 rmoveto
-          161 160 hlineto
+          -201 105 hstemhm
+          143 105 -27 105 hintmask 11000000
+          143 -201 rmoveto
+          105 100 hlineto
           hintmask 10100000
-          120 321 -161 -320 hlineto
+          78 205 -105 -200 hlineto
           hintmask 11000000
-          -120 hlineto
+          -78 hlineto
           endchar
         </CharString>
         <CharString name="d">
-          0 161 -1 161 159 161 -1 161 320 -20 hstemhm
-          0 161 -41 281 -41 281 -161 161 hintmask 0010101010000000
-          641 1121 rmoveto
-          -161 -480 -79 hlineto
-          hintmask 0001101000000000
-          -82 callsubr
-          hintmask 0110101000000000
-          -160 vlineto
-          hintmask 0110110000000000
-          -100 callsubr
-          hintmask 0100101010000000
-          120 hlineto
-          hintmask 1000101010000000
-          -83 callsubr
-          hintmask 0100101010000000
-          160 79 vlineto
-          hintmask 1010101010000000
-          -160 161 vlineto
-          hintmask 0001100100000000
-          -281 640 rmoveto
-          hintmask 0110100100000000
-          -160 vlineto
-          hintmask 0110100010000000
-          -88 callsubr
-          hintmask 0100110100000000
-          -120 hlineto
-          hintmask 1001110100000000
-          -84 callsubr
+          -1 105 -5 105 95 105 -5 105 hstemhm
+          66 105 -28 183 -28 183 -105 105 hintmask 00100101
+          481 704 rmoveto
+          -105 -300 -50 hlineto
+          hintmask 00010100
+          100 -183 vlineto
+          hintmask 01100100
+          -100 vlineto
+          hintmask 01101000
+          -77 -305 hlineto
+          hintmask 01000101
+          77 hlineto
+          hintmask 10000101
+          -103 callsubr
+          hintmask 01000101
+          100 50 vlineto
+          hintmask 10100101
+          -100 105 vlineto
+          hintmask 00010010
+          -183 400 rmoveto
+          hintmask 01100010
+          -100 vlineto
+          hintmask 01100001
+          78 -95 hlineto
+          hintmask 01001010
+          -78 hlineto
+          hintmask 10011010
+          -104 callsubr
           endchar
         </CharString>
         <CharString name="dollar">
-          21 -21 21 -21 160 161 -1 161 -1 161 -1 161 -1 161 160 -20 hstemhm
-          0 161 79 161 79 161 cntrmask 0000000011100000
-          hintmask 0000010111100000
-          640 vmoveto
-          120 hlineto
-          hintmask 1010100111100000
-          -160 120 -159 -240 -161 120 vlineto
-          41 0 79 0 0 -160 161 0 0 160 120 0 rlineto
-          hintmask 0001000111100000
-          160 120 161 -120 vlineto
-          hintmask 0000101111100000
-          160 -120 159 240 161 -240 160 -161 -160 -120 vlineto
-          hintmask 0000010111100000
-          -160 -120 vlineto
-          hintmask 0000101111100000
-          161 -1 rmoveto
-          79 -159 -79 hlineto
-          240 -161 rmoveto
-          79 hlineto
-          hintmask 0010100111100000
-          -159 -79 vlineto
+          20 -21 100 105 -5 105 -5 105 -5 105 -5 105 hstemhm
+          66 105 50 105 50 105 cntrmask 0000001110000000
+          hintmask 1000101110000000
+          66 399 rmoveto
+          77 hlineto
+          hintmask 1101001110000000
+          -100 78 -95 -155 -105 155 -100 105 100 77 vlineto
+          hintmask 1010001110000000
+          100 78 105 -78 vlineto
+          hintmask 1001011110000000
+          100 -77 95 155 105 -155 100 -105 -100 -78 vlineto
+          hintmask 1000101110000000
+          -100 -77 vlineto
+          hintmask 1001011110000000
+          105 -5 rmoveto
+          50 -95 -50 hlineto
+          155 -105 rmoveto
+          50 hlineto
+          hintmask 1101001110000000
+          -95 -50 vlineto
           endchar
         </CharString>
         <CharString name="e">
-          0 161 159 161 159 161 hstemhm
-          0 161 -41 401 -41 161 cntrmask 11100000
+          -1 105 95 105 95 105 hstemhm
+          66 105 -28 260 -27 105 cntrmask 11100000
           hintmask 11110100
-          480 640 rmoveto
-          -159 -319 159 79 vlineto
+          376 399 rmoveto
+          -95 -205 95 vlineto
           hintmask 11101000
-          -120 161 rmoveto
-          -160 vlineto
+          -28 105 rmoveto
+          -100 vlineto
           hintmask 11110000
-          -100 callsubr
+          -77 -305 hlineto
           hintmask 11101000
-          120 -160 120 hlineto
-          41 0 79 0 41 0 120 0 0 161 rlineto
+          77 -100 78 hlineto
+          27 0 50 0 28 0 77 0 0 105 rlineto
           hintmask 11110100
-          -360 159 480 321 hlineto
+          -232 95 310 205 hlineto
           hintmask 11101000
-          -96 callsubr
+          -78 100 hlineto
           endchar
         </CharString>
         <CharString name="eight">
-          0 161 -1 321 -1 161 -1 321 -1 161 hstemhm
-          0 161 -41 401 -41 161 hintmask 00101101
-          480 960 rmoveto
-          -89 callsubr
+          -1 105 -5 205 -5 105 -5 205 -5 105 hstemhm
+          66 105 -28 260 -27 105 hintmask 00101101
+          376 599 rmoveto
+          -106 callsubr
           hintmask 00001010
-          -120 161 rmoveto
+          -28 105 rmoveto
           hintmask 01010010
-          -160 vlineto
+          -100 vlineto
           hintmask 01010100
-          -120 -321 hlineto
+          -77 -205 hlineto
           hintmask 01010010
-          -88 callsubr
+          77 -95 hlineto
           hintmask 01000100
-          -120 -321 hlineto
+          -77 -205 hlineto
           hintmask 01000010
-          120 hlineto
+          77 hlineto
           hintmask 10000010
-          -92 callsubr
+          -107 callsubr
           hintmask 01010010
-          160 vlineto
+          100 vlineto
           hintmask 01010001
-          -104 callsubr
+          78 205 hlineto
           hintmask 01010010
-          -102 callsubr
+          -78 95 hlineto
           hintmask 00010001
-          -104 callsubr
+          78 205 hlineto
           hintmask 00010010
-          -120 hlineto
+          -78 hlineto
           hintmask 00001010
-          160 vlineto
+          100 vlineto
           hintmask 10100101
-          -41 -641 rmoveto
-          -89 callsubr
+          -27 -405 rmoveto
+          -106 callsubr
           endchar
         </CharString>
         <CharString name="equal">
-          320 161 159 161 hstem
-          0 641 vstem
-          640 vmoveto
-          -94 callsubr
-          -481 vmoveto
-          641 161 -641 hlineto
+          199 105 95 105 hstem
+          66 399 rmoveto
+          415 105 -415 hlineto
+          -305 vmoveto
+          415 105 -415 hlineto
           endchar
         </CharString>
         <CharString name="exclam">
-          0 161 960 -20 hstem
-          240 161 vstem
-          240 hmoveto
-          -107 callsubr
-          161 960 rmoveto
-          -161 -801 161 hlineto
+          -1 105 600 -20 hstem
+          221 105 vstem
+          221 -1 rmoveto
+          105 105 -105 hlineto
+          105 600 rmoveto
+          -105 -505 105 hlineto
           endchar
         </CharString>
         <CharString name="f">
-          21 -21 21 -21 480 161 159 161 -1 161 hstemhm
-          120 161 -41 161 -41 161 hintmask 10101100
-          480 vmoveto
-          120 -480 161 480 hlineto
+          20 -21 21 -21 300 105 95 105 -5 105 hstemhm
+          143 105 -27 105 -28 105 hintmask 10101100
+          66 299 rmoveto
+          77 -300 105 300 hlineto
           hintmask 00101010
-          -87 callsubr
+          78 105 hlineto
           hintmask 00101101
-          -120 319 79 hlineto
+          -78 100 hlineto
+          95 50 vlineto
           hintmask 00110001
-          -103 callsubr
+          -100 105 105 vlineto
           hintmask 00110010
-          -120 hlineto
+          -77 hlineto
           hintmask 00101010
-          -95 callsubr
+          100 -105 vlineto
           hintmask 10110010
-          -160 vlineto
+          -100 vlineto
           hintmask 10110100
-          -120 -320 -120 hlineto
+          -78 -200 -77 hlineto
           endchar
         </CharString>
         <CharString name="five">
-          0 161 -1 161 319 161 159 161 hstemhm
-          0 161 319 161 hintmask 01111100
-          160 vmoveto
-          120 hlineto
+          -1 105 -5 105 195 105 95 105 hstemhm
+          66 105 205 105 hintmask 01111100
+          66 99 rmoveto
+          77 hlineto
           hintmask 10111100
-          -92 callsubr
+          -107 callsubr
           hintmask 01111100
-          160 120 481 -120 160 -360 159 480 161 -641 -481 120 vlineto
-          360 hlineto
+          100 78 305 -78 100 -232 95 310 105 -415 -305 310 vlineto
           hintmask 10111100
-          -479 -319 vlineto
+          -295 -205 vlineto
           hintmask 01111100
-          -95 callsubr
+          100 -105 vlineto
           endchar
         </CharString>
         <CharString name="four">
-          21 -21 21 -21 320 161 159 161 -1 161 160 -20 hstemhm
-          0 161 -41 161 -41 281 -161 161 hintmask 0010110001000000
-          521 1121 rmoveto
-          -161 -160 hlineto
-          hintmask 0010110010000000
-          -120 hlineto
-          hintmask 1011010010000000
-          -160 vlineto
-          hintmask 1011010100000000
-          -101 callsubr
-          hintmask 1010111001000000
-          -120 -321 360 -320 161 320 120 161 -120 hlineto
-          hintmask 0010110101000000
-          -240 319 rmoveto
-          79 -319 hlineto
-          hintmask 0011011000000000
-          -199 159 hlineto
-          hintmask 0011010101000000
-          120 hlineto
+          20 -21 200 105 95 105 -5 105 hstemhm
+          66 105 -28 105 -27 182 -105 105 hintmask 11010001
+          403 704 rmoveto
+          -105 -100 hlineto
+          hintmask 11010010
+          -77 hlineto
+          hintmask 11100010
+          -100 vlineto
+          hintmask 11100100
+          -78 -100 hlineto
+          hintmask 11011001
+          -77 -205 232 -200 105 200 78 105 -78 hlineto
+          hintmask 11010101
+          -155 195 rmoveto
+          50 -195 hlineto
+          hintmask 11101000
+          -127 95 hlineto
+          hintmask 11100101
+          77 hlineto
           endchar
         </CharString>
         <CharString name="g">
-          -320 161 159 161 -1 161 159 161 -1 161 hstemhm
-          0 161 -41 281 -41 281 -161 161 hintmask 1000101010000000
-          120 -320 rmoveto
-          401 160 120 961 -161 hlineto
+          -201 105 95 105 -5 105 95 105 -5 105 hstemhm
+          66 105 -28 183 -28 183 -105 105 hintmask 1000101010000000
+          143 -201 rmoveto
+          260 100 78 605 -105 hlineto
           hintmask 1001001010000000
-          -160 -79 vlineto
+          -100 -50 vlineto
           hintmask 1000101000000000
-          -82 callsubr
+          100 -183 vlineto
           hintmask 1011001000000000
-          -160 vlineto
+          -100 vlineto
           hintmask 1011010000000000
-          -100 callsubr
+          -77 -305 hlineto
           hintmask 1010001010000000
-          120 hlineto
+          77 hlineto
           hintmask 1100001010000000
-          -83 callsubr
+          -103 callsubr
           hintmask 1010101010000000
-          160 79 -319 -360 vlineto
+          100 50 -195 -233 vlineto
           hintmask 1000100100000000
-          240 799 rmoveto
+          155 495 rmoveto
           hintmask 1011000100000000
-          -160 vlineto
+          -100 vlineto
           hintmask 1011000010000000
-          -88 callsubr
+          78 -95 hlineto
           hintmask 1010010100000000
-          -120 hlineto
+          -78 hlineto
           hintmask 1100110100000000
-          -84 callsubr
+          -104 callsubr
           endchar
         </CharString>
         <CharString name="grave">
-          640 161 -1 161 -1 161 hstemhm
-          120 161 -41 161 -41 161 hintmask 00110000
-          120 960 rmoveto
+          399 105 -5 105 -5 105 hstemhm
+          143 105 -27 105 -28 105 hintmask 00110000
+          143 599 rmoveto
           hintmask 00101000
-          120 hlineto
+          78 hlineto
           hintmask 01001000
-          -160 vlineto
+          -100 vlineto
           hintmask 01000100
-          120 hlineto
+          77 hlineto
           hintmask 10000100
-          -103 callsubr
+          -100 105 105 vlineto
           hintmask 10001000
-          -120 hlineto
+          -77 hlineto
           hintmask 01001000
-          160 vlineto
+          100 vlineto
           hintmask 01010000
-          -120 hlineto
+          -78 hlineto
           hintmask 00110000
-          -95 callsubr
+          100 -105 vlineto
           endchar
         </CharString>
         <CharString name="greater">
-          0 161 -1 161 -1 161 -1 161 -1 161 -1 161 -1 161 hstemhm
-          0 161 -41 161 -41 161 -41 161 hintmask 0000001100000000
-          960 vmoveto
+          -1 105 -5 105 -5 105 -5 105 -5 105 -5 105 -5 105 hstemhm
+          66 105 -28 105 -27 105 -28 105 hintmask 0000001100000000
+          66 599 rmoveto
           hintmask 0000001010000000
-          120 hlineto
+          77 hlineto
           hintmask 0000010010000000
-          -160 vlineto
+          -100 vlineto
           hintmask 0000010001000000
-          120 hlineto
+          78 hlineto
           hintmask 0010100001000000
-          -160 vlineto
+          -100 vlineto
           hintmask 0010100000100000
-          -88 callsubr
+          77 -95 hlineto
           hintmask 0010000001000000
-          -120 hlineto
+          -77 hlineto
           hintmask 0100000001000000
-          -160 vlineto
+          -100 vlineto
           hintmask 0100000010000000
-          -120 hlineto
+          -78 hlineto
           hintmask 1000000010000000
-          -160 vlineto
+          -100 vlineto
           hintmask 1000000100000000
-          -98 callsubr
+          -77 -105 105 hlineto
           hintmask 0100000100000000
-          160 vlineto
+          100 vlineto
           hintmask 0100000010000000
-          120 hlineto
+          77 hlineto
           hintmask 0010000010000000
-          160 vlineto
+          100 vlineto
           hintmask 0010000001000000
-          120 hlineto
+          78 hlineto
           hintmask 0001000001000000
-          160 vlineto
+          100 vlineto
           hintmask 0001000000100000
-          -87 callsubr
+          77 105 hlineto
           hintmask 0001000001000000
-          -120 hlineto
+          -77 hlineto
           hintmask 0000100001000000
-          160 vlineto
+          100 vlineto
           hintmask 0000100010000000
-          -120 hlineto
+          -78 hlineto
           hintmask 0000010010000000
-          160 vlineto
+          100 vlineto
           hintmask 0000010100000000
-          -120 hlineto
+          -77 hlineto
           hintmask 0000001100000000
-          -95 callsubr
+          100 -105 vlineto
           endchar
         </CharString>
         <CharString name="h">
-          21 -21 21 -21 480 161 -1 161 320 -20 hstemhm
-          0 281 -281 161 79 281 -41 161 hintmask 1010101000000000
-          161 1121 rmoveto
-          -161 -1121 161 480 hlineto
-          hintmask 0010110010000000
-          120 hlineto
-          hintmask 1001110010000000
-          160 79 vlineto
-          120 -640 161 hlineto
-          hintmask 0010100010000000
-          641 vlineto
-          hintmask 0010101100000000
-          -120 hlineto
-          hintmask 0001101100000000
-          -82 callsubr
-          hintmask 1010101100000000
-          -160 -79 vlineto
+          20 -21 300 105 -5 105 hstemhm
+          66 182 -182 105 50 182 -27 105 hintmask 11001000
+          171 704 rmoveto
+          -105 -705 105 300 hlineto
+          hintmask 11010010
+          77 hlineto
+          hintmask 10110010
+          100 128 -400 105 vlineto
+          hintmask 11000010
+          405 vlineto
+          hintmask 11001100
+          -78 hlineto
+          hintmask 10101100
+          100 -182 vlineto
+          hintmask 11001100
+          -100 -50 vlineto
           endchar
         </CharString>
         <CharString name="hyphen">
-          480 161 hstem
-          0 641 vstem
-          480 vmoveto
-          -94 callsubr
+          299 105 hstem
+          66 299 rmoveto
+          415 105 -415 hlineto
           endchar
         </CharString>
         <CharString name="i">
-          0 161 479 161 159 161 hstemhm
-          120 281 -161 161 hintmask 11101000
-          240 960 rmoveto
-          -107 callsubr
+          -1 105 295 105 95 105 hstemhm
+          143 183 -105 105 hintmask 11101000
+          221 599 rmoveto
+          105 105 -105 hlineto
           hintmask 11110000
-          -120 -481 rmoveto
+          -78 -305 rmoveto
           hintmask 11101000
-          120 -479 hlineto
+          78 -295 hlineto
           hintmask 11110000
-          -120 -161 hlineto
+          -78 -105 hlineto
           hintmask 11101000
-          -81 callsubr
+          -102 callsubr
           hintmask 11110000
-          640 -281 vlineto
+          400 -183 vlineto
           endchar
         </CharString>
         <CharString name="j">
-          -320 161 -1 161 800 -20 179 161 hstemhm
-          120 161 -41 281 -41 161 hintmask 00110010
-          480 960 rmoveto
-          -107 callsubr
+          -201 105 -5 105 500 -20 115 105 hstemhm
+          143 105 -27 182 -27 105 hintmask 00110010
+          376 599 rmoveto
+          105 105 -105 hlineto
           hintmask 01111000
-          -360 -1281 rmoveto
+          -233 -805 rmoveto
           hintmask 01110100
-          120 hlineto
+          78 hlineto
           hintmask 10110100
-          -160 281 vlineto
+          -100 182 vlineto
           hintmask 01110100
-          160 vlineto
+          100 vlineto
           hintmask 01111010
-          120 961 -161 hlineto
+          78 605 -105 hlineto
           hintmask 10111010
-          -960 -199 vlineto
+          -600 -128 vlineto
           hintmask 01111000
-          -95 callsubr
+          100 -105 vlineto
           endchar
         </CharString>
         <CharString name="k">
-          0 161 -1 161 -1 161 -1 161 -1 161 320 -20 hstemhm
-          0 281 -281 161 79 161 -41 161 hintmask 1010010110000000
-          161 1121 rmoveto
-          -161 -1121 161 320 79 hlineto
-          hintmask 0100010010000000
-          -160 vlineto
-          hintmask 0100010001000000
-          120 hlineto
-          hintmask 1000010001000000
-          -103 callsubr
-          hintmask 1000010010000000
-          -120 hlineto
-          hintmask 0101010010000000
-          160 vlineto
-          hintmask 0101011000000000
-          -102 callsubr
-          hintmask 0001010010000000
-          120 hlineto
-          hintmask 0000110010000000
-          160 vlineto
-          hintmask 0000110001000000
-          -105 callsubr
-          hintmask 0001010001000000
-          -160 vlineto
-          hintmask 0001010110000000
-          -120 hlineto
-          hintmask 1010010110000000
-          -160 -79 vlineto
+          -1 105 -5 105 -5 105 -5 105 -5 105 200 -20 hstemhm
+          66 105 50 105 -28 105 hintmask 1010011100000000
+          171 704 rmoveto
+          -105 -705 105 200 50 hlineto
+          hintmask 0100011100000000
+          -100 vlineto
+          hintmask 0100011010000000
+          77 hlineto
+          hintmask 1000011010000000
+          -100 105 105 vlineto
+          hintmask 1000011100000000
+          -77 hlineto
+          hintmask 0101011100000000
+          100 -78 95 78 vlineto
+          hintmask 0000111100000000
+          100 vlineto
+          hintmask 0000111010000000
+          77 105 -105 hlineto
+          hintmask 0001011010000000
+          -100 vlineto
+          hintmask 0001011100000000
+          -77 hlineto
+          hintmask 1010011100000000
+          -100 -50 vlineto
           endchar
         </CharString>
         <CharString name="l">
-          0 161 799 161 hstemhm
-          120 281 -161 161 hintmask 11100000
-          120 960 rmoveto
+          -1 105 495 105 hstemhm
+          143 183 -105 105 hintmask 11100000
+          143 599 rmoveto
           hintmask 11010000
-          120 -799 hlineto
+          78 -495 hlineto
           hintmask 11100000
-          -120 -161 hlineto
+          -78 -105 hlineto
           hintmask 11010000
-          -81 callsubr
+          -102 callsubr
           hintmask 11100000
-          960 -281 vlineto
+          600 -183 vlineto
           endchar
         </CharString>
         <CharString name="less">
-          0 161 -1 161 -1 161 -1 161 -1 161 -1 161 -1 161 hstemhm
-          120 161 -41 161 -41 161 -41 161 hintmask 0001000100000000
-          120 480 rmoveto
+          -1 105 -5 105 -5 105 -5 105 -5 105 -5 105 -5 105 hstemhm
+          143 105 -27 105 -28 105 -27 105 hintmask 0001000100000000
+          143 299 rmoveto
           hintmask 0001000010000000
-          120 hlineto
+          78 hlineto
           hintmask 0010000010000000
-          -160 vlineto
+          -100 vlineto
           hintmask 0010000001000000
-          120 hlineto
+          77 hlineto
           hintmask 0100000001000000
-          -160 vlineto
+          -100 vlineto
           hintmask 0100000000100000
-          120 hlineto
+          78 hlineto
           hintmask 1000000000100000
-          -103 callsubr
+          -100 105 105 vlineto
           hintmask 1000000001000000
-          -120 hlineto
+          -78 hlineto
           hintmask 0100000001000000
-          160 vlineto
+          100 vlineto
           hintmask 0100000010000000
-          -120 hlineto
+          -77 hlineto
           hintmask 0010100010000000
-          160 vlineto
+          100 vlineto
           hintmask 0010100100000000
-          -102 callsubr
+          -78 95 hlineto
           hintmask 0000100010000000
-          120 hlineto
+          78 hlineto
           hintmask 0000010010000000
-          160 vlineto
+          100 vlineto
           hintmask 0000010001000000
-          120 hlineto
+          77 hlineto
           hintmask 0000001001000000
-          160 vlineto
+          100 vlineto
           hintmask 0000001000100000
-          -105 callsubr
+          78 105 -105 hlineto
           hintmask 0000010000100000
-          -160 vlineto
+          -100 vlineto
           hintmask 0000010001000000
-          -120 hlineto
+          -78 hlineto
           hintmask 0000100001000000
-          -160 vlineto
+          -100 vlineto
           hintmask 0000100010000000
-          -120 hlineto
+          -77 hlineto
           hintmask 0001000010000000
-          -160 vlineto
+          -100 vlineto
           hintmask 0001000100000000
-          -120 hlineto
+          -78 hlineto
           endchar
         </CharString>
         <CharString name="m">
-          21 -21 21 -21 640 161 hstemhm
-          0 281 -281 161 79 161 -41 161 -41 161 hintmask 10110000
-          801 vmoveto
+          20 -21 21 -21 400 105 hstemhm
+          66 182 -182 105 50 105 -28 105 -27 105 hintmask 10110000
+          66 504 rmoveto
           hintmask 10101101
-          -801 161 640 79 -640 161 640 79 -640 161 641 vlineto
+          -505 105 400 50 -400 105 400 50 -400 105 405 vlineto
           hintmask 10110010
-          -120 160 -161 -160 -79 160 hlineto
+          -78 100 -105 -100 -50 100 hlineto
           endchar
         </CharString>
         <CharString name="n">
-          21 -21 21 -21 480 161 -1 161 hstemhm
-          0 281 -281 161 79 281 -41 161 hintmask 10010001
-          480 640 rmoveto
-          -640 161 vlineto
+          20 -21 21 -21 300 105 -5 105 hstemhm
+          66 182 -182 105 50 182 -27 105 hintmask 10010001
+          376 399 rmoveto
+          -400 105 vlineto
           hintmask 00100001
-          641 vlineto
+          405 vlineto
           hintmask 00100110
-          -120 hlineto
+          -78 hlineto
           hintmask 00010110
-          -82 callsubr
+          100 -182 vlineto
           hintmask 00100110
-          -160 -79 vlineto
+          -100 -50 vlineto
           hintmask 10010100
-          160 -161 -801 161 vlineto
+          100 -105 -505 105 vlineto
           hintmask 00100100
-          480 vlineto
+          300 vlineto
           hintmask 00101001
-          120 hlineto
+          77 hlineto
           hintmask 10011001
-          160 79 vlineto
+          100 vlineto
           endchar
         </CharString>
         <CharString name="nine">
-          0 161 -1 161 159 161 319 161 hstemhm
-          0 161 -41 281 -41 161 -41 161 hintmask 10110100
-          120 hmoveto
-          120 0 41 0 120 0 rlineto
+          -1 105 -5 105 95 105 195 105 hstemhm
+          66 105 -28 183 -28 105 -27 105 hintmask 10110100
+          143 -1 rmoveto
+          78 0 27 0 78 0 rlineto
           hintmask 01110100
-          160 vlineto
+          100 vlineto
           hintmask 01110010
-          -97 callsubr
+          77 100 hlineto
           hintmask 01110001
-          120 641 hlineto
+          78 405 hlineto
           hintmask 01110010
-          -96 callsubr
+          -78 100 hlineto
           hintmask 01110100
-          -401 -160 hlineto
+          -260 -100 hlineto
           hintmask 01111000
-          -120 -321 hlineto
+          -77 -205 hlineto
           hintmask 01110101
-          120 -160 120 hlineto
-          161 0 79 0 0 -159 rlineto
+          77 -100 233 -95 hlineto
           hintmask 01110010
-          -120 hlineto
+          -78 hlineto
           hintmask 10110010
-          -160 vlineto
+          -100 vlineto
           hintmask 10110100
-          -240 hlineto
+          -155 hlineto
           hintmask 00111001
-          360 799 rmoveto
-          -89 callsubr
+          233 495 rmoveto
+          -106 callsubr
           endchar
         </CharString>
         <CharString name="numbersign">
-          21 -21 21 -21 320 161 159 161 320 -20 hstemhm
-          120 161 79 161 hintmask 10111110
-          640 vmoveto
-          120 -159 -120 -161 120 -320 161 320 79 -320 161 320 120 161 -120 hlineto
-          159 120 161 -120 320 -161 -320 -79 320 -161 -320 -120 vlineto
-          281 -161 rmoveto
-          79 -159 -79 hlineto
+          20 -21 21 -21 200 105 95 105 200 -20 hstemhm
+          143 105 50 105 hintmask 10111110
+          66 399 rmoveto
+          77 -95 -77 -105 77 -200 105 200 50 -200 105 200 78 105 -78 hlineto
+          95 78 105 -78 200 -105 -200 -50 200 -105 -200 -77 vlineto
+          182 -105 rmoveto
+          50 -95 -50 hlineto
           endchar
         </CharString>
         <CharString name="o">
-          0 161 479 161 hstemhm
-          0 161 -41 401 -41 161 hintmask 11101000
-          480 640 rmoveto
-          -479 -319 479 79 vlineto
+          -1 105 295 105 hstemhm
+          66 105 -28 260 -27 105 hintmask 11101000
+          376 399 rmoveto
+          -295 -205 295 vlineto
           hintmask 11010000
-          -120 161 rmoveto
-          -160 vlineto
+          -28 105 rmoveto
+          -100 vlineto
           hintmask 11100000
-          -100 callsubr
+          -77 -305 hlineto
           hintmask 11010000
-          -85 callsubr
+          -105 callsubr
           hintmask 11001000
-          120 481 hlineto
+          78 305 hlineto
           hintmask 11010000
-          -96 callsubr
+          -78 100 hlineto
           endchar
         </CharString>
         <CharString name="one">
-          0 161 639 161 160 -20 hstemhm
-          120 281 -161 161 hintmask 11110000
-          120 800 rmoveto
+          -1 105 395 105 100 -20 hstemhm
+          143 183 -105 105 hintmask 11110000
+          143 499 rmoveto
           hintmask 11101000
-          120 -639 hlineto
+          78 -395 hlineto
           hintmask 11110000
-          -120 -161 hlineto
+          -78 -105 hlineto
           hintmask 11101000
-          120 0 41 0 79 0 41 0 120 0 0 161 -120 0 0 960 -161 0 0 -160 rlineto
+          78 0 27 0 50 0 28 0 77 0 0 105 -77 0 0 600 -105 0 0 -100 rlineto
           hintmask 11110000
-          -120 hlineto
+          -78 hlineto
           endchar
         </CharString>
         <CharString name="p">
-          0 161 -1 161 159 161 -1 161 hstemhm
-          0 281 -281 161 79 281 -41 161 hintmask 10011001
-          480 640 rmoveto
-          -479 -199 vlineto
-          hintmask 01101000
-          160 vlineto
-          hintmask 01100100
-          -102 callsubr
-          hintmask 00101001
-          120 hlineto
-          hintmask 10011001
-          160 79 vlineto
-          hintmask 00010110
-          -120 161 rmoveto
-          hintmask 00100110
-          -160 -79 vlineto
-          hintmask 01010110
-          160 -161 -1121 161 480 79 vlineto
-          hintmask 10000010
-          -83 callsubr
-          hintmask 01100010
-          160 vlineto
-          hintmask 01100001
-          120 481 hlineto
-          hintmask 00100110
-          -120 hlineto
-          hintmask 00010110
-          160 vlineto
+          -180 -21 200 105 -5 105 95 105 -5 105 hstemhm
+          66 182 -182 105 50 182 -27 105 hintmask 1100110010000000
+          376 399 rmoveto
+          -295 -128 vlineto
+          hintmask 1011010000000000
+          100 vlineto
+          hintmask 1011001000000000
+          -77 95 hlineto
+          hintmask 1001010010000000
+          77 hlineto
+          hintmask 1100110010000000
+          100 vlineto
+          hintmask 1000101100000000
+          -27 105 rmoveto
+          hintmask 1001001100000000
+          -100 -50 vlineto
+          hintmask 1010101100000000
+          100 -105 -705 105 300 50 vlineto
+          hintmask 1100000100000000
+          -100 77 vlineto
+          28 0 77 0 rlineto
+          hintmask 1011000100000000
+          100 vlineto
+          hintmask 1011000010000000
+          78 305 hlineto
+          hintmask 1001001100000000
+          -78 hlineto
+          hintmask 1000101100000000
+          100 vlineto
           endchar
         </CharString>
         <CharString name="parenleft">
-          0 161 -1 161 479 161 -1 161 hstemhm
-          120 161 -41 161 -41 161 hintmask 00010100
-          401 960 rmoveto
+          -1 105 -5 105 295 105 -5 105 hstemhm
+          143 105 -27 105 -28 105 hintmask 00010100
+          326 599 rmoveto
           hintmask 00010010
-          -105 callsubr
+          77 105 -105 hlineto
           hintmask 01100010
-          -160 vlineto
+          -100 vlineto
           hintmask 01100100
-          -101 callsubr
+          -77 -100 hlineto
           hintmask 01001000
-          -100 callsubr
+          -78 -305 hlineto
           hintmask 01000100
-          -99 callsubr
+          78 -100 hlineto
           hintmask 01000010
-          120 hlineto
+          77 hlineto
           hintmask 10000010
-          -103 callsubr
+          -100 105 105 vlineto
           hintmask 10000100
-          -120 hlineto
+          -77 hlineto
           hintmask 01100100
-          160 vlineto
+          100 vlineto
           hintmask 01101000
-          -120 479 hlineto
+          -78 200 hlineto
+          95 vlineto
           hintmask 00100100
-          120 hlineto
+          78 hlineto
           endchar
         </CharString>
         <CharString name="parenright">
-          0 161 -1 161 479 161 -1 161 hstemhm
-          120 161 -41 161 -41 161 hintmask 00011000
-          120 960 rmoveto
+          -1 105 -5 105 295 105 -5 105 hstemhm
+          143 105 -27 105 -28 105 hintmask 00011000
+          143 599 rmoveto
           hintmask 00010100
-          120 hlineto
+          78 hlineto
           hintmask 01100100
-          -160 vlineto
+          -100 vlineto
           hintmask 01100010
-          120 -479 hlineto
+          77 -295 hlineto
           hintmask 01000100
-          -120 hlineto
+          -77 hlineto
           hintmask 10000100
-          -160 vlineto
+          -100 vlineto
           hintmask 10001000
-          -98 callsubr
+          -78 -105 105 hlineto
           hintmask 01101000
-          160 vlineto
+          100 vlineto
           hintmask 01100100
-          -97 callsubr
+          78 100 hlineto
           hintmask 00100010
-          120 481 hlineto
+          77 305 hlineto
           hintmask 00100100
-          -96 callsubr
+          -77 100 hlineto
           hintmask 00101000
-          -120 hlineto
+          -78 hlineto
           hintmask 00011000
-          -95 callsubr
+          100 -105 vlineto
           endchar
         </CharString>
         <CharString name="percent">
-          0 321 -161 161 -1 161 -1 161 -1 161 -1 321 -321 161 hstemhm
-          0 161 -41 161 -41 161 -41 161 -41 161 hintmask 0100000100000000
-          160 vmoveto
-          161 hlineto
-          hintmask 0010000100000000
-          160 vlineto
-          hintmask 0010000010000000
-          120 hlineto
-          hintmask 0001000010000000
-          160 vlineto
-          hintmask 0001000001000000
-          120 hlineto
+          -1 205 -5 105 -5 105 -5 105 -5 205 hstemhm
+          66 105 -28 105 -27 105 -28 105 -27 105 hintmask 0000110000000000
+          66 704 rmoveto
+          -205 vlineto
+          hintmask 0000101000000000
+          77 0 105 0 0 205 rlineto
           hintmask 0000100001000000
-          160 vlineto
-          hintmask 0000100000100000
-          120 hlineto
-          hintmask 0000001000100000
-          160 vlineto
-          hintmask 0000001000010000
-          -105 callsubr
-          hintmask 0000100000010000
-          -160 vlineto
-          hintmask 0000100000100000
-          -120 hlineto
-          hintmask 0001000000100000
-          -160 vlineto
+          233 hmoveto
+          -105 hlineto
           hintmask 0001000001000000
-          -120 hlineto
-          hintmask 0010000001000000
-          -160 vlineto
+          -200 vlineto
+          hintmask 0001000010000000
+          -78 hlineto
           hintmask 0010000010000000
-          -120 hlineto
-          hintmask 0100000010000000
-          -160 vlineto
+          -100 vlineto
+          hintmask 0010000100000000
+          -77 hlineto
           hintmask 0100000100000000
-          -120 hlineto
-          hintmask 0000010100000000
-          800 vmoveto
-          -321 vlineto
-          hintmask 0000010010000000
-          120 0 161 0 0 321 rlineto
-          hintmask 1000000000100000
-          79 -800 rmoveto
-          -321 vlineto
-          hintmask 1000000000010000
-          120 0 rlineto
-          hintmask 1000000000100000
-          41 0 rlineto
-          hintmask 1000000000010000
-          -104 callsubr
+          -100 vlineto
+          hintmask 0100001000000000
+          -78 hlineto
+          hintmask 1000001000000000
+          -100 vlineto
+          hintmask 1000010000000000
+          -77 -205 105 hlineto
+          hintmask 0100010000000000
+          200 vlineto
+          hintmask 0100001000000000
+          77 hlineto
+          hintmask 0010001000000000
+          100 vlineto
+          hintmask 0010000100000000
+          78 hlineto
+          hintmask 0001000100000000
+          100 vlineto
+          hintmask 0001000010000000
+          77 hlineto
+          hintmask 0000100010000000
+          100 vlineto
+          hintmask 0000100001000000
+          78 hlineto
+          hintmask 1000000010000000
+          -183 -295 rmoveto
+          -205 vlineto
+          hintmask 1000000001000000
+          78 0 rlineto
+          hintmask 1000000010000000
+          27 0 rlineto
+          hintmask 1000000001000000
+          78 205 hlineto
           endchar
         </CharString>
         <CharString name="period">
-          0 161 hstem
-          240 161 vstem
-          240 hmoveto
-          -107 callsubr
+          -1 105 hstem
+          221 105 vstem
+          221 -1 rmoveto
+          105 105 -105 hlineto
           endchar
         </CharString>
         <CharString name="plus">
-          480 161 hstem
-          240 161 vstem
-          480 vmoveto
-          120 0 41 0 79 0 0 -320 161 0 0 320 240 0 0 161 -240 0 0 320 -161 0 0 -320 -240 0 rlineto
+          299 105 hstem
+          221 105 vstem
+          66 299 rmoveto
+          155 -200 105 200 155 105 -155 200 -105 -200 -155 hlineto
           endchar
         </CharString>
         <CharString name="q">
-          0 161 -1 161 159 161 -1 161 hstemhm
-          0 161 -41 281 -41 281 -161 161 hintmask 00010010
-          360 640 rmoveto
+          -1 105 -5 105 95 105 -5 105 hstemhm
+          66 105 -28 183 -28 183 -105 105 hintmask 00010010
+          298 399 rmoveto
           hintmask 01100010
-          -160 vlineto
+          -100 vlineto
           hintmask 01100001
-          -88 callsubr
+          78 -95 hlineto
           hintmask 01001010
-          -120 hlineto
+          -78 hlineto
           hintmask 10011010
-          -84 callsubr
+          -104 callsubr
           hintmask 00010100
-          -120 161 rmoveto
+          -28 105 rmoveto
           hintmask 01100100
-          -160 vlineto
+          -100 vlineto
           hintmask 01101000
-          -100 callsubr
+          -77 -305 hlineto
           hintmask 01000101
-          120 hlineto
+          77 hlineto
           hintmask 10000101
-          -83 callsubr
+          -103 callsubr
           hintmask 01010101
-          160 79 -480 161 1121 -161 vlineto
+          100 50 -300 105 705 -105 vlineto
           hintmask 00100101
-          -160 -79 vlineto
+          -100 -50 vlineto
           hintmask 00010100
-          160 vlineto
+          100 vlineto
           endchar
         </CharString>
         <CharString name="question">
-          0 161 159 161 -1 161 159 161 -1 161 hstemhm
-          0 161 79 161 -41 161 -41 161 hintmask 1001011010000000
-          800 vmoveto
-          161 hlineto
-          hintmask 1010111010000000
-          160 79 vlineto
-          240 -319 hlineto
+          -1 105 95 105 -5 105 95 105 -5 105 hstemhm
+          66 105 50 105 -28 105 -27 105 hintmask 1001010010000000
+          66 499 rmoveto
+          105 hlineto
+          hintmask 1010110010000000
+          100 205 -195 vlineto
           hintmask 1010010100000000
-          -120 hlineto
+          -78 hlineto
           hintmask 1100010100000000
-          -160 vlineto
+          -100 vlineto
           hintmask 1100011000000000
-          -98 callsubr
+          -77 -105 105 hlineto
           hintmask 1011011000000000
-          160 vlineto
+          100 vlineto
           hintmask 1011010100000000
-          -97 callsubr
+          77 100 hlineto
           hintmask 1001010010000000
-          -104 callsubr
+          78 205 hlineto
           hintmask 1001010100000000
-          -120 hlineto
+          -78 hlineto
           hintmask 1000110100000000
-          160 -401 vlineto
-          hintmask 1001011010000000
-          -160 -120 vlineto
-          240 -961 rmoveto
-          -107 callsubr
+          100 -260 vlineto
+          hintmask 1001010010000000
+          -100 -77 vlineto
+          hintmask 1000011000000000
+          155 -605 rmoveto
+          105 105 -105 hlineto
           endchar
         </CharString>
         <CharString name="quotedbl">
-          640 481 hstem
-          120 161 79 161 vstem
-          281 1121 rmoveto
-          -106 callsubr
-          240 481 rmoveto
-          -106 callsubr
+          399 305 hstem
+          143 105 50 105 vstem
+          248 704 rmoveto
+          -105 -305 105 hlineto
+          155 305 rmoveto
+          -105 -305 105 hlineto
           endchar
         </CharString>
         <CharString name="quotesingle">
-          640 161 -1 161 -1 161 hstemhm
-          120 161 -41 161 -41 161 hintmask 10010000
-          120 640 rmoveto
-          161 hlineto
+          399 105 -5 105 -5 105 hstemhm
+          143 105 -27 105 -28 105 hintmask 10010000
+          143 399 rmoveto
+          105 hlineto
           hintmask 01010000
-          160 vlineto
+          100 vlineto
           hintmask 01001000
-          120 hlineto
+          78 hlineto
           hintmask 00101000
-          160 vlineto
+          100 vlineto
           hintmask 00100100
-          -105 callsubr
+          77 105 -105 hlineto
           hintmask 01000100
-          -160 vlineto
+          -100 vlineto
           hintmask 01001000
-          -120 hlineto
+          -77 hlineto
           hintmask 10001000
-          -160 vlineto
+          -100 vlineto
           hintmask 10010000
-          -120 hlineto
+          -78 hlineto
           endchar
         </CharString>
         <CharString name="r">
-          21 -21 21 -21 480 161 -1 161 hstemhm
-          0 281 -281 161 79 281 -41 161 hintmask 00010001
-          480 640 rmoveto
+          20 -21 21 -21 300 105 -5 105 hstemhm
+          66 182 -182 105 50 182 -27 105 hintmask 00010001
+          376 399 rmoveto
           hintmask 00100001
-          -103 callsubr
+          -100 105 105 vlineto
           hintmask 00100110
-          -120 hlineto
+          -78 hlineto
           hintmask 00010110
-          -82 callsubr
+          100 -182 vlineto
           hintmask 00100110
-          -160 -79 vlineto
+          -100 -50 vlineto
           hintmask 10010100
-          160 -161 -801 161 vlineto
+          100 -105 -505 105 vlineto
           hintmask 00100100
-          480 vlineto
+          300 vlineto
           hintmask 00101001
-          120 hlineto
+          77 hlineto
           hintmask 00011001
-          160 79 vlineto
+          100 vlineto
           endchar
         </CharString>
         <CharString name="s">
-          0 161 -1 161 -1 161 -1 161 -1 161 hstemhm
-          0 161 319 161 hintmask 00010110
-          480 vmoveto
-          120 hlineto
+          -1 105 -5 105 -5 105 -5 105 -5 105 hstemhm
+          66 105 205 105 hintmask 00010110
+          66 299 rmoveto
+          77 hlineto
           hintmask 10100110
-          -160 360 -159 -480 -161 120 vlineto
-          41 0 79 0 41 0 79 0 41 0 120 0 rlineto
+          -100 233 -95 -310 -105 77 vlineto
+          28 0 50 0 27 0 50 0 28 0 77 0 rlineto
           hintmask 01000110
-          160 120 161 -120 vlineto
+          100 78 105 -78 vlineto
           hintmask 00101110
-          160 -360 159 79 vlineto
-          401 161 -521 hlineto
+          100 -232 95 310 105 -338 vlineto
           hintmask 00010110
-          -160 -120 vlineto
+          -100 -77 vlineto
           endchar
         </CharString>
         <CharString name="semicolon">
-          -160 161 639 161 hstemhm
-          120 161 -41 161 hintmask 11010000
-          240 640 rmoveto
-          -107 callsubr
+          -101 105 395 105 hstemhm
+          143 105 -27 105 hintmask 11010000
+          221 399 rmoveto
+          105 105 -105 hlineto
           hintmask 11100000
-          -120 -961 rmoveto
-          161 160 hlineto
+          -78 -605 rmoveto
+          105 100 hlineto
           hintmask 11010000
-          120 321 -161 -320 hlineto
+          78 205 -105 -200 hlineto
           hintmask 11100000
-          -120 hlineto
+          -78 hlineto
           endchar
         </CharString>
         <CharString name="seven">
-          21 -21 21 -21 480 161 -1 161 159 161 hstemhm
-          120 161 -41 161 -41 161 -41 161 hintmask 0001110000000000
-          960 vmoveto
-          120 0 rlineto
-          hintmask 0001101010000000
-          281 0 79 0 0 -159 rlineto
+          20 -21 21 -21 300 105 -5 105 95 105 hstemhm
+          143 105 -27 105 -28 105 -27 105 hintmask 0001100010000000
+          66 599 rmoveto
+          310 -95 hlineto
           hintmask 0001100100000000
-          -120 hlineto
+          -78 hlineto
           hintmask 1010100100000000
-          -160 vlineto
+          -100 vlineto
           hintmask 1010101000000000
-          -101 callsubr
+          -77 -100 hlineto
           hintmask 1010110000000000
-          -120 -481 161 480 hlineto
+          -78 -305 105 205 hlineto
+          95 vlineto
           hintmask 0010101000000000
-          120 hlineto
+          78 hlineto
           hintmask 0001101000000000
-          160 vlineto
+          100 vlineto
           hintmask 0001100100000000
-          -97 callsubr
-          hintmask 0001110010000000
-          120 321 -641 hlineto
+          77 100 hlineto
+          hintmask 0001100010000000
+          78 205 -415 hlineto
           endchar
         </CharString>
         <CharString name="six">
-          0 161 319 161 159 161 -1 161 hstemhm
-          0 161 -41 161 -41 281 -41 161 hintmask 11010010
-          521 960 rmoveto
-          161 -281 vlineto
+          -1 105 195 105 95 105 -5 105 hstemhm
+          66 105 -28 105 -27 182 -27 105 hintmask 11010010
+          403 599 rmoveto
+          105 -182 vlineto
           hintmask 11100010
-          -160 vlineto
+          -100 vlineto
           hintmask 11100100
-          -101 callsubr
+          -78 -100 hlineto
           hintmask 11101000
-          -120 -641 hlineto
+          -77 -405 hlineto
           hintmask 11100100
-          -99 callsubr
+          77 -100 hlineto
           hintmask 11100010
-          120 0 rlineto
+          78 0 rlineto
           hintmask 11100100
-          -91 callsubr
+          27 0 50 0 28 0 rlineto
           hintmask 11100010
-          -97 callsubr
+          77 100 hlineto
           hintmask 11100001
-          -104 callsubr
+          78 205 hlineto
           hintmask 11101010
-          -120 160 -360 159 hlineto
+          -78 100 -232 95 hlineto
           hintmask 11100100
-          120 hlineto
+          77 hlineto
           hintmask 11010100
-          160 79 vlineto
+          100 vlineto
           hintmask 11001001
-          120 -480 rmoveto
-          -90 callsubr
+          128 -300 rmoveto
+          -106 callsubr
           endchar
         </CharString>
         <CharString name="slash">
-          160 161 -1 161 -1 161 -1 161 -1 161 hstemhm
-          0 161 -41 161 -41 161 -41 161 -41 161 hintmask 1000010000000000
-          160 vmoveto
-          161 hlineto
-          hintmask 0100010000000000
-          160 vlineto
-          hintmask 0100001000000000
-          120 hlineto
-          hintmask 0010001000000000
-          160 vlineto
-          hintmask 0010000100000000
-          120 hlineto
-          hintmask 0001000100000000
-          160 vlineto
-          hintmask 0001000010000000
-          120 hlineto
-          hintmask 0000100010000000
-          160 vlineto
-          hintmask 0000100001000000
-          -105 callsubr
-          hintmask 0001000001000000
-          -160 vlineto
-          hintmask 0001000010000000
-          -120 hlineto
-          hintmask 0010000010000000
-          -160 vlineto
-          hintmask 0010000100000000
-          -120 hlineto
-          hintmask 0100000100000000
-          -160 vlineto
-          hintmask 0100001000000000
-          -120 hlineto
-          hintmask 1000001000000000
-          -160 vlineto
-          hintmask 1000010000000000
-          -120 hlineto
+          20 -21 200 105 -5 105 -5 105 200 -20 hstemhm
+          66 105 -28 105 -27 105 -28 105 -27 105 hintmask 1001100001000000
+          481 704 rmoveto
+          -105 -200 hlineto
+          hintmask 1001100010000000
+          -78 hlineto
+          hintmask 1010100010000000
+          -100 vlineto
+          hintmask 1010100100000000
+          -77 hlineto
+          hintmask 1100100100000000
+          -100 vlineto
+          hintmask 1100101000000000
+          -78 -100 hlineto
+          hintmask 1100110000000000
+          -77 -205 105 200 hlineto
+          hintmask 1100101000000000
+          77 hlineto
+          hintmask 1010101000000000
+          100 vlineto
+          hintmask 1010100100000000
+          78 hlineto
+          hintmask 1001100100000000
+          100 vlineto
+          hintmask 1001100010000000
+          77 100 hlineto
+          hintmask 1001100001000000
+          78 hlineto
           endchar
         </CharString>
         <CharString name="space">
           107 endchar
         </CharString>
         <CharString name="t">
-          0 161 -1 161 319 161 320 -20 hstemhm
-          120 161 -41 161 -41 161 hintmask 01111000
-          640 vmoveto
-          120 -480 hlineto
+          -1 105 -5 105 195 105 200 -20 hstemhm
+          143 105 -27 105 -28 105 hintmask 01111000
+          66 399 rmoveto
+          77 -300 hlineto
           hintmask 01110100
-          120 hlineto
+          78 hlineto
           hintmask 10110100
-          -160 161 vlineto
+          -100 105 vlineto
           hintmask 01110100
-          160 vlineto
+          100 vlineto
           hintmask 01111010
-          -105 callsubr
+          77 105 -105 hlineto
           hintmask 10111010
-          -160 -79 479 vlineto
+          -100 -50 295 vlineto
           hintmask 01110100
-          -87 callsubr
+          78 105 hlineto
           hintmask 01111000
-          -120 320 -161 -320 -120 hlineto
+          -78 200 -105 -200 -77 hlineto
           endchar
         </CharString>
         <CharString name="three">
-          0 161 -1 161 159 161 159 161 -1 161 hstemhm
-          0 161 -41 401 -281 281 -41 161 hintmask 0011010100000000
-          800 vmoveto
-          161 hlineto
-          hintmask 1010110100000000
-          160 79 vlineto
-          hintmask 1010100010000000
-          240 -319 hlineto
-          hintmask 1010000100000000
-          -240 -161 120 hlineto
-          hintmask 1010010010000000
-          120 -319 -319 hlineto
-          hintmask 0110010000000000
-          160 -161 -161 vlineto
-          hintmask 0110001000000000
-          120 hlineto
-          hintmask 1010001000000000
-          -160 vlineto
-          hintmask 1010000100000000
-          120 0 41 0 79 0 41 0 rlineto
-          hintmask 1010001000000000
-          120 hlineto
-          hintmask 0111001000000000
-          160 vlineto
-          hintmask 0111000010000000
-          -104 callsubr
-          hintmask 0011000100000000
-          -102 callsubr
-          hintmask 0011000010000000
-          -104 callsubr
-          hintmask 0011001000000000
-          -120 hlineto
-          hintmask 0010101000000000
-          160 -401 vlineto
-          hintmask 0011001000000000
-          -160 vlineto
-          hintmask 0011010100000000
-          -120 hlineto
+          -1 105 -5 105 95 105 95 105 -5 105 hstemhm
+          66 105 -28 260 -27 105 hintmask 00110101
+          66 499 rmoveto
+          105 hlineto
+          hintmask 10101101
+          100 205 -195 -155 -105 155 -195 -205 vlineto
+          hintmask 01100100
+          100 -105 -105 vlineto
+          hintmask 01100010
+          77 hlineto
+          hintmask 10100010
+          -107 callsubr
+          hintmask 01110010
+          100 vlineto
+          hintmask 01110001
+          78 205 hlineto
+          hintmask 00110010
+          -78 95 hlineto
+          hintmask 00110001
+          78 205 hlineto
+          hintmask 00110010
+          -78 hlineto
+          hintmask 00101010
+          100 -260 vlineto
+          hintmask 00110010
+          -100 vlineto
+          hintmask 00110101
+          -77 hlineto
           endchar
         </CharString>
         <CharString name="two">
-          0 161 319 161 159 161 -1 161 hstemhm
-          0 161 -41 401 -41 161 hintmask 11101010
-          800 vmoveto
-          161 hlineto
+          -1 105 195 105 95 105 -5 105 hstemhm
+          66 105 -28 260 -27 105 hintmask 11101010
+          66 499 rmoveto
+          105 hlineto
           hintmask 11011010
-          160 79 vlineto
-          240 -319 hlineto
+          100 205 -195 vlineto
           hintmask 11100100
-          -360 -160 hlineto
+          -233 -100 hlineto
           hintmask 11101000
-          -100 callsubr
+          -77 -305 hlineto
           hintmask 11100100
-          120 0 rlineto
+          77 0 rlineto
           hintmask 11101010
-          41 0 79 0 41 0 79 0 41 0 79 0 rlineto
+          28 0 50 0 27 0 50 0 28 0 50 0 rlineto
           hintmask 11100100
-          41 0 rlineto
+          27 0 rlineto
           hintmask 11101010
-          120 161 -480 319 79 hlineto
+          78 105 -310 195 hlineto
           hintmask 11100100
-          281 160 hlineto
+          232 100 hlineto
           hintmask 11100010
-          -104 callsubr
+          78 205 hlineto
           hintmask 11100100
-          -120 hlineto
+          -78 hlineto
           hintmask 11010100
-          160 -401 vlineto
+          100 -260 vlineto
           hintmask 11100100
-          -160 vlineto
+          -100 vlineto
           hintmask 11101010
-          -120 hlineto
+          -77 hlineto
           endchar
         </CharString>
         <CharString name="u">
-          0 161 -1 161 480 -20 hstemhm
-          0 161 -41 281 -41 281 -161 161 hintmask 01110000
-          161 801 rmoveto
-          -161 -641 hlineto
+          -1 105 -5 105 300 -20 hstemhm
+          66 105 -28 183 -28 183 -105 105 hintmask 01110000
+          171 504 rmoveto
+          -105 -405 hlineto
           hintmask 01101010
-          120 hlineto
+          77 hlineto
           hintmask 10101010
-          -83 callsubr
+          -103 callsubr
           hintmask 01101010
-          160 79 vlineto
+          100 50 vlineto
           hintmask 10100010
-          -160 161 801 -161 vlineto
+          -100 105 505 -105 vlineto
           hintmask 01100010
-          -480 vlineto
+          -300 vlineto
           hintmask 01110100
-          -120 hlineto
+          -78 hlineto
           hintmask 10110100
-          -160 -199 vlineto
+          -100 -127 vlineto
           endchar
         </CharString>
         <CharString name="underscore">
-          0 161 hstem
-          0 641 vstem
-          0 vmoveto
-          120 0 41 0 79 0 41 0 79 0 41 0 79 0 41 0 120 0 0 161 -641 0 rlineto
+          -1 105 hstem
+          66 -1 rmoveto
+          77 0 28 0 50 0 27 0 50 0 28 0 50 0 27 0 78 0 0 105 -415 0 rlineto
           endchar
         </CharString>
         <CharString name="v">
-          0 161 -1 161 480 -20 hstemhm
-          0 161 -41 161 -41 161 -41 161 -41 161 hintmask 01110000
-          161 801 rmoveto
-          -161 -481 hlineto
+          -1 105 -5 105 300 -20 hstemhm
+          66 105 -28 105 -27 105 -28 105 -27 105 hintmask 01110000
+          171 504 rmoveto
+          -105 -305 hlineto
           hintmask 01101000
-          -99 callsubr
+          77 -100 hlineto
           hintmask 01100100
-          120 hlineto
+          78 hlineto
           hintmask 10100100
-          -160 161 vlineto
+          -100 105 vlineto
           hintmask 01100100
-          160 vlineto
+          100 vlineto
           hintmask 01100010
-          -97 callsubr
+          77 100 hlineto
           hintmask 01100001
-          120 481 -161 -480 hlineto
+          78 305 -105 -300 hlineto
           hintmask 01101010
-          -120 hlineto
+          -78 hlineto
           hintmask 10101010
-          -160 -79 vlineto
+          -100 -50 vlineto
           hintmask 01101000
-          160 vlineto
+          100 vlineto
           hintmask 01110000
-          -120 hlineto
+          -77 hlineto
           endchar
         </CharString>
         <CharString name="w">
-          0 161 640 -20 hstemhm
-          0 161 -41 161 -41 161 -41 161 -41 161 hintmask 11100000
-          161 801 rmoveto
-          -161 -641 hlineto
+          -1 105 400 -20 hstemhm
+          66 105 -28 105 -27 105 -28 105 -27 105 hintmask 11100000
+          171 504 rmoveto
+          -105 -405 hlineto
           hintmask 11010100
-          120 -160 161 160 79 -160 161 160 hlineto
+          77 -100 105 100 50 -100 105 100 hlineto
           hintmask 11101010
-          120 641 -161 -640 -79 320 -161 -320 -79 hlineto
+          78 405 -105 -400 -50 200 -105 -200 -50 hlineto
           endchar
         </CharString>
         <CharString name="x">
-          0 161 -1 161 159 161 -1 161 hstemhm
-          0 161 -41 161 79 161 -41 161 hintmask 00011000
-          640 vmoveto
+          -1 105 -5 105 95 105 -5 105 hstemhm
+          66 105 -28 105 50 105 -27 105 hintmask 00011000
+          66 399 rmoveto
           hintmask 00010100
-          120 hlineto
+          77 hlineto
           hintmask 01100100
-          -160 120 -159 -120 vlineto
+          -100 78 -95 -78 vlineto
           hintmask 10000100
-          -160 vlineto
+          -100 vlineto
           hintmask 10001000
-          -98 callsubr
+          -77 -105 105 hlineto
           hintmask 01001000
-          160 vlineto
+          100 vlineto
           hintmask 01000110
-          120 160 79 -160 hlineto
+          77 100 50 -100 hlineto
           hintmask 01000001
-          120 hlineto
+          78 hlineto
           hintmask 10000001
-          -103 callsubr
+          -100 105 105 vlineto
           hintmask 10000010
-          -120 hlineto
+          -78 hlineto
           hintmask 01100010
-          160 -120 159 120 vlineto
+          100 -77 95 77 vlineto
           hintmask 00010010
-          160 vlineto
+          100 vlineto
           hintmask 00010001
-          -105 callsubr
+          78 105 -105 hlineto
           hintmask 00100001
-          -160 vlineto
+          -100 vlineto
           hintmask 00100110
-          -86 callsubr
+          -78 -100 -50 100 hlineto
           hintmask 00101000
-          -120 hlineto
+          -77 hlineto
           hintmask 00011000
-          -95 callsubr
+          100 -105 vlineto
           endchar
         </CharString>
         <CharString name="y">
-          -320 161 159 161 -1 161 480 -20 hstemhm
-          0 161 -41 281 -41 281 -161 161 hintmask 10110101
-          120 -320 rmoveto
-          401 160 120 961 -161 -480 hlineto
+          -201 105 95 105 -5 105 300 -20 hstemhm
+          66 105 -28 183 -28 183 -105 105 hintmask 10110101
+          143 -201 rmoveto
+          260 100 78 605 -105 -300 hlineto
           hintmask 10111010
-          -120 hlineto
+          -78 hlineto
           hintmask 11011010
-          -160 -199 640 -161 vlineto
+          -100 -127 400 -105 vlineto
           hintmask 10111000
-          -641 vlineto
+          -405 vlineto
           hintmask 10110101
-          120 hlineto
+          77 hlineto
           hintmask 11010101
-          -83 callsubr
+          -103 callsubr
           hintmask 10110101
-          160 79 -319 -360 vlineto
+          100 50 -195 -233 vlineto
           endchar
         </CharString>
         <CharString name="z">
-          0 161 159 161 159 161 hstemhm
-          120 161 -41 161 -41 161 cntrmask 11100000
-          hintmask 11110100
-          640 vmoveto
-          120 0 161 0 79 0 0 -159 rlineto
+          -1 105 95 105 95 105 hstemhm
+          143 105 -27 105 -28 105 cntrmask 11100000
+          hintmask 11100100
+          66 399 rmoveto
+          232 -95 hlineto
           hintmask 11101000
-          -101 callsubr
+          -77 -100 hlineto
           hintmask 11110000
-          -120 -160 -120 -161 120 hlineto
-          41 0 rlineto
+          -78 -100 -77 -105 77 hlineto
+          28 0 rlineto
           hintmask 11101000
-          79 0 rlineto
+          50 0 rlineto
           hintmask 11110100
-          -93 callsubr
+          27 0 50 0 rlineto
           hintmask 11101000
-          -93 callsubr
+          28 0 50 0 rlineto
           hintmask 11110100
-          41 0 120 0 0 161 -360 0 0 159 rlineto
+          27 0 78 0 0 105 -233 0 0 95 rlineto
           hintmask 11101000
-          -97 callsubr
-          hintmask 11110100
-          120 160 120 161 -641 hlineto
+          78 100 hlineto
+          hintmask 11100100
+          77 100 78 105 -415 hlineto
           endchar
         </CharString>
         <CharString name="zero">
-          0 161 159 161 -1 161 -1 161 159 161 hstemhm
-          0 281 -281 161 -41 401 -281 161 -41 281 -161 161 hintmask 1001100000100000
-          480 960 rmoveto
-          -159 vlineto
+          -1 105 95 105 -5 105 -5 105 95 105 hstemhm
+          66 182 -182 105 -28 260 -182 105 -28 183 -105 105 hintmask 1001100000100000
+          376 599 rmoveto
+          -95 vlineto
           hintmask 1001100001000000
-          -120 hlineto
+          -78 hlineto
           hintmask 1010100001000000
-          -160 vlineto
+          -100 vlineto
           hintmask 1010101010100000
-          -120 hlineto
+          -77 hlineto
           hintmask 1101101010100000
-          -160 -79 479 79 vlineto
+          -100 -50 295 vlineto
           hintmask 1000100100000000
-          -120 161 rmoveto
-          -160 vlineto
+          -28 105 rmoveto
+          -100 vlineto
           hintmask 1000101000000000
-          -120 -801 hlineto
+          -77 -505 hlineto
           hintmask 1000100100000000
-          -99 callsubr
+          77 -100 hlineto
           hintmask 1000100010000000
-          120 0 rlineto
+          78 0 rlineto
           hintmask 1000110001000000
-          -93 callsubr
+          27 0 50 0 rlineto
           hintmask 1000100010000000
-          41 0 rlineto
+          28 0 rlineto
           hintmask 1000100100000000
-          -97 callsubr
+          77 100 hlineto
           hintmask 1000100000100000
-          120 801 hlineto
+          78 505 hlineto
           hintmask 1000100100000000
-          -96 callsubr
+          -78 100 hlineto
           hintmask 1101101010100000
-          -120 -481 rmoveto
-          79 -479 -319 159 hlineto
+          -77 -305 rmoveto
+          50 -295 -205 95 hlineto
           hintmask 1100110000000000
-          120 hlineto
+          77 hlineto
           hintmask 1010110000000000
-          160 vlineto
+          100 vlineto
           hintmask 1010101010100000
-          120 hlineto
+          78 hlineto
           endchar
         </CharString>
       </CharStrings>

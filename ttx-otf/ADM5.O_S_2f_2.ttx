@@ -3,20 +3,20 @@
 
   <OS_2>
     <version value="4"/>
-    <xAvgCharWidth value="858"/>
+    <xAvgCharWidth value="542"/>
     <usWeightClass value="400"/>
     <usWidthClass value="5"/>
     <fsType value="00000000 00000000"/>
-    <ySubscriptXSize value="1300"/>
-    <ySubscriptYSize value="1400"/>
+    <ySubscriptXSize value="642"/>
+    <ySubscriptYSize value="691"/>
     <ySubscriptXOffset value="0"/>
-    <ySubscriptYOffset value="280"/>
-    <ySuperscriptXSize value="1300"/>
-    <ySuperscriptYSize value="1400"/>
+    <ySubscriptYOffset value="138"/>
+    <ySuperscriptXSize value="642"/>
+    <ySuperscriptYSize value="691"/>
     <ySuperscriptXOffset value="0"/>
-    <ySuperscriptYOffset value="960"/>
-    <yStrikeoutSize value="99"/>
-    <yStrikeoutPosition value="517"/>
+    <ySuperscriptYOffset value="474"/>
+    <yStrikeoutSize value="49"/>
+    <yStrikeoutPosition value="255"/>
     <sFamilyClass value="0"/>
     <panose>
       <bFamilyType value="2"/>
@@ -38,15 +38,15 @@
     <fsSelection value="00000000 10000000"/>
     <fsFirstCharIndex value="32"/>
     <fsLastCharIndex value="57523"/>
-    <sTypoAscender value="1600"/>
-    <sTypoDescender value="-400"/>
-    <sTypoLineGap value="180"/>
-    <usWinAscent value="1121"/>
-    <usWinDescent value="320"/>
+    <sTypoAscender value="830"/>
+    <sTypoDescender value="-158"/>
+    <sTypoLineGap value="89"/>
+    <usWinAscent value="804"/>
+    <usWinDescent value="201"/>
     <ulCodePageRange1 value="00000000 00000000 00000000 00000001"/>
     <ulCodePageRange2 value="00000000 00000000 00000000 00000000"/>
-    <sxHeight value="801"/>
-    <sCapHeight value="1121"/>
+    <sxHeight value="504"/>
+    <sCapHeight value="704"/>
     <usDefaultChar value="32"/>
     <usBreakChar value="32"/>
     <usMaxContex value="1"/>
