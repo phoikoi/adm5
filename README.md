@@ -8,6 +8,10 @@ you may be better off using another typeface for those, as the
 versions here are necessarily crude, limited as they are by the
 5x7 matrix of the source bitmaps.
 
+## Sample
+
+![ADM Font Sample](ADM5.png)
+
 ## Building the font
 
 The font glyphs are defined (fairly obviously) in the [data.py](data.py)
